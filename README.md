@@ -6,7 +6,7 @@
 
 > Harden the system. Protect the connection. Restrict the infrastructure. Test the weaknesses. Verify the protection.
 
-<!-- IMAGE SLOT 01 — Original PDF page 1: Company profile cover. Image filename to be supplied later. -->
+![Company profile cover](company-profile-images/1.png)
 
 ## Company Information
 
@@ -70,7 +70,7 @@ Beyond commercial services, ELITE CYBERSECURITY SPECIALIST independently funds e
 
 > We do not secure only one component. We secure the complete environment.
 
-<!-- IMAGE SLOT 02 — Original PDF page 5: Company founder / cybersecurity skill-level portrait. Image filename to be supplied later. -->
+![Company founder and cybersecurity profile](company-profile-images/2.png)
 
 ---
 
@@ -95,7 +95,7 @@ Our services are intended for individuals and organizations that handle sensitiv
 
 ## Our Core Services
 
-<!-- IMAGE SLOT 03 — Original PDF page 7: Core services infographic. Image filename to be supplied later. -->
+![Core cybersecurity services](company-profile-images/3.png)
 
 | Service Area | What We Do |
 |---|---|
@@ -147,7 +147,7 @@ Selected high-security principles are used for endpoint protection, private-serv
 
 ## Defensive System Hardening
 
-<!-- IMAGE SLOT 04 — Original PDF page 9: Defensive system hardening infographic. Image filename to be supplied later. -->
+![Defensive system hardening](company-profile-images/4.png)
 
 System hardening is the process of reducing the number of ways a system can be attacked, misused or accidentally exposed. We start by understanding what the customer actually needs the system to do, then secure the operating system, applications, accounts, network paths and management interfaces around that purpose.
 
@@ -217,7 +217,7 @@ The computer system's configuration must also align with connected services such
 
 ## Custom Secure Android Phones
 
-<!-- IMAGE SLOT 05 — Original PDF page 12: Custom Secure Android Phones architecture infographic. Image filename to be supplied later. -->
+![Custom secure Android phones](company-profile-images/5.png)
 
 Custom Secure Android Phones are configured for customers who require substantially stronger mobile privacy, device security and communication protection than a conventional smartphone. The service is intended for executives, VIPs, high-profile families, journalists, legal professionals, security teams, public officials and future authorized government or law-enforcement deployments.
 
@@ -268,7 +268,7 @@ The following proof-of-concept examples show how individual hardening controls c
 
 ### Method 1 — Secure Public Internet
 
-<!-- IMAGE SLOT 06 — Original PDF page 14: Master Anonymity & Defensive Hardening / public internet architecture diagram. Image filename to be supplied later. -->
+![Secure public internet architecture](company-profile-images/6.png)
 
 This method is intended for organizations that still require a normal public website accessible through ordinary browsers and a standard web address. The website remains public, while the private origin, administration path and payment environment are separated and protected.
 
@@ -283,7 +283,7 @@ This method is intended for organizations that still require a normal public web
 
 ### Method 2 — Tor Private Internet
 
-<!-- IMAGE SLOT 07 — Original PDF page 15: Master Anonymity & Defensive Hardening / Tor-only private architecture diagram. Image filename to be supplied later. -->
+![Tor private internet architecture](company-profile-images/7.png)
 
 This method is intended for customers who require a much more private online environment where the service does not need conventional public-web exposure. Users access the service through Tor Browser using an onion address rather than a normal public website.
 
@@ -304,7 +304,7 @@ Sensitive environments may require stronger separation between ordinary communic
 
 ## Penetration Testing & Security Assessment
 
-<!-- IMAGE SLOT 08 — Original PDF page 16: Penetration Testing & Security Assessments infographic. Image filename to be supplied later. -->
+![Penetration testing and security assessment](company-profile-images/8.png)
 
 Building a hardened environment is only one side of cybersecurity. The other side is testing it. Our penetration-testing methodology evaluates systems from an attacker's perspective so weaknesses can be found before they are exploited in the real world.
 
@@ -364,7 +364,7 @@ Our assessment methodology can reference OWASP for web and application risks, MI
 
 ## Custom Secure Websites
 
-<!-- IMAGE SLOT 09 — Original PDF page 18: Custom Secure Websites infographic. Image filename to be supplied later. -->
+![Custom secure websites](company-profile-images/9.png)
 
 We design and develop custom websites where security is considered from the first line of code instead of being added only after launch. The objective is to combine clean development, practical business functionality and a stronger defensive foundation.
 
@@ -403,7 +403,7 @@ PLAN → DESIGN → DEVELOP → HARDEN → PENETRATION TEST → DEPLOY → MAINT
 
 ## University Seminars
 
-<!-- IMAGE SLOT 10 — Original PDF page 20: University Cybersecurity Seminar infographic. Image filename to be supplied later. -->
+![University cybersecurity seminars](company-profile-images/10.png)
 
 We plan to conduct a **3-day cybersecurity seminar covering 25 crucial subjects** designed to prepare university students for real industry standards, working practices and expectations. The seminar is intended to bridge the gap between academic learning and the way cybersecurity projects are actually scoped, operated and tested in the industry.
 
@@ -476,7 +476,7 @@ Security effectiveness also depends on customer behavior, operational discipline
 
 ## Cybersecurity System Development
 
-<!-- IMAGE SLOT 11 — Original PDF page 23: Cybersecurity System Development infographic. Image filename to be supplied later. -->
+![Cybersecurity system development](company-profile-images/11.png)
 
 ELITE CYBERSECURITY SPECIALIST is **not a general software-development company**. Our development work is focused specifically on systems related to cybersecurity.
 
@@ -552,4 +552,4 @@ Cybersecurity Engineer · Founder
 
 ---
 
-<sub>ELITE CYBERSECURITY SPECIALIST | Company Profile | October 2026. Content converted from the supplied 25-page company profile. Image positions are intentionally left as HTML comments until the final numbered assets are supplied.</sub>
+<sub>ELITE CYBERSECURITY SPECIALIST | Company Profile | October 2026. Content converted from the supplied 25-page company profile. All 11 profile illustrations are linked to files in company-profile-images/.</sub>
