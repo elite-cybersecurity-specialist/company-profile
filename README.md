@@ -1,3 +1,11 @@
+## Company Profile — PDF Version
+
+[**View Company Profile (PDF)**](./YUHISERN-COMPANY-PROFILE.v2.pdf)
+
+[**Download Company Profile (PDF)**](https://raw.githubusercontent.com/elite-cybersecurity-specialist/company-profile/main/YUHISERN-COMPANY-PROFILE.v2.pdf)
+
+---
+
 # ELITE CYBERSECURITY SPECIALIST
 
 **Company Profile | October 2026**
