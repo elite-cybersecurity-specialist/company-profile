@@ -8,15 +8,6 @@
 
 ![Company profile cover](company-profile-images/1-cover.png)
 
-<!--
-PDF COMPANY PROFILE: Enable the two links after YUHISERN-COMPANY-PROFILE.v2.pdf is added to the repository root.
-
-## Company Profile — PDF Version
-
-[**View Company Profile (PDF)**](./YUHISERN-COMPANY-PROFILE.v2.pdf)
-
-[**Download Company Profile (PDF)**](https://raw.githubusercontent.com/elite-cybersecurity-specialist/company-profile/main/YUHISERN-COMPANY-PROFILE.v2.pdf)
--->
 
 ## Contents
 
@@ -27,8 +18,9 @@ PDF COMPANY PROFILE: Enable the two links after YUHISERN-COMPANY-PROFILE.v2.pdf 
 - [Our Core Services](#our-core-services)
 - [Defensive System Hardening](#defensive-system-hardening)
 - [Custom Secure Android Phones](#custom-secure-android-phones)
-- [POC Examples: System Hardening & Anonymity](#poc-examples-system-hardening--anonymity)
 - [Custom Secure Websites](#custom-secure-websites)
+  - [Method 1 — Secure Public Internet](#method-1--secure-public-internet)
+  - [Method 2 — Tor Private Internet](#method-2--tor-private-internet)
 - [Penetration Testing & Security Assessment](#penetration-testing--security-assessment)
 - [Cybersecurity System Development](#cybersecurity-system-development)
 - [University Seminars](#university-seminars)
@@ -237,7 +229,13 @@ Supported Pixel Hardware → GrapheneOS → Re-Locked Bootloader
 
 ---
 
-## POC Examples: System Hardening & Anonymity
+## Custom Secure Websites
+
+We design and develop custom websites where security is considered from the first line of code instead of being added only after launch. The objective is to combine clean development, practical business functionality and a stronger defensive foundation.
+
+> **Our advantage:** We code with mad security.
+
+### Website Security Architecture — System Hardening & Anonymity
 
 The following proof-of-concept examples show how individual hardening controls can be connected into a larger privacy and infrastructure-protection architecture. The diagrams are designed to help customers understand the full flow without publishing sensitive implementation details.
 
@@ -249,7 +247,7 @@ The following proof-of-concept examples show how individual hardening controls c
 | High Security Armoured Website | Put defensive layers in front of the public application, reduce origin exposure, harden headers and limit unnecessary functionality and data. |
 | High Security Payment Gateway | Separate payment processing from the website wherever practical and protect payment administration with strong account security. |
 
-### Method 1 — Secure Public Internet
+#### Method 1 — Secure Public Internet
 
 ![Secure public internet architecture](company-profile-images/7-anonimity.png)
 
@@ -264,7 +262,7 @@ This method is intended for organizations that still require a normal public web
 | 5 | High Security Armoured Website | Minimal customer-facing application with reduced unnecessary exposure. |
 | 6 | High Security Payment Gateway | Hosted payment flow separated from the website and protected by strong account security. |
 
-### Method 2 — Tor Private Internet
+#### Method 2 — Tor Private Internet
 
 ![Tor private internet architecture](company-profile-images/8-tor.png)
 
@@ -279,19 +277,13 @@ This method is intended for customers who require a much more private online env
 | 5 | High Security Armoured Hidden Website | Minimal hidden application with reduced exposure and hardened configuration. |
 | 6 | Cryptocurrency Payment Environment | Wallet or processor workflow selected according to the customer's lawful business requirements. |
 
-### Secure Communications & Administrative Separation
+#### Secure Communications & Administrative Separation
 
 Sensitive environments may require stronger separation between ordinary communications and protected communications. Depending on customer requirements, this can include compartmentalized accounts, encrypted communication platforms, isolated browser profiles, separate administrator identities, contact verification and restricted devices.
 
----
-
-## Custom Secure Websites
+### Custom Website Types & Applications
 
 ![Custom secure websites](company-profile-images/9-secure-websites.png)
-
-We design and develop custom websites where security is considered from the first line of code instead of being added only after launch. The objective is to combine clean development, practical business functionality and a stronger defensive foundation.
-
-> **Our advantage:** We code with mad security.
 
 | Website Type | Customer-Focused Purpose |
 |---|---|
@@ -576,8 +568,4 @@ Cybersecurity Engineer · Founder
 
 ---
 
-<sub>ELITE CYBERSECURITY SPECIALIST | Company Profile | October 2026. Content converted from the supplied 25-page company profile. All 11 profile illustrations are linked to files in company-profile-images/.</sub>
-
----
-
-<sub>ELITE CYBERSECURITY SPECIALIST | Company Profile | October 2026. Content converted from the supplied 25-page company profile. All 12 profile illustrations are linked to files in company-profile-images/.</sub>
+<sub>ELITE CYBERSECURITY SPECIALIST | Company Profile | October 2026. GitHub README edition. All 12 company profile illustrations are linked to files in company-profile-images/.</sub>
