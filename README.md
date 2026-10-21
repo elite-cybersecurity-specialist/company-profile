@@ -21,8 +21,8 @@
 - [Custom Secure Websites](#custom-secure-websites)
   - [Method 1 — Secure Public Internet](#method-1--secure-public-internet)
   - [Method 2 — Tor Private Internet](#method-2--tor-private-internet)
-- [Penetration Testing & Security Assessment](#penetration-testing--security-assessment)
 - [Cybersecurity System Development](#cybersecurity-system-development)
+- [Penetration Testing & Security Assessment](#penetration-testing--security-assessment)
 - [University Seminars](#university-seminars)
 - [Independent Self-Funded Research & Development](#independent-self-funded-research--development)
 - [Our Working Method](#our-working-method)
@@ -231,6 +231,8 @@ Supported Pixel Hardware → GrapheneOS → Re-Locked Bootloader
 
 ## Custom Secure Websites
 
+![Custom secure websites](company-profile-images/9-secure-websites.png)
+
 We design and develop custom websites where security is considered from the first line of code instead of being added only after launch. The objective is to combine clean development, practical business functionality and a stronger defensive foundation.
 
 > **Our advantage:** We code with mad security.
@@ -283,8 +285,6 @@ Sensitive environments may require stronger separation between ordinary communic
 
 ### Custom Website Types & Applications
 
-![Custom secure websites](company-profile-images/9-secure-websites.png)
-
 | Website Type | Customer-Focused Purpose |
 |---|---|
 | Informational Websites | Secure public information, company profiles, services and professional online presence. |
@@ -313,6 +313,26 @@ Sensitive environments may require stronger separation between ordinary communic
 ```text
 PLAN → DESIGN → DEVELOP → HARDEN → PENETRATION TEST → DEPLOY → MAINTAIN
 ```
+
+---
+
+## Cybersecurity System Development
+
+![Cybersecurity system development](company-profile-images/11-system-developing.png)
+
+ELITE CYBERSECURITY SPECIALIST is **not a general software-development company**. Our development work is focused specifically on systems related to cybersecurity.
+
+This can include security automation, defensive systems, autonomous security technology, cybersecurity AI, monitoring systems, attack-surface analysis, penetration-testing technology, security analytics, access-control systems and other specialized cybersecurity tools.
+
+Where we develop a cybersecurity system, we can apply the same security lifecycle used elsewhere in the company: design the system, harden it, penetration-test it, remediate weaknesses and verify the final security state.
+
+> **Development principle:** Security should be designed into the system from the beginning, not added only after the system is already finished.
+
+```text
+DEVELOP → HARDEN → TEST → VERIFY → IMPROVE
+```
+
+A cybersecurity system is not considered finished simply because it runs. It should also withstand security review and authorized attack testing.
 
 ---
 
@@ -373,26 +393,6 @@ The report provides the customer with a clear record of what was tested, what wa
 Our assessment methodology can reference OWASP for web and application risks, MITRE ATT&CK for realistic attacker behavior, CIS and NIST for defensive controls, and DISA STIG / SRG principles for high-security hardening objectives.
 
 > **What matters:** The purpose is not to tick boxes. The purpose is to understand whether a real attacker can find a path through the environment, what that path could achieve, whether the weakness is real and whether the final fix actually stops it.
-
----
-
-## Cybersecurity System Development
-
-![Cybersecurity system development](company-profile-images/11-system-developing.png)
-
-ELITE CYBERSECURITY SPECIALIST is **not a general software-development company**. Our development work is focused specifically on systems related to cybersecurity.
-
-This can include security automation, defensive systems, autonomous security technology, cybersecurity AI, monitoring systems, attack-surface analysis, penetration-testing technology, security analytics, access-control systems and other specialized cybersecurity tools.
-
-Where we develop a cybersecurity system, we can apply the same security lifecycle used elsewhere in the company: design the system, harden it, penetration-test it, remediate weaknesses and verify the final security state.
-
-> **Development principle:** Security should be designed into the system from the beginning, not added only after the system is already finished.
-
-```text
-DEVELOP → HARDEN → TEST → VERIFY → IMPROVE
-```
-
-A cybersecurity system is not considered finished simply because it runs. It should also withstand security review and authorized attack testing.
 
 ---
 
