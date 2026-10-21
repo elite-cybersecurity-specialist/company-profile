@@ -1,15 +1,29 @@
-# ELITE CYBERSECURITY SPECIALIST
+<p align="center">
+  <img src="company-profile-images/1-cover.png" alt="ELITE CYBERSECURITY SPECIALIST company profile cover" width="100%">
+</p>
 
-**Company Profile | October 2026**
+<h1 align="center">ELITE CYBERSECURITY SPECIALIST</h1>
 
-**[Download Company Profile](https://github.com/elite-cybersecurity-specialist/company-profile/raw/refs/heads/main/pdf/ECS_Company_Profile.pdf)** · **[View Other Cybersecurity Subjects](https://github.com/elite-cybersecurity-specialist)**
+<p align="center"><strong>Company Profile | October 2026</strong></p>
 
-**HARDEN. TEST. VERIFY. IMPROVE.**
+<p align="center">
+  <img src="company-profile-images/3-name-card.png" alt="Official company name card" width="720">
+</p>
 
+<p align="center">
+  <a href="https://github.com/elite-cybersecurity-specialist/company-profile/raw/refs/heads/main/pdf/ECS_Company_Profile.pdf"><strong>Download Company Profile</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/elite-cybersecurity-specialist"><strong>View Other Cybersecurity Subjects</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:Yuhisern@protonmail.com"><strong>Contact ECS</strong></a>
+</p>
+
+> [!NOTE]
+> **HARDEN. TEST. VERIFY. IMPROVE.**
+>
 > Harden the system. Protect the connection. Restrict the infrastructure. Test the weaknesses. Verify the protection.
 
-![Company profile cover](company-profile-images/1-cover.png)
-
+---
 
 ## Contents
 
@@ -39,7 +53,9 @@
 
 ## Founder Introduction
 
-![Company founder and cybersecurity profile](company-profile-images/2-founder-intro.png)
+<p align="center">
+  <img src="company-profile-images/2-founder-intro.png" alt="Company founder and cybersecurity profile" width="100%">
+</p>
 
 **Yuhisern Navaratnam** — Cybersecurity Engineer · Founder of ELITE CYBERSECURITY SPECIALIST.
 
@@ -55,8 +71,6 @@
 | **Email** | [Yuhisern@protonmail.com](mailto:Yuhisern@protonmail.com) |
 | **Phone / WhatsApp** | [+60 17-279 1717](https://wa.me/60172791717) |
 | **Country** | Malaysia |
-
-![Official company name card](company-profile-images/3-name-card.png)
 
 ---
 
@@ -82,8 +96,10 @@ We also develop specialized cybersecurity systems rather than operating as a gen
 
 Beyond commercial services, ELITE CYBERSECURITY SPECIALIST independently funds experimental research and development projects intended to explore new approaches in cybersecurity, autonomous systems and other technology fields.
 
-**Our objective:** Reduce unnecessary exposure, strengthen critical systems, improve resilience, protect sensitive operations and make every environment significantly harder to compromise.
+> [!NOTE]
+> **Our objective:** Reduce unnecessary exposure, strengthen critical systems, improve resilience, protect sensitive operations and make every environment significantly harder to compromise.
 
+> [!NOTE]
 > We do not secure only one component. We secure the complete environment.
 
 ---
@@ -109,7 +125,9 @@ Our services are intended for individuals and organizations that handle sensitiv
 
 ## Our Core Services
 
-![Core cybersecurity services](company-profile-images/4-main.png)
+<p align="center">
+  <img src="company-profile-images/4-main.png" alt="Core cybersecurity services" width="100%">
+</p>
 
 | Service Area | What We Do |
 |---|---|
@@ -124,12 +142,15 @@ Our services are intended for individuals and organizations that handle sensitiv
 
 ## Defensive System Hardening
 
-![Defensive system hardening](company-profile-images/5-system-hardening.png)
+<p align="center">
+  <img src="company-profile-images/5-system-hardening.png" alt="Defensive system hardening" width="100%">
+</p>
 
 System hardening is the process of reducing the number of ways a system can be attacked, misused or accidentally exposed. We start by understanding what the customer actually needs the system to do, then secure the operating system, applications, accounts, network paths and management interfaces around that purpose.
 
 The aim is not to lock down a system until it becomes unusable. The aim is to remove unnecessary exposure, strengthen the controls that must remain, and verify that the environment still works correctly after the security changes are applied.
 
+> [!NOTE]
 > **Our hardening principle:** Keep what is required. Restrict what is sensitive. Remove what is unnecessary. Verify everything that changes.
 
 ### What We Can Harden
@@ -194,7 +215,9 @@ The computer system's configuration must also align with connected services such
 
 ## Custom Secure Android Phones
 
-![Custom secure Android phones](company-profile-images/6-custom-phones.png)
+<p align="center">
+  <img src="company-profile-images/6-custom-phones.png" alt="Custom secure Android phones" width="100%">
+</p>
 
 Custom Secure Android Phones are configured for customers who require substantially stronger mobile privacy, device security and communication protection than a conventional smartphone. The service is intended for executives, VIPs, high-profile families, journalists, legal professionals, security teams, public officials and future authorized government or law-enforcement deployments.
 
@@ -233,10 +256,13 @@ Supported Pixel Hardware → GrapheneOS → Re-Locked Bootloader
 
 ## Custom Secure Websites
 
-![Custom secure websites](company-profile-images/9-secure-websites.png)
+<p align="center">
+  <img src="company-profile-images/9-secure-websites.png" alt="Custom secure websites" width="100%">
+</p>
 
 We design and develop custom websites where security is considered from the first line of code instead of being added only after launch. The objective is to combine clean development, practical business functionality and a stronger defensive foundation.
 
+> [!NOTE]
 > **Our advantage:** We code with mad security.
 
 ### Website Security Architecture — System Hardening & Anonymity
@@ -253,7 +279,9 @@ The following proof-of-concept examples show how individual hardening controls c
 
 #### Method 1 — Secure Public Internet
 
-![Secure public internet architecture](company-profile-images/7-anonimity.png)
+<p align="center">
+  <img src="company-profile-images/7-anonimity.png" alt="Secure public internet architecture" width="100%">
+</p>
 
 This method is intended for organizations that still require a normal public website accessible through ordinary browsers and a standard web address. The website remains public, while the private origin, administration path and payment environment are separated and protected.
 
@@ -268,7 +296,9 @@ This method is intended for organizations that still require a normal public web
 
 #### Method 2 — Tor Private Internet
 
-![Tor private internet architecture](company-profile-images/8-tor.png)
+<p align="center">
+  <img src="company-profile-images/8-tor.png" alt="Tor private internet architecture" width="100%">
+</p>
 
 This method is intended for customers who require a much more private online environment where the service does not need conventional public-web exposure. Users access the service through Tor Browser using an onion address rather than a normal public website.
 
@@ -320,7 +350,9 @@ PLAN → DESIGN → DEVELOP → HARDEN → PENETRATION TEST → DEPLOY → MAINT
 
 ## Cybersecurity System Development
 
-![Cybersecurity system development](company-profile-images/11-system-developing.png)
+<p align="center">
+  <img src="company-profile-images/11-system-developing.png" alt="Cybersecurity system development" width="100%">
+</p>
 
 ELITE CYBERSECURITY SPECIALIST is **not a general software-development company**. Our development work is focused specifically on systems related to cybersecurity.
 
@@ -328,6 +360,7 @@ This can include security automation, defensive systems, autonomous security tec
 
 Where we develop a cybersecurity system, we can apply the same security lifecycle used elsewhere in the company: design the system, harden it, penetration-test it, remediate weaknesses and verify the final security state.
 
+> [!NOTE]
 > **Development principle:** Security should be designed into the system from the beginning, not added only after the system is already finished.
 
 ```text
@@ -340,7 +373,9 @@ A cybersecurity system is not considered finished simply because it runs. It sho
 
 ## Penetration Testing & Security Assessment
 
-![Penetration testing and security assessment](company-profile-images/10-penetration-testing.png)
+<p align="center">
+  <img src="company-profile-images/10-penetration-testing.png" alt="Penetration testing and security assessment" width="100%">
+</p>
 
 Building a hardened environment is only one side of cybersecurity. The other side is testing it. Our penetration-testing methodology evaluates systems from an attacker's perspective so weaknesses can be found before they are exploited in the real world.
 
@@ -394,13 +429,16 @@ The report provides the customer with a clear record of what was tested, what wa
 
 Our assessment methodology can reference OWASP for web and application risks, MITRE ATT&CK for realistic attacker behavior, CIS and NIST for defensive controls, and DISA STIG / SRG principles for high-security hardening objectives.
 
+> [!NOTE]
 > **What matters:** The purpose is not to tick boxes. The purpose is to understand whether a real attacker can find a path through the environment, what that path could achieve, whether the weakness is real and whether the final fix actually stops it.
 
 ---
 
 ## University Seminars
 
-![University cybersecurity seminars](company-profile-images/12-university-seminar.png)
+<p align="center">
+  <img src="company-profile-images/12-university-seminar.png" alt="University cybersecurity seminars" width="100%">
+</p>
 
 We plan to conduct a **3-day cybersecurity seminar covering 25 crucial subjects** designed to prepare university students for real industry standards, working practices and expectations. The seminar is intended to bridge the gap between academic learning and the way cybersecurity projects are actually scoped, operated and tested in the industry.
 
@@ -540,6 +578,7 @@ Customers should understand how their protection works. That does not mean every
 
 Sensitive engineering information can include firewall rule sets, infrastructure addresses, private keys, recovery information, account credentials, internal security exceptions, detailed vulnerability information, onion-service secrets, backup locations and internal hardening scripts.
 
+> [!NOTE]
 > **Protection of the blueprint:** The customer can understand the architecture in full without publishing the exact implementation details required to reproduce or attack it.
 
 ---
@@ -565,9 +604,11 @@ Cybersecurity Engineer · Founder
 **Email:** [Yuhisern@protonmail.com](mailto:Yuhisern@protonmail.com)  
 **WhatsApp:** [+60 17-279 1717](https://wa.me/60172791717)
 
+> [!NOTE]
 > **HARDEN. TEST. VERIFY. IMPROVE.**  
 > We do not focus on a single security product. We focus on the complete environment — from the device in the customer's hands to the connection, private infrastructure, website, payment environment and specialized cybersecurity systems behind it.
 
 ---
 
 <sub>ELITE CYBERSECURITY SPECIALIST | Company Profile | October 2026. GitHub README edition. All 12 company profile illustrations are linked to files in company-profile-images/.</sub>
+
