@@ -1,11 +1,3 @@
-## Company Profile — PDF Version
-
-[**View Company Profile (PDF)**](./YUHISERN-COMPANY-PROFILE.v2.pdf)
-
-[**Download Company Profile (PDF)**](https://raw.githubusercontent.com/elite-cybersecurity-specialist/company-profile/main/YUHISERN-COMPANY-PROFILE.v2.pdf)
-
----
-
 # ELITE CYBERSECURITY SPECIALIST
 
 **Company Profile | October 2026**
@@ -14,7 +6,50 @@
 
 > Harden the system. Protect the connection. Restrict the infrastructure. Test the weaknesses. Verify the protection.
 
-![Company profile cover](company-profile-images/1.png)
+![Company profile cover](company-profile-images/1-cover.png)
+
+<!--
+PDF COMPANY PROFILE: Enable the two links after YUHISERN-COMPANY-PROFILE.v2.pdf is added to the repository root.
+
+## Company Profile — PDF Version
+
+[**View Company Profile (PDF)**](./YUHISERN-COMPANY-PROFILE.v2.pdf)
+
+[**Download Company Profile (PDF)**](https://raw.githubusercontent.com/elite-cybersecurity-specialist/company-profile/main/YUHISERN-COMPANY-PROFILE.v2.pdf)
+-->
+
+## Contents
+
+- [Founder Introduction](#founder-introduction)
+- [Company Information](#company-information)
+- [About Us](#about-us)
+- [Who Our Services Are Designed For](#who-our-services-are-designed-for)
+- [Our Core Services](#our-core-services)
+- [Defensive System Hardening](#defensive-system-hardening)
+- [Custom Secure Android Phones](#custom-secure-android-phones)
+- [POC Examples: System Hardening & Anonymity](#poc-examples-system-hardening--anonymity)
+- [Custom Secure Websites](#custom-secure-websites)
+- [Penetration Testing & Security Assessment](#penetration-testing--security-assessment)
+- [Cybersecurity System Development](#cybersecurity-system-development)
+- [University Seminars](#university-seminars)
+- [Independent Self-Funded Research & Development](#independent-self-funded-research--development)
+- [Our Working Method](#our-working-method)
+- [Security Guidelines & Industry Frameworks](#security-guidelines--industry-frameworks)
+- [Monitoring, Backup & Incident Response](#monitoring-backup--incident-response)
+- [What Customers May Receive](#what-customers-may-receive)
+- [What We Do Not Publicly Expose](#what-we-do-not-publicly-expose)
+- [Security Reality](#security-reality)
+- [Contact](#contact)
+
+---
+
+## Founder Introduction
+
+![Company founder and cybersecurity profile](company-profile-images/2-founder-intro.png)
+
+**Yuhisern Navaratnam** — Cybersecurity Engineer · Founder of ELITE CYBERSECURITY SPECIALIST.
+
+---
 
 ## Company Information
 
@@ -27,28 +62,7 @@
 | **Phone / WhatsApp** | [+60 17-279 1717](https://wa.me/60172791717) |
 | **Country** | Malaysia |
 
----
-
-## Contents
-
-- [About Us](#about-us)
-- [Who Our Services Are Designed For](#who-our-services-are-designed-for)
-- [Our Core Services](#our-core-services)
-- [Our Working Method](#our-working-method)
-- [Security Guidelines & Industry Frameworks](#security-guidelines--industry-frameworks)
-- [Defensive System Hardening](#defensive-system-hardening)
-- [Custom Secure Android Phones](#custom-secure-android-phones)
-- [POC Examples: System Hardening & Anonymity](#poc-examples-system-hardening--anonymity)
-- [Penetration Testing & Security Assessment](#penetration-testing--security-assessment)
-- [Custom Secure Websites](#custom-secure-websites)
-- [University Seminars](#university-seminars)
-- [Monitoring, Backup & Incident Response](#monitoring-backup--incident-response)
-- [What Customers May Receive](#what-customers-may-receive)
-- [What We Do Not Publicly Expose](#what-we-do-not-publicly-expose)
-- [Security Reality](#security-reality)
-- [Cybersecurity System Development](#cybersecurity-system-development)
-- [Independent Self-Funded Research & Development](#independent-self-funded-research--development)
-- [Contact](#contact)
+![Official company name card](company-profile-images/3-name-card.png)
 
 ---
 
@@ -78,8 +92,6 @@ Beyond commercial services, ELITE CYBERSECURITY SPECIALIST independently funds e
 
 > We do not secure only one component. We secure the complete environment.
 
-![Company founder and cybersecurity profile](company-profile-images/2.png)
-
 ---
 
 ## Who Our Services Are Designed For
@@ -103,7 +115,7 @@ Our services are intended for individuals and organizations that handle sensitiv
 
 ## Our Core Services
 
-![Core cybersecurity services](company-profile-images/3.png)
+![Core cybersecurity services](company-profile-images/4-main.png)
 
 | Service Area | What We Do |
 |---|---|
@@ -116,46 +128,9 @@ Our services are intended for individuals and organizations that handle sensitiv
 
 ---
 
-## Our Working Method
-
-We prefer a working cycle that customers can understand and that our engineers can verify at every stage.
-
-```text
-HARDEN → TEST → VALIDATE → REMEDIATE → RE-TEST → MAINTAIN
-```
-
-Security is not treated as a one-time installation. Every important change should be tested, verified and maintained.
-
-## Security Guidelines & Industry Frameworks
-
-Our work is informed by recognized cybersecurity standards, benchmarks and defensive frameworks. We do not blindly apply every control from every framework. Different operating systems, applications and environments require different approaches.
-
-| Framework | How It Guides Our Work |
-|---|---|
-| CIS Controls & CIS Benchmarks | Secure configuration, account protection, software management, network security, logging, backups and service reduction. |
-| DISA STIG / SRG Security Principles | High-security operating-system, firewall, DNS, VPN, web-server, authentication, audit and system-integrity objectives, adapted to the actual platform. |
-| NIST Cybersecurity Framework 2.0 | Govern, Identify, Protect, Detect, Respond and Recover. |
-| NIST SP 800-53 | Selected access-control, authentication, configuration, audit, communications and incident-response principles. |
-| NIST Zero Trust SP 800-207 | Authenticate and authorize access instead of assuming trust based only on network location. |
-| OWASP Top 10 | Major web-application security risks and defensive testing priorities. |
-| OWASP ASVS | Deeper application-security verification requirements where appropriate. |
-| OWASP API Security | API-specific authentication, authorization, data-access and abuse risks where APIs exist. |
-| MITRE ATT&CK | Threat-informed understanding of realistic attacker techniques and possible attack paths. |
-| NIST SSDF SP 800-218 | Secure software-development, dependency and deployment practices. |
-| CISA Secure by Design | Reduce default exposure and build security into the architecture from the beginning. |
-| ISO/IEC 27001 & 27002 Principles | Relevant organizational and information-security principles where appropriate to the customer environment. |
-
-### DISA STIG / SRG-Aligned Defensive Hardening
-
-Selected high-security principles are used for endpoint protection, private-server security, firewall policy, secure communications, authentication, auditing and system integrity. We adapt them to the actual platform rather than blindly applying incompatible remediation scripts.
-
-**Framework alignment does not automatically mean formal certification.** Formal compliance or certification requires its own defined assessment and evidence process.
-
----
-
 ## Defensive System Hardening
 
-![Defensive system hardening](company-profile-images/4.png)
+![Defensive system hardening](company-profile-images/5-system-hardening.png)
 
 System hardening is the process of reducing the number of ways a system can be attacked, misused or accidentally exposed. We start by understanding what the customer actually needs the system to do, then secure the operating system, applications, accounts, network paths and management interfaces around that purpose.
 
@@ -225,7 +200,7 @@ The computer system's configuration must also align with connected services such
 
 ## Custom Secure Android Phones
 
-![Custom secure Android phones](company-profile-images/5.png)
+![Custom secure Android phones](company-profile-images/6-custom-phones.png)
 
 Custom Secure Android Phones are configured for customers who require substantially stronger mobile privacy, device security and communication protection than a conventional smartphone. The service is intended for executives, VIPs, high-profile families, journalists, legal professionals, security teams, public officials and future authorized government or law-enforcement deployments.
 
@@ -276,7 +251,7 @@ The following proof-of-concept examples show how individual hardening controls c
 
 ### Method 1 — Secure Public Internet
 
-![Secure public internet architecture](company-profile-images/6.png)
+![Secure public internet architecture](company-profile-images/7-anonimity.png)
 
 This method is intended for organizations that still require a normal public website accessible through ordinary browsers and a standard web address. The website remains public, while the private origin, administration path and payment environment are separated and protected.
 
@@ -291,7 +266,7 @@ This method is intended for organizations that still require a normal public web
 
 ### Method 2 — Tor Private Internet
 
-![Tor private internet architecture](company-profile-images/7.png)
+![Tor private internet architecture](company-profile-images/8-tor.png)
 
 This method is intended for customers who require a much more private online environment where the service does not need conventional public-web exposure. Users access the service through Tor Browser using an onion address rather than a normal public website.
 
@@ -310,9 +285,48 @@ Sensitive environments may require stronger separation between ordinary communic
 
 ---
 
+## Custom Secure Websites
+
+![Custom secure websites](company-profile-images/9-secure-websites.png)
+
+We design and develop custom websites where security is considered from the first line of code instead of being added only after launch. The objective is to combine clean development, practical business functionality and a stronger defensive foundation.
+
+> **Our advantage:** We code with mad security.
+
+| Website Type | Customer-Focused Purpose |
+|---|---|
+| Informational Websites | Secure public information, company profiles, services and professional online presence. |
+| Corporate Websites | Business websites with secure administration, clean architecture and professional delivery. |
+| E-Commerce Websites | Product catalogues, checkout integration, order workflows and hosted payment gateways with reduced unnecessary data exposure. |
+| Private Banking Portals | High-trust financial portals and private financial-service environments designed around strong authentication, restricted administration and applicable regulatory requirements. |
+| Deep Web Websites | Informational or lawful e-commerce environments using private-access or onion-service architectures where appropriate. |
+| Membership Portals | Private member areas, restricted content, communities and controlled account access. |
+| Client Dashboards | Secure customer dashboards for information, reporting, workflows and controlled data access. |
+| Booking & Reservation Systems | Appointments, hospitality, events, professional services and reservation workflows. |
+| News / Media Portals | Publishing, journalism and editorial platforms with secure administration and resilient content delivery. |
+| Education Platforms | University, training, research and learning portals with structured user access and secure administration. |
+| Healthcare Portals | Confidential portals and web applications where privacy, controlled access and secure design are especially important. |
+| Custom Web Applications | Purpose-built web systems and interfaces developed around the customer's business requirements and security needs. |
+
+### Security-First Website Development
+
+- Secure code from the ground up, with unnecessary exposure reduced during design rather than only after deployment.
+- Hardened administrative access, strong authentication, encrypted traffic and reduced attack surface.
+- Payment integration designed to keep unnecessary payment data away from the website wherever practical.
+- Logging, monitoring, backups and recovery considered as part of the operating environment.
+- Penetration-test readiness so important weaknesses can be identified and remediated before or after launch.
+
+**Website delivery flow:**
+
+```text
+PLAN → DESIGN → DEVELOP → HARDEN → PENETRATION TEST → DEPLOY → MAINTAIN
+```
+
+---
+
 ## Penetration Testing & Security Assessment
 
-![Penetration testing and security assessment](company-profile-images/8.png)
+![Penetration testing and security assessment](company-profile-images/10-penetration-testing.png)
 
 Building a hardened environment is only one side of cybersecurity. The other side is testing it. Our penetration-testing methodology evaluates systems from an attacker's perspective so weaknesses can be found before they are exploited in the real world.
 
@@ -370,48 +384,29 @@ Our assessment methodology can reference OWASP for web and application risks, MI
 
 ---
 
-## Custom Secure Websites
+## Cybersecurity System Development
 
-![Custom secure websites](company-profile-images/9.png)
+![Cybersecurity system development](company-profile-images/11-system-developing.png)
 
-We design and develop custom websites where security is considered from the first line of code instead of being added only after launch. The objective is to combine clean development, practical business functionality and a stronger defensive foundation.
+ELITE CYBERSECURITY SPECIALIST is **not a general software-development company**. Our development work is focused specifically on systems related to cybersecurity.
 
-> **Our advantage:** We code with mad security.
+This can include security automation, defensive systems, autonomous security technology, cybersecurity AI, monitoring systems, attack-surface analysis, penetration-testing technology, security analytics, access-control systems and other specialized cybersecurity tools.
 
-| Website Type | Customer-Focused Purpose |
-|---|---|
-| Informational Websites | Secure public information, company profiles, services and professional online presence. |
-| Corporate Websites | Business websites with secure administration, clean architecture and professional delivery. |
-| E-Commerce Websites | Product catalogues, checkout integration, order workflows and hosted payment gateways with reduced unnecessary data exposure. |
-| Private Banking Portals | High-trust financial portals and private financial-service environments designed around strong authentication, restricted administration and applicable regulatory requirements. |
-| Deep Web Websites | Informational or lawful e-commerce environments using private-access or onion-service architectures where appropriate. |
-| Membership Portals | Private member areas, restricted content, communities and controlled account access. |
-| Client Dashboards | Secure customer dashboards for information, reporting, workflows and controlled data access. |
-| Booking & Reservation Systems | Appointments, hospitality, events, professional services and reservation workflows. |
-| News / Media Portals | Publishing, journalism and editorial platforms with secure administration and resilient content delivery. |
-| Education Platforms | University, training, research and learning portals with structured user access and secure administration. |
-| Healthcare Portals | Confidential portals and web applications where privacy, controlled access and secure design are especially important. |
-| Custom Web Applications | Purpose-built web systems and interfaces developed around the customer's business requirements and security needs. |
+Where we develop a cybersecurity system, we can apply the same security lifecycle used elsewhere in the company: design the system, harden it, penetration-test it, remediate weaknesses and verify the final security state.
 
-### Security-First Website Development
-
-- Secure code from the ground up, with unnecessary exposure reduced during design rather than only after deployment.
-- Hardened administrative access, strong authentication, encrypted traffic and reduced attack surface.
-- Payment integration designed to keep unnecessary payment data away from the website wherever practical.
-- Logging, monitoring, backups and recovery considered as part of the operating environment.
-- Penetration-test readiness so important weaknesses can be identified and remediated before or after launch.
-
-**Website delivery flow:**
+> **Development principle:** Security should be designed into the system from the beginning, not added only after the system is already finished.
 
 ```text
-PLAN → DESIGN → DEVELOP → HARDEN → PENETRATION TEST → DEPLOY → MAINTAIN
+DEVELOP → HARDEN → TEST → VERIFY → IMPROVE
 ```
+
+A cybersecurity system is not considered finished simply because it runs. It should also withstand security review and authorized attack testing.
 
 ---
 
 ## University Seminars
 
-![University cybersecurity seminars](company-profile-images/10.png)
+![University cybersecurity seminars](company-profile-images/12-university-seminar.png)
 
 We plan to conduct a **3-day cybersecurity seminar covering 25 crucial subjects** designed to prepare university students for real industry standards, working practices and expectations. The seminar is intended to bridge the gap between academic learning and the way cybersecurity projects are actually scoped, operated and tested in the industry.
 
@@ -430,75 +425,6 @@ Students will learn how to build the scope for penetration testing, define autho
 Across the three days, the seminar will cover **25 crucial cybersecurity subjects**, selected to prepare students for practical industry expectations rather than purely academic theory.
 
 **Investment status:** Investor required.
-
----
-
-## Monitoring, Backup & Incident Response
-
-Security does not end when deployment is completed. A protected environment requires continued maintenance, verification and a recovery path when something goes wrong.
-
-| Control Area | Purpose |
-|---|---|
-| Monitoring | Security events, system health, application behavior and unexpected changes. |
-| Integrity Review | Check whether critical configuration, files or services have changed unexpectedly. |
-| Updates | Maintain operating systems, applications and dependencies with controlled security updates. |
-| Encrypted Backups | Keep protected recovery material and configuration backups separate from the production environment. |
-| Recovery Testing | Confirm that backups and rebuild procedures can actually restore the environment. |
-| Incident Response | Contain compromise, revoke access, rotate credentials, preserve evidence and rebuild where necessary. |
-
----
-
-## What Customers May Receive
-
-**Architecture & Hardening:** Security architecture design, system hardening, High Security Laptop configuration, Ghost Connection privacy architecture, Custom Secure Android Phone configuration, private-server hardening, website defensive hardening and payment-environment security.
-
-**Penetration Testing:** Authorized testing, vulnerability validation, remediation recommendations and final re-testing.
-
-**Custom Secure Websites:** Security-first website development, hardened administration, payment integration, deployment hardening and penetration-test readiness for the agreed website scope.
-
-**University Seminars:** Structured 3-day cybersecurity education covering Autonomous Defensive Level 4 AI, system-hardening and anonymity scope building, penetration-testing scope development and 25 crucial industry-focused subjects.
-
-**Operations & Recovery:** Account-security guidance, monitoring design, backup planning, recovery planning and incident-response support where included in scope.
-
-**Development & Documentation:** Cybersecurity system development and customer-facing security documentation for the agreed project scope.
-
----
-
-## What We Do Not Publicly Expose
-
-Customers should understand how their protection works. That does not mean every implementation detail should become public.
-
-Sensitive engineering information can include firewall rule sets, infrastructure addresses, private keys, recovery information, account credentials, internal security exceptions, detailed vulnerability information, onion-service secrets, backup locations and internal hardening scripts.
-
-> **Protection of the blueprint:** The customer can understand the architecture in full without publishing the exact implementation details required to reproduce or attack it.
-
-## Security Reality
-
-No responsible cybersecurity company should promise that a system is impossible to hack. No responsible privacy engineer should promise that a person is impossible to identify under every possible circumstance.
-
-Our objective is to reduce risk aggressively. We design environments to reduce attack surface, unnecessary exposure, weak authentication, infrastructure discovery, identity leakage, insecure configuration and single points of failure.
-
-Security effectiveness also depends on customer behavior, operational discipline, third-party providers, physical control of devices and the absence of endpoint compromise.
-
----
-
-## Cybersecurity System Development
-
-![Cybersecurity system development](company-profile-images/11.png)
-
-ELITE CYBERSECURITY SPECIALIST is **not a general software-development company**. Our development work is focused specifically on systems related to cybersecurity.
-
-This can include security automation, defensive systems, autonomous security technology, cybersecurity AI, monitoring systems, attack-surface analysis, penetration-testing technology, security analytics, access-control systems and other specialized cybersecurity tools.
-
-Where we develop a cybersecurity system, we can apply the same security lifecycle used elsewhere in the company: design the system, harden it, penetration-test it, remediate weaknesses and verify the final security state.
-
-> **Development principle:** Security should be designed into the system from the beginning, not added only after the system is already finished.
-
-```text
-DEVELOP → HARDEN → TEST → VERIFY → IMPROVE
-```
-
-A cybersecurity system is not considered finished simply because it runs. It should also withstand security review and authorized attack testing.
 
 ---
 
@@ -544,6 +470,96 @@ The project is intended **exclusively for authorized cybersecurity testing and r
 
 ---
 
+## Our Working Method
+
+We prefer a working cycle that customers can understand and that our engineers can verify at every stage.
+
+```text
+HARDEN → TEST → VALIDATE → REMEDIATE → RE-TEST → MAINTAIN
+```
+
+Security is not treated as a one-time installation. Every important change should be tested, verified and maintained.
+
+---
+
+## Security Guidelines & Industry Frameworks
+
+Our work is informed by recognized cybersecurity standards, benchmarks and defensive frameworks. We do not blindly apply every control from every framework. Different operating systems, applications and environments require different approaches.
+
+| Framework | How It Guides Our Work |
+|---|---|
+| CIS Controls & CIS Benchmarks | Secure configuration, account protection, software management, network security, logging, backups and service reduction. |
+| DISA STIG / SRG Security Principles | High-security operating-system, firewall, DNS, VPN, web-server, authentication, audit and system-integrity objectives, adapted to the actual platform. |
+| NIST Cybersecurity Framework 2.0 | Govern, Identify, Protect, Detect, Respond and Recover. |
+| NIST SP 800-53 | Selected access-control, authentication, configuration, audit, communications and incident-response principles. |
+| NIST Zero Trust SP 800-207 | Authenticate and authorize access instead of assuming trust based only on network location. |
+| OWASP Top 10 | Major web-application security risks and defensive testing priorities. |
+| OWASP ASVS | Deeper application-security verification requirements where appropriate. |
+| OWASP API Security | API-specific authentication, authorization, data-access and abuse risks where APIs exist. |
+| MITRE ATT&CK | Threat-informed understanding of realistic attacker techniques and possible attack paths. |
+| NIST SSDF SP 800-218 | Secure software-development, dependency and deployment practices. |
+| CISA Secure by Design | Reduce default exposure and build security into the architecture from the beginning. |
+| ISO/IEC 27001 & 27002 Principles | Relevant organizational and information-security principles where appropriate to the customer environment. |
+
+### DISA STIG / SRG-Aligned Defensive Hardening
+
+Selected high-security principles are used for endpoint protection, private-server security, firewall policy, secure communications, authentication, auditing and system integrity. We adapt them to the actual platform rather than blindly applying incompatible remediation scripts.
+
+**Framework alignment does not automatically mean formal certification.** Formal compliance or certification requires its own defined assessment and evidence process.
+
+---
+
+## Monitoring, Backup & Incident Response
+
+Security does not end when deployment is completed. A protected environment requires continued maintenance, verification and a recovery path when something goes wrong.
+
+| Control Area | Purpose |
+|---|---|
+| Monitoring | Security events, system health, application behavior and unexpected changes. |
+| Integrity Review | Check whether critical configuration, files or services have changed unexpectedly. |
+| Updates | Maintain operating systems, applications and dependencies with controlled security updates. |
+| Encrypted Backups | Keep protected recovery material and configuration backups separate from the production environment. |
+| Recovery Testing | Confirm that backups and rebuild procedures can actually restore the environment. |
+| Incident Response | Contain compromise, revoke access, rotate credentials, preserve evidence and rebuild where necessary. |
+
+---
+
+## What Customers May Receive
+
+**Architecture & Hardening:** Security architecture design, system hardening, High Security Laptop configuration, Ghost Connection privacy architecture, Custom Secure Android Phone configuration, private-server hardening, website defensive hardening and payment-environment security.
+
+**Penetration Testing:** Authorized testing, vulnerability validation, remediation recommendations and final re-testing.
+
+**Custom Secure Websites:** Security-first website development, hardened administration, payment integration, deployment hardening and penetration-test readiness for the agreed website scope.
+
+**University Seminars:** Structured 3-day cybersecurity education covering Autonomous Defensive Level 4 AI, system-hardening and anonymity scope building, penetration-testing scope development and 25 crucial industry-focused subjects.
+
+**Operations & Recovery:** Account-security guidance, monitoring design, backup planning, recovery planning and incident-response support where included in scope.
+
+**Development & Documentation:** Cybersecurity system development and customer-facing security documentation for the agreed project scope.
+
+---
+
+## What We Do Not Publicly Expose
+
+Customers should understand how their protection works. That does not mean every implementation detail should become public.
+
+Sensitive engineering information can include firewall rule sets, infrastructure addresses, private keys, recovery information, account credentials, internal security exceptions, detailed vulnerability information, onion-service secrets, backup locations and internal hardening scripts.
+
+> **Protection of the blueprint:** The customer can understand the architecture in full without publishing the exact implementation details required to reproduce or attack it.
+
+---
+
+## Security Reality
+
+No responsible cybersecurity company should promise that a system is impossible to hack. No responsible privacy engineer should promise that a person is impossible to identify under every possible circumstance.
+
+Our objective is to reduce risk aggressively. We design environments to reduce attack surface, unnecessary exposure, weak authentication, infrastructure discovery, identity leakage, insecure configuration and single points of failure.
+
+Security effectiveness also depends on customer behavior, operational discipline, third-party providers, physical control of devices and the absence of endpoint compromise.
+
+---
+
 ## Contact
 
 **Yuhisern Navaratnam**  
@@ -561,3 +577,7 @@ Cybersecurity Engineer · Founder
 ---
 
 <sub>ELITE CYBERSECURITY SPECIALIST | Company Profile | October 2026. Content converted from the supplied 25-page company profile. All 11 profile illustrations are linked to files in company-profile-images/.</sub>
+
+---
+
+<sub>ELITE CYBERSECURITY SPECIALIST | Company Profile | October 2026. Content converted from the supplied 25-page company profile. All 12 profile illustrations are linked to files in company-profile-images/.</sub>
