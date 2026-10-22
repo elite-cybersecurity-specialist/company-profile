@@ -15,6 +15,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/elite-cybersecurity-specialist"><strong>View Other Cybersecurity Subjects</strong></a>
   &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/company/elite-cybersecurity-specialist/"><strong>LinkedIn Company Page</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://elite-cybersecurity-specialist.blogspot.com"><strong>Official ECS Blog</strong></a>
+  &nbsp;·&nbsp;
   <a href="mailto:Yuhisern@protonmail.com"><strong>Contact ECS</strong></a>
 </p>
 
@@ -607,11 +611,14 @@ Security effectiveness also depends on customer behavior, operational discipline
 
 - **Email:** [Yuhisern@protonmail.com](mailto:Yuhisern@protonmail.com)
 - **WhatsApp:** [+60 17-279 1717](https://wa.me/60172791717)
+- **GitHub — Company Profile:** [Official repository](https://github.com/elite-cybersecurity-specialist/company-profile)
 - **GitHub — Battle-Hardened AI:** [Official repository](https://github.com/elite-cybersecurity-specialist/battle-hardened-ai)
 - **GitHub — Other Cybersecurity Projects:** [Elite Cybersecurity Specialist](https://github.com/elite-cybersecurity-specialist)
 - **TikTok:** [@yuhisern](https://www.tiktok.com/@yuhisern)
 - **LinkedIn:** [linkedin.com/in/yuhisern](https://www.linkedin.com/in/yuhisern)
 - **X:** [x.com/yuhisern](https://x.com/yuhisern)
+- **LinkedIn — ECS Company:** [Elite Cybersecurity Specialist](https://www.linkedin.com/company/elite-cybersecurity-specialist/)
+- **Official ECS Blog:** [ECS Cybersecurity Articles](https://elite-cybersecurity-specialist.blogspot.com)
 
 > [!NOTE]
 > **HARDEN. TEST. VERIFY. IMPROVE.**  
