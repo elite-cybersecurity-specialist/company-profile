@@ -7,10 +7,6 @@
 <p align="center"><strong>Company Profile | October 2026</strong></p>
 
 <p align="center">
-  <img src="company-profile-images/3-name-card.png" alt="Official company name card" width="720">
-</p>
-
-<p align="center">
   <a href="https://github.com/elite-cybersecurity-specialist/company-profile/raw/refs/heads/main/pdf/ECS_Company_Profile.pdf"><strong>Download Company Profile</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/elite-cybersecurity-specialist"><strong>View Other Cybersecurity Subjects</strong></a>
