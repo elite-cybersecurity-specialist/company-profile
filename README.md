@@ -47,7 +47,7 @@
 - [What Customers May Receive](#what-customers-may-receive)
 - [What We Do Not Publicly Expose](#what-we-do-not-publicly-expose)
 - [Security Reality](#security-reality)
-- [Contact](#contact)
+- [Connect with Elite Cybersecurity Specialist](#connect-with-elite-cybersecurity-specialist)
 
 ---
 
@@ -593,16 +593,25 @@ Security effectiveness also depends on customer behavior, operational discipline
 
 ---
 
-## Contact
+## Connect with Elite Cybersecurity Specialist
 
-**Yuhisern Navaratnam**  
-Cybersecurity Engineer · Founder  
-**ELITE CYBERSECURITY SPECIALIST**
+**Yuhisern Navaratnam** — Cybersecurity Engineer  
+**Elite Cybersecurity Specialist** | Malaysia  
+**SSM:** 202403184091 (MA0319303-P)
 
-**Business Registration:** 202403184091 (MA0319303-P)  
-**Location:** Malaysia  
-**Email:** [Yuhisern@protonmail.com](mailto:Yuhisern@protonmail.com)  
-**WhatsApp:** [+60 17-279 1717](https://wa.me/60172791717)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/elite-cybersecurity-specialist/battle-hardened-ai/main/assets/ECS_Digital_Name_Card_525x295.png">
+    <img src="https://raw.githubusercontent.com/elite-cybersecurity-specialist/battle-hardened-ai/main/assets/ECS_Digital_Name_Card_525x295.png" alt="Elite Cybersecurity Specialist digital name card — Yuhisern Navaratnam" width="525">
+  </a>
+</p>
+
+- **Email:** [Yuhisern@protonmail.com](mailto:Yuhisern@protonmail.com)
+- **WhatsApp:** [+60 17-279 1717](https://wa.me/60172791717)
+- **GitHub — Battle-Hardened AI:** [Official repository](https://github.com/elite-cybersecurity-specialist/battle-hardened-ai)
+- **GitHub — Other Cybersecurity Projects:** [Elite Cybersecurity Specialist](https://github.com/elite-cybersecurity-specialist)
+- **TikTok:** [@yuhisern](https://www.tiktok.com/@yuhisern)
+- **LinkedIn:** [linkedin.com/in/yuhisern](https://www.linkedin.com/in/yuhisern)
+- **X:** [x.com/yuhisern](https://x.com/yuhisern)
 
 > [!NOTE]
 > **HARDEN. TEST. VERIFY. IMPROVE.**  
