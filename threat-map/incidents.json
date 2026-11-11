@@ -1,0 +1,2142 @@
+{
+  "schemaVersion": 1,
+  "revision": 1,
+  "verifiedThrough": "2026-11-12",
+  "incidents": [
+    {
+      "id": "maersk-legacy-system-2026-11-11",
+      "disclosed": "2026-11-11",
+      "organisation": "Maersk legacy system",
+      "countries": [],
+      "type": "Data breach",
+      "sector": "Transport",
+      "status": "confirmed",
+      "summary": "Maersk confirmed unauthorised access and data extraction from a legacy system inherited in an acquisition. The disclosure did not identify its location.",
+      "sources": [
+        {
+          "label": "Maersk advisory",
+          "url": "https://www.maersk.com/news/articles/2026/11/11/it-security-incident"
+        }
+      ]
+    },
+    {
+      "id": "election-commission-of-malaysia-spr-2026-11-11",
+      "disclosed": "2026-11-11",
+      "organisation": "Election Commission of Malaysia / SPR",
+      "countries": [
+        "MYS"
+      ],
+      "type": "Service disruption",
+      "sector": "Government",
+      "status": "investigating",
+      "summary": "SPR reported cyber threats that disrupted access to some digital systems. It coordinated mitigation with NACSA, MKN and JDN and said election operations would continue.",
+      "sources": [
+        {
+          "label": "Bernama",
+          "url": "https://www.bernama.com/radio/news.php?id=2632798"
+        },
+        {
+          "label": "RTM",
+          "url": "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/spr-perkukuh-keselamatan-siber-sistem-pilihan-raya/"
+        }
+      ]
+    },
+    {
+      "id": "sph-media-2026-11-10",
+      "disclosed": "2026-11-10",
+      "organisation": "SPH Media",
+      "countries": [
+        "SGP"
+      ],
+      "type": "Data breach",
+      "sector": "Media",
+      "status": "confirmed",
+      "summary": "SPH Media disclosed cyberattacks affecting five internal systems and exposing personal information in part of its database. The related systems are grouped as one disclosure.",
+      "sources": [
+        {
+          "label": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/singapore/sph-media-hit-data-breach-affecting-9-its-database"
+        }
+      ]
+    },
+    {
+      "id": "fireworks-ai-notion-2026-11-10",
+      "disclosed": "2026-11-10",
+      "organisation": "Fireworks AI / Notion",
+      "countries": [],
+      "type": "Third-party breach",
+      "sector": "Technology",
+      "status": "confirmed",
+      "summary": "Fireworks AI disclosed unauthorised access via a cloud provider. Notion subsequently reported exposure of AI chat transcripts in a small share of its workspaces.",
+      "sources": [
+        {
+          "label": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/"
+        },
+        {
+          "label": "Notion advisory",
+          "url": "https://www.notion.com/en-gb/security/advisories/security-incident-involving-a-third-party-ai-vendor"
+        }
+      ],
+      "occurred": "2026-10-23"
+    },
+    {
+      "id": "vanderbilt-university-2026-11-09",
+      "disclosed": "2026-11-09",
+      "organisation": "Vanderbilt University",
+      "countries": [
+        "USA"
+      ],
+      "type": "Unauthorised access",
+      "sector": "Education",
+      "status": "investigating",
+      "summary": "The university disclosed an active cybersecurity incident and published instructions and updates for its community while it investigated.",
+      "sources": [
+        {
+          "label": "Vanderbilt University",
+          "url": "https://news.vanderbilt.edu/2026/11/09/nov-9-active-cybersecurity-incident-updates/"
+        }
+      ]
+    },
+    {
+      "id": "fullerton-health-2026-11-09",
+      "disclosed": "2026-11-09",
+      "organisation": "Fullerton Health",
+      "countries": [
+        "SGP"
+      ],
+      "type": "Unauthorised access",
+      "sector": "Healthcare",
+      "status": "confirmed",
+      "summary": "Fullerton Health disclosed access to a server supporting its migrant-worker primary care programme. Preliminary findings identified personal data that might be affected.",
+      "sources": [
+        {
+          "label": "Fullerton Health",
+          "url": "https://www.fullertonhealth.com/sg/data-security-incident-affecting-the-migrant-workers-primary-care-plan-pcp-portal/"
+        }
+      ],
+      "discovered": "2026-10-31"
+    },
+    {
+      "id": "bank-rakyat-corporate-website-2026-11-07",
+      "disclosed": "2026-11-07",
+      "organisation": "Bank Rakyat corporate website",
+      "countries": [
+        "MYS"
+      ],
+      "type": "Website defacement",
+      "sector": "Finance",
+      "status": "reported",
+      "summary": "The Communications Minister reported defacement involving a third-party-managed website. Bank Rakyat described the disruption as a technical issue at its provider and said customer savings and data were safe.",
+      "sources": [
+        {
+          "label": "RTM, minister's account",
+          "url": "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/laman-web-bank-digodam-mkn-teliti-ancaman-keselamatan-hibrid/"
+        },
+        {
+          "label": "Bernama, bank's account",
+          "url": "https://www.bernama.com/en/general/news.php?id=2631352"
+        }
+      ]
+    },
+    {
+      "id": "m1-2026-11-06",
+      "disclosed": "2026-11-06",
+      "organisation": "M1",
+      "countries": [
+        "SGP"
+      ],
+      "type": "Data breach",
+      "sector": "Telecommunications",
+      "status": "confirmed",
+      "summary": "M1 disclosed that customer identity and contact information was involved. The operator said it contained the breach and that services continued.",
+      "sources": [
+        {
+          "label": "M1 disclosure",
+          "url": "https://www.m1.com.sg/about-us/news-releases/2026/m1-discloses-data-breach"
+        }
+      ],
+      "discovered": "2026-10-30"
+    },
+    {
+      "id": "doctor-anywhere-2026-11-06",
+      "disclosed": "2026-11-06",
+      "organisation": "Doctor Anywhere",
+      "countries": [
+        "SGP"
+      ],
+      "type": "Data breach",
+      "sector": "Healthcare",
+      "status": "confirmed",
+      "summary": "The healthcare provider confirmed exposure of some user personal data and said clinical records were outside the disclosed scope.",
+      "sources": [
+        {
+          "label": "CNA",
+          "url": "https://www.channelnewsasia.com/singapore/doctor-anywhere-data-breach-6530871"
+        }
+      ]
+    },
+    {
+      "id": "queens-public-library-2026-11-04",
+      "disclosed": "2026-11-04",
+      "organisation": "Queens Public Library",
+      "countries": [
+        "USA"
+      ],
+      "type": "Ransomware",
+      "sector": "Government",
+      "status": "confirmed",
+      "summary": "The library attributed an outage affecting on-site computers, Wi-Fi and digital services to a ransomware incident.",
+      "sources": [
+        {
+          "label": "The Record",
+          "url": "https://therecord.media/queens-library-ransomware-causes-disruptions"
+        }
+      ]
+    },
+    {
+      "id": "credit-mutuel-arkea-2026-11-04",
+      "disclosed": "2026-11-04",
+      "organisation": "Crédit Mutuel Arkéa",
+      "countries": [
+        "FRA"
+      ],
+      "type": "Unauthorised access",
+      "sector": "Finance",
+      "status": "confirmed",
+      "summary": "The French banking group reported a cyberattack. A follow-up report put the fraudulent transfers at about €100 million.",
+      "sources": [
+        {
+          "label": "Reuters, initial report",
+          "url": "https://www.reuters.com/technology/french-bank-credit-mutuel-arkea-hit-by-cyberattack-2026-11-04/"
+        },
+        {
+          "label": "Reuters follow-up",
+          "url": "https://www.reuters.com/legal/government/french-bank-credit-mutuel-arkea-says-100-million-missing-after-cyberattack-2026-11-05/"
+        }
+      ]
+    },
+    {
+      "id": "mercado-bitcoin-2026-11-02",
+      "disclosed": "2026-11-02",
+      "organisation": "Mercado Bitcoin",
+      "countries": [
+        "BRA"
+      ],
+      "type": "Digital asset theft",
+      "sector": "Finance",
+      "status": "reported",
+      "summary": "The Brazilian exchange paused deposits and withdrawals following a security incident involving transfers across several blockchains.",
+      "sources": [
+        {
+          "label": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains"
+        }
+      ]
+    },
+    {
+      "id": "binance-security-incident-report-2026-10-29",
+      "disclosed": "2026-10-29",
+      "organisation": "Binance security incident report",
+      "countries": [],
+      "type": "Digital asset theft",
+      "sector": "Finance",
+      "status": "confirmed",
+      "summary": "Binance reported a security incident involving unauthorised digital asset transfers. It subsequently issued preliminary findings and described its response.",
+      "sources": [
+        {
+          "label": "Associated Press",
+          "url": "https://apnews.com/article/39cda8ceb8095e036334a18549d3d20d"
+        },
+        {
+          "label": "Binance findings",
+          "url": "https://www.binance.com/en-NG/blog/community/3229153443759566763"
+        }
+      ],
+      "occurred": "2026-10-29"
+    },
+    {
+      "id": "amadeus-airline-reservation-incident-2026-10-28",
+      "disclosed": "2026-10-28",
+      "organisation": "Amadeus airline reservation incident",
+      "countries": [
+        "HKG",
+        "JPN",
+        "MYS",
+        "THA"
+      ],
+      "type": "Third-party breach",
+      "sector": "Transport",
+      "status": "confirmed",
+      "summary": "Unauthorised access at the reservation provider affected booking information. Notices from airlines and later impact reports refer to the same supplier incident.",
+      "sources": [
+        {
+          "label": "Japan Airlines notice",
+          "url": "https://www.jal.co.jp/en-jp/news/general/2026/other/261028.html"
+        },
+        {
+          "label": "Malaysia Airlines",
+          "url": "https://www.malaysiaairlines.com/vn/en/mh-media-centre/important-for-you/passengers-to-arrive-early-klia1.html"
+        },
+        {
+          "label": "Cathay Pacific",
+          "url": "https://www.cathaypacific.com/cx/id_ID/latest-news/security-and-operational-changes/personal-data-security.html"
+        },
+        {
+          "label": "Thai Airways reporting",
+          "url": "https://www.thephuketnews.com/thai-passenger-data-compromised-in-amadeus-security-breach-102164.php"
+        }
+      ]
+    },
+    {
+      "id": "university-of-copenhagen-2026-10-23",
+      "disclosed": "2026-10-23",
+      "organisation": "University of Copenhagen",
+      "countries": [
+        "DNK"
+      ],
+      "type": "Data breach",
+      "sector": "Education",
+      "status": "confirmed",
+      "summary": "The university disclosed access to a test environment holding personal information and reviewed the records involved.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-11/"
+        }
+      ],
+      "discovered": "2026-10-20"
+    },
+    {
+      "id": "digicert-2026-10-20",
+      "disclosed": "2026-10-20",
+      "organisation": "DigiCert",
+      "countries": [
+        "USA"
+      ],
+      "type": "Data breach",
+      "sector": "Technology",
+      "status": "confirmed",
+      "summary": "DigiCert reported that unauthorised access to an internal business system exposed some archived customer details and identity documents.",
+      "sources": [
+        {
+          "label": "DigiCert incident report",
+          "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2084460"
+        },
+        {
+          "label": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/"
+        }
+      ],
+      "discovered": "2026-10-12"
+    },
+    {
+      "id": "afd-hosting-provider-2026-10-20",
+      "disclosed": "2026-10-20",
+      "organisation": "AfD hosting provider",
+      "countries": [
+        "DEU"
+      ],
+      "type": "Third-party breach",
+      "sector": "Government",
+      "status": "reported",
+      "summary": "Reporting cited by CERT-EU described unauthorised access to party email mailboxes through a hosting provider and subsequent publication of messages.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-11/"
+        }
+      ]
+    },
+    {
+      "id": "south-korean-financial-institutions-2026-10-14",
+      "disclosed": "2026-10-14",
+      "organisation": "South Korean financial institutions",
+      "countries": [
+        "KOR"
+      ],
+      "type": "Data breach",
+      "sector": "Finance",
+      "status": "confirmed",
+      "summary": "South Korea's financial authorities reported related hacking incidents across 16 financial firms. The public aggregate disclosure is one register entry.",
+      "sources": [
+        {
+          "label": "Financial Services Commission",
+          "url": "https://www.fsc.go.kr/po010101/87927?srchCtgry=1"
+        },
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/world/south-korea-finds-hacking-incidents-total-16-financial-firms-2026-10-14/"
+        }
+      ]
+    },
+    {
+      "id": "ahold-delhaize-2026-10-12",
+      "disclosed": "2026-10-12",
+      "organisation": "Ahold Delhaize",
+      "countries": [
+        "USA"
+      ],
+      "type": "Service disruption",
+      "sector": "Retail",
+      "status": "confirmed",
+      "summary": "A network security incident prompted precautionary shutdowns. Some US retail web services were interrupted while stores remained open.",
+      "sources": [
+        {
+          "label": "Ahold Delhaize",
+          "url": "https://newsroom.aholddelhaize.com/ahold-delhaize-takes-precautionary-measures-following-cybersecurity-incident"
+        },
+        {
+          "label": "Reuters update",
+          "url": "https://www.reuters.com/business/ahold-has-no-indication-client-data-was-stolen-in-cybersecurity-incident-2026-10-13/"
+        }
+      ]
+    },
+    {
+      "id": "tabung-haji-2026-10-08",
+      "disclosed": "2026-10-08",
+      "organisation": "Tabung Haji",
+      "countries": [
+        "MYS"
+      ],
+      "type": "Service disruption",
+      "sector": "Finance",
+      "status": "confirmed",
+      "summary": "Tabung Haji temporarily suspended services following a cyberattack and subsequently reported restoration of key services.",
+      "sources": [
+        {
+          "label": "Bernama",
+          "url": "https://web26.bernama.com/bm/news.php?id=2618875"
+        }
+      ]
+    },
+    {
+      "id": "polish-healthcare-sector-september-incident-2026-09-25",
+      "disclosed": "2026-09-25",
+      "organisation": "Polish healthcare sector / September incident",
+      "countries": [
+        "POL"
+      ],
+      "type": "Data breach",
+      "sector": "Healthcare",
+      "status": "reported",
+      "summary": "Reporting cited by CERT-EU described unauthorised access to medical data during a second breach affecting the sector that month.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-10/"
+        }
+      ]
+    },
+    {
+      "id": "ctos-digital-2026-09-23",
+      "disclosed": "2026-09-23",
+      "organisation": "CTOS Digital",
+      "countries": [
+        "MYS"
+      ],
+      "type": "Data breach",
+      "sector": "Finance",
+      "status": "confirmed",
+      "summary": "Unauthorised access reached files holding a limited subset of consumer information. CTOS reported it contained the environment and began remediation.",
+      "sources": [
+        {
+          "label": "Bernama, citing Bursa Malaysia filing",
+          "url": "https://bernama.com/en/business/news.php?id=2610767"
+        }
+      ]
+    },
+    {
+      "id": "gyazo-helpfeel-2026-09-16",
+      "disclosed": "2026-09-16",
+      "organisation": "Gyazo / Helpfeel",
+      "countries": [
+        "JPN"
+      ],
+      "type": "Data breach",
+      "sector": "Technology",
+      "status": "confirmed",
+      "summary": "Helpfeel disclosed unauthorised access involving its Gyazo service and later revised the scope of potentially affected records.",
+      "sources": [
+        {
+          "label": "Helpfeel notice",
+          "url": "https://corp.helpfeel.com/en/news/news-20260916"
+        },
+        {
+          "label": "Helpfeel follow-up",
+          "url": "https://corp.helpfeel.com/en/news/news-20260925"
+        }
+      ]
+    },
+    {
+      "id": "meo-2026-09-14",
+      "disclosed": "2026-09-14",
+      "organisation": "MEO",
+      "countries": [
+        "PRT"
+      ],
+      "type": "DDoS",
+      "sector": "Telecommunications",
+      "status": "reported",
+      "summary": "A traffic flood reportedly interrupted services at the Portuguese telecom operator.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-10/"
+        }
+      ]
+    },
+    {
+      "id": "tokyo-metro-metpo-2026-09",
+      "disclosed": "2026-09",
+      "organisation": "Tokyo Metro / Metpo",
+      "countries": [
+        "JPN"
+      ],
+      "type": "Data breach",
+      "sector": "Transport",
+      "status": "confirmed",
+      "summary": "Tokyo Metro reported that an unauthorised third party accessed email addresses of some Metpo loyalty programme users.",
+      "sources": [
+        {
+          "label": "CSIS incident timeline",
+          "url": "https://www.csis.org/programs/strategic-technologies-program/significant-cyber-incidents"
+        }
+      ]
+    },
+    {
+      "id": "simba-telecom-2026-09",
+      "disclosed": "2026-09",
+      "organisation": "SIMBA Telecom",
+      "countries": [
+        "SGP"
+      ],
+      "type": "Data breach",
+      "sector": "Telecommunications",
+      "status": "confirmed",
+      "summary": "SIMBA reported that an incident exposed customer contact and identity information and said it contained the breach.",
+      "sources": [
+        {
+          "label": "CSIS incident timeline",
+          "url": "https://www.csis.org/programs/strategic-technologies-program/significant-cyber-incidents"
+        }
+      ]
+    },
+    {
+      "id": "air-traffic-and-navigation-services-2026-09",
+      "disclosed": "2026-09",
+      "organisation": "Air Traffic and Navigation Services",
+      "countries": [
+        "ZAF"
+      ],
+      "type": "Unauthorised access",
+      "sector": "Transport",
+      "status": "reported",
+      "summary": "A public incident timeline reported detection of ransomware-linked malware in operational networks at the South African air navigation provider.",
+      "sources": [
+        {
+          "label": "CSIS incident timeline",
+          "url": "https://www.csis.org/programs/strategic-technologies-program/significant-cyber-incidents"
+        }
+      ]
+    },
+    {
+      "id": "berlin-senate-departments-2026-08-31",
+      "disclosed": "2026-08-31",
+      "organisation": "Berlin Senate departments",
+      "countries": [
+        "DEU"
+      ],
+      "type": "Data breach",
+      "sector": "Government",
+      "status": "confirmed",
+      "summary": "Berlin's administration confirmed a theft and extortion incident involving data from two Senate departments.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-10/"
+        }
+      ]
+    },
+    {
+      "id": "uk-small-power-generator-2026-08-24",
+      "disclosed": "2026-08-24",
+      "organisation": "UK small power generator",
+      "countries": [
+        "GBR"
+      ],
+      "type": "Service disruption",
+      "sector": "Energy and utilities",
+      "status": "reported",
+      "summary": "Reporting cited by CERT-EU said a cyberattack forced a small generator to shut down for several days.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-09/"
+        }
+      ]
+    },
+    {
+      "id": "police-national-legal-database-2026-08-03",
+      "disclosed": "2026-08-03",
+      "organisation": "Police National Legal Database",
+      "countries": [
+        "GBR"
+      ],
+      "type": "Data breach",
+      "sector": "Government",
+      "status": "confirmed",
+      "summary": "The service confirmed that police, government and customer contact details had been compromised.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-09/"
+        }
+      ]
+    },
+    {
+      "id": "liechtenstein-beneficial-ownership-register-2026-08-03",
+      "disclosed": "2026-08-03",
+      "organisation": "Liechtenstein beneficial ownership register",
+      "countries": [
+        "LIE"
+      ],
+      "type": "Data breach",
+      "sector": "Government",
+      "status": "confirmed",
+      "summary": "Authorities reported unauthorised access to and copying of data from the beneficial ownership register, then took the affected system offline.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-09/"
+        }
+      ]
+    },
+    {
+      "id": "colombian-ministry-of-justice-2026-08-03",
+      "disclosed": "2026-08-03",
+      "organisation": "Colombian Ministry of Justice",
+      "countries": [
+        "COL"
+      ],
+      "type": "Ransomware",
+      "sector": "Government",
+      "status": "confirmed",
+      "summary": "The ministry reported encryption of parts of its infrastructure and interrupted digital services. COLCERT collected evidence for forensic review.",
+      "sources": [
+        {
+          "label": "Ministry of Justice",
+          "url": "https://www.minjusticia.gov.co/Sala-de-prensa/Paginas/Actualizacion-sobre-el-ataque-cibernetico.aspx"
+        }
+      ],
+      "occurred": "2026-08-02"
+    },
+    {
+      "id": "hungarian-state-treasury-2026-08-02",
+      "disclosed": "2026-08-02",
+      "organisation": "Hungarian State Treasury",
+      "countries": [
+        "HUN"
+      ],
+      "type": "Ransomware",
+      "sector": "Government",
+      "status": "confirmed",
+      "summary": "Hungary reported a breach affecting the treasury and ransomware deployment at the Agricultural and Rural Development Office.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-09/"
+        }
+      ]
+    },
+    {
+      "id": "romanian-land-registry-agency-2026-07-20",
+      "disclosed": "2026-07-20",
+      "organisation": "Romanian land registry agency",
+      "countries": [
+        "ROU"
+      ],
+      "type": "Destructive attack",
+      "sector": "Government",
+      "status": "reported",
+      "summary": "An intrusion led to the loss of some systems and backups and interrupted online property-registration services.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-08/"
+        }
+      ]
+    },
+    {
+      "id": "fairlife-2026-07-16",
+      "disclosed": "2026-07-16",
+      "organisation": "fairlife",
+      "countries": [
+        "USA"
+      ],
+      "type": "Service disruption",
+      "sector": "Manufacturing",
+      "status": "confirmed",
+      "summary": "Coca-Cola disclosed a cybersecurity incident affecting fairlife technology systems and reported interruptions to US production.",
+      "sources": [
+        {
+          "label": "fairlife",
+          "url": "https://fairlife.com/news/technology-disruption-fairlife-operations/"
+        },
+        {
+          "label": "Coca-Cola SEC filing",
+          "url": "https://investors.coca-colacompany.com/filings-reports/all-sec-filings/content/0001628280-26-048466/ko-20260716.htm"
+        }
+      ]
+    },
+    {
+      "id": "latvijas-valsts-mezi-2026-07-09",
+      "disclosed": "2026-07-09",
+      "organisation": "Latvijas Valsts Meži",
+      "countries": [
+        "LVA"
+      ],
+      "type": "Ransomware",
+      "sector": "Government",
+      "status": "confirmed",
+      "summary": "Latvia's cyber response team reported that ransomware disrupted services of the state forestry company and that internal data was leaked.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-08/"
+        }
+      ]
+    },
+    {
+      "id": "nidec-chaun-choung-technology-2026-07",
+      "disclosed": "2026-07",
+      "organisation": "Nidec Chaun Choung Technology",
+      "countries": [
+        "TWN"
+      ],
+      "type": "Ransomware",
+      "sector": "Manufacturing",
+      "status": "confirmed",
+      "summary": "Nidec disclosed ransomware affecting the network of its Taiwanese subsidiary.",
+      "sources": [
+        {
+          "label": "Check Point Research",
+          "url": "https://research.checkpoint.com/2026/6th-july-threat-intelligence-report-2/"
+        }
+      ]
+    },
+    {
+      "id": "indra-group-subsidiary-2026-07",
+      "disclosed": "2026-07",
+      "organisation": "Indra Group subsidiary",
+      "countries": [
+        "ESP"
+      ],
+      "type": "Ransomware",
+      "sector": "Technology",
+      "status": "confirmed",
+      "summary": "Indra confirmed a ransomware incident affecting a subsidiary and said it contained the incident while maintaining service continuity.",
+      "sources": [
+        {
+          "label": "Check Point Research",
+          "url": "https://research.checkpoint.com/2026/6th-july-threat-intelligence-report-2/"
+        }
+      ]
+    },
+    {
+      "id": "aflac-japan-2026-06-30",
+      "disclosed": "2026-06-30",
+      "organisation": "Aflac Japan",
+      "countries": [
+        "JPN"
+      ],
+      "type": "Data breach",
+      "sector": "Finance",
+      "status": "confirmed",
+      "summary": "Aflac Japan disclosed unauthorised access to systems holding policyholder information and began notifying regulators and affected individuals.",
+      "sources": [
+        {
+          "label": "SEC filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/4977/000162828026046124/afl-20260630.htm"
+        },
+        {
+          "label": "Aflac Japan FAQ",
+          "url": "https://www.aflac.co.jp/info/yorisou_faq.html"
+        }
+      ],
+      "discovered": "2026-06-25"
+    },
+    {
+      "id": "belgian-civilian-intelligence-service-2026-06-19",
+      "disclosed": "2026-06-19",
+      "organisation": "Belgian civilian intelligence service",
+      "countries": [
+        "BEL"
+      ],
+      "type": "Espionage",
+      "sector": "Government",
+      "status": "reported",
+      "summary": "Public reporting described access to some work mobile and email information after exploitation of mobile-device management flaws.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-07/"
+        }
+      ]
+    },
+    {
+      "id": "novo-nordisk-2026-06-11",
+      "disclosed": "2026-06-11",
+      "organisation": "Novo Nordisk",
+      "countries": [],
+      "type": "Data breach",
+      "sector": "Healthcare",
+      "status": "confirmed",
+      "summary": "Novo Nordisk reported access to some internal systems, involving pseudonymised trial information and some healthcare-provider contact details.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-07/"
+        }
+      ]
+    },
+    {
+      "id": "university-of-nottingham-2026-06-10",
+      "disclosed": "2026-06-10",
+      "organisation": "University of Nottingham",
+      "countries": [
+        "GBR"
+      ],
+      "type": "Data breach",
+      "sector": "Education",
+      "status": "confirmed",
+      "summary": "The university confirmed that an external party accessed data affecting current and former students. The UK disclosure established the impact recorded here.",
+      "sources": [
+        {
+          "label": "ITV News",
+          "url": "https://www.itv.com/news/central/2026-06-10/university-of-nottingham-student-and-alumni-data-leaked-after-cyberhack"
+        },
+        {
+          "label": "The Record",
+          "url": "https://therecord.media/university-of-nottingham-cyber-incident-shiny-hunters"
+        }
+      ]
+    },
+    {
+      "id": "lithuanian-health-accreditation-service-2026-06-10",
+      "disclosed": "2026-06-10",
+      "organisation": "Lithuanian health accreditation service",
+      "countries": [
+        "LTU"
+      ],
+      "type": "Unauthorised access",
+      "sector": "Government",
+      "status": "investigating",
+      "summary": "Lithuania reported that an attacker gained access to a system holding professional and administrative records. The central e-health system was outside the reported scope.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-07/"
+        }
+      ]
+    },
+    {
+      "id": "github-internal-repositories-2026-05-19",
+      "disclosed": "2026-05-19",
+      "organisation": "GitHub internal repositories",
+      "countries": [],
+      "type": "Data breach",
+      "sector": "Technology",
+      "status": "confirmed",
+      "summary": "GitHub investigated access to internal repositories following installation of a malicious editor extension.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-06/"
+        }
+      ]
+    },
+    {
+      "id": "grafana-labs-2026-05-17",
+      "disclosed": "2026-05-17",
+      "organisation": "Grafana Labs",
+      "countries": [],
+      "type": "Data breach",
+      "sector": "Technology",
+      "status": "confirmed",
+      "summary": "An unauthorised party used a token to reach the company's GitHub environment and copy code. Grafana investigated the scope of access.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-06/"
+        }
+      ]
+    },
+    {
+      "id": "sistemi-informativi-2026-05-03",
+      "disclosed": "2026-05-03",
+      "organisation": "Sistemi Informativi",
+      "countries": [
+        "ITA"
+      ],
+      "type": "Unauthorised access",
+      "sector": "Technology",
+      "status": "confirmed",
+      "summary": "IBM said it contained a security incident affecting its Italian subsidiary and restored services.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-06/"
+        }
+      ]
+    },
+    {
+      "id": "trellix-2026-05-01",
+      "disclosed": "2026-05-01",
+      "organisation": "Trellix",
+      "countries": [],
+      "type": "Unauthorised access",
+      "sector": "Technology",
+      "status": "confirmed",
+      "summary": "Trellix disclosed unauthorised access to part of a source-code repository and investigated the scope.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-06/"
+        }
+      ]
+    },
+    {
+      "id": "instructure-canvas-2026-05-01",
+      "disclosed": "2026-05-01",
+      "organisation": "Instructure Canvas",
+      "countries": [
+        "AUS",
+        "SWE",
+        "USA"
+      ],
+      "type": "Data breach",
+      "sector": "Education",
+      "status": "confirmed",
+      "summary": "Unauthorised access affected Canvas account and course-related information. The vendor described the later access and maintenance period in the same incident update.",
+      "sources": [
+        {
+          "label": "Instructure",
+          "url": "https://www.instructure.com/incident_update"
+        },
+        {
+          "label": "University of Canberra",
+          "url": "https://www.canberra.edu.au/about-uc/media/media-releases/2026/may/australia-wide-canvas-learning-management-platform-breach"
+        },
+        {
+          "label": "Mid Sweden University",
+          "url": "https://www.miun.se/en/staff/support/Employee-info/2026-5/data-breach-in-canvas--what-has-happened/"
+        },
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-06/"
+        }
+      ],
+      "discovered": "2026-04-29"
+    },
+    {
+      "id": "medtronic-2026-04-27",
+      "disclosed": "2026-04-27",
+      "organisation": "Medtronic",
+      "countries": [],
+      "type": "Unauthorised access",
+      "sector": "Healthcare",
+      "status": "confirmed",
+      "summary": "Medtronic disclosed unauthorised access to certain corporate IT systems and began investigating the information involved.",
+      "sources": [
+        {
+          "label": "Medtronic",
+          "url": "https://news.medtronic.com/Medtronic-statement-on-unauthorized-system-access"
+        },
+        {
+          "label": "SEC exhibit",
+          "url": "https://www.sec.gov/Archives/edgar/data/1613103/000162828026027272/exhibit991-statementdateda.htm"
+        }
+      ]
+    },
+    {
+      "id": "france-titres-ants-2026-04-20",
+      "disclosed": "2026-04-20",
+      "organisation": "France Titres / ANTS",
+      "countries": [
+        "FRA"
+      ],
+      "type": "Data breach",
+      "sector": "Government",
+      "status": "investigating",
+      "summary": "The national agency for secure documents disclosed a security incident that could expose some users' identity and contact information.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-05/"
+        }
+      ]
+    },
+    {
+      "id": "bluesky-2026-04-20",
+      "disclosed": "2026-04-20",
+      "organisation": "Bluesky",
+      "countries": [],
+      "type": "DDoS",
+      "sector": "Technology",
+      "status": "confirmed",
+      "summary": "Traffic flooding caused intermittent outages affecting features such as feeds, search and notifications.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-05/"
+        }
+      ],
+      "occurred": "2026-04-15"
+    },
+    {
+      "id": "vercel-2026-04-19",
+      "disclosed": "2026-04-19",
+      "organisation": "Vercel",
+      "countries": [],
+      "type": "Third-party breach",
+      "sector": "Technology",
+      "status": "confirmed",
+      "summary": "A compromise involving a third-party integration enabled access to some internal Vercel systems. Vercel notified affected customers and issued security guidance.",
+      "sources": [
+        {
+          "label": "Vercel",
+          "url": "https://vercel.com/kb/bulletin/vercel-april-2026-security-incident"
+        }
+      ]
+    },
+    {
+      "id": "microlink-solutions-formis-2026-04-14",
+      "disclosed": "2026-04-14",
+      "organisation": "Microlink Solutions / Formis",
+      "countries": [
+        "MYS"
+      ],
+      "type": "Unauthorised access",
+      "sector": "Technology",
+      "status": "confirmed",
+      "summary": "A public notice said part of the companies' IT systems had been affected and that certain personal data might have been accessed or copied.",
+      "sources": [
+        {
+          "label": "Microlink / Formis notice",
+          "url": "https://www.microlink.com.my/app/uploads/2026/04/Public-Notice-on-Cybersecurity-Incident.pdf"
+        }
+      ],
+      "occurred": "2026-02-10"
+    },
+    {
+      "id": "french-ministry-of-education-educonnect-2026-04-14",
+      "disclosed": "2026-04-14",
+      "organisation": "French Ministry of Education / EduConnect",
+      "countries": [
+        "FRA"
+      ],
+      "type": "Data breach",
+      "sector": "Education",
+      "status": "confirmed",
+      "summary": "An attacker accessed a student-account management service and downloaded some pupils' information.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-05/"
+        }
+      ]
+    },
+    {
+      "id": "dutch-national-police-2026-03-25",
+      "disclosed": "2026-03-25",
+      "organisation": "Dutch National Police",
+      "countries": [
+        "NLD"
+      ],
+      "type": "Phishing compromise",
+      "sector": "Government",
+      "status": "confirmed",
+      "summary": "The police reported that a phishing attack gave an external party access. Its security team detected and blocked the intrusion.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-04/"
+        }
+      ]
+    },
+    {
+      "id": "dutch-ministry-of-finance-2026-03-23",
+      "disclosed": "2026-03-23",
+      "organisation": "Dutch Ministry of Finance",
+      "countries": [
+        "NLD"
+      ],
+      "type": "Unauthorised access",
+      "sector": "Government",
+      "status": "investigating",
+      "summary": "The ministry confirmed access to some systems and blocked compromised accounts or access paths while investigating.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-04/"
+        }
+      ],
+      "discovered": "2026-03-19"
+    },
+    {
+      "id": "costa-rican-electricity-institute-2026-03-16",
+      "disclosed": "2026-03-16",
+      "organisation": "Costa Rican Electricity Institute",
+      "countries": [
+        "CRI"
+      ],
+      "type": "Espionage",
+      "sector": "Energy and utilities",
+      "status": "reported",
+      "summary": "Reporting cited by CERT-EU described an intrusion and the extraction of email data from Costa Rica's electricity and telecommunications provider.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-04/"
+        }
+      ],
+      "discovered": "2026-01"
+    },
+    {
+      "id": "stryker-2026-03-11",
+      "disclosed": "2026-03-11",
+      "organisation": "Stryker",
+      "countries": [
+        "IRL",
+        "USA"
+      ],
+      "type": "Service disruption",
+      "sector": "Healthcare",
+      "status": "confirmed",
+      "summary": "A cyberattack interrupted global corporate systems, including operations in Ireland. Stryker subsequently reported disruption to ordering and manufacturing.",
+      "sources": [
+        {
+          "label": "Stryker",
+          "url": "https://www.stryker.com/us/en/about/news/2026/a-message-to-our-customers-03-2026.html"
+        },
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/technology/stryker-flags-disruption-orders-manufacturing-day-after-cyberattack-2026-03-12/"
+        },
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-04/"
+        }
+      ]
+    },
+    {
+      "id": "albanian-parliament-2026-03-10",
+      "disclosed": "2026-03-10",
+      "organisation": "Albanian Parliament",
+      "countries": [
+        "ALB"
+      ],
+      "type": "Destructive attack",
+      "sector": "Government",
+      "status": "confirmed",
+      "summary": "An attack affected internal parliamentary computers and email service and attempted to delete data.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-04/"
+        }
+      ]
+    },
+    {
+      "id": "focoba-bank-account-register-2026-02-19",
+      "disclosed": "2026-02-19",
+      "organisation": "FOCOBA bank account register",
+      "countries": [
+        "FRA"
+      ],
+      "type": "Data breach",
+      "sector": "Government",
+      "status": "confirmed",
+      "summary": "France reported that stolen credentials were used to reach records in its national bank-account database.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-03/"
+        }
+      ]
+    },
+    {
+      "id": "deutsche-bahn-2026-02-18",
+      "disclosed": "2026-02-18",
+      "organisation": "Deutsche Bahn",
+      "countries": [
+        "DEU"
+      ],
+      "type": "DDoS",
+      "sector": "Transport",
+      "status": "confirmed",
+      "summary": "Repeated traffic floods disrupted Deutsche Bahn's website, app and digital ticketing services.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-03/"
+        }
+      ]
+    },
+    {
+      "id": "odido-2026-02-12",
+      "disclosed": "2026-02-12",
+      "organisation": "Odido",
+      "countries": [
+        "NLD"
+      ],
+      "type": "Data breach",
+      "sector": "Telecommunications",
+      "status": "confirmed",
+      "summary": "Odido notified customers of a cyberattack that exposed information held in a customer-contact system.",
+      "sources": [
+        {
+          "label": "Odido",
+          "url": "https://newsroom.odido.nl/en-us/odido-informs-customers-of-cyber-attack/"
+        },
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/media-telecom/dutch-telecom-odido-hacked-6-million-accounts-affected-2026-02-12/"
+        }
+      ]
+    },
+    {
+      "id": "conpet-2026-02-05",
+      "disclosed": "2026-02-05",
+      "organisation": "Conpet",
+      "countries": [
+        "ROU"
+      ],
+      "type": "Ransomware",
+      "sector": "Energy and utilities",
+      "status": "reported",
+      "summary": "The Romanian pipeline operator reported a cyber incident affecting corporate IT and its website. Operational technology continued functioning.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-03/"
+        }
+      ]
+    },
+    {
+      "id": "eurail-2026-01-10",
+      "disclosed": "2026-01-10",
+      "organisation": "Eurail",
+      "countries": [
+        "NLD"
+      ],
+      "type": "Data breach",
+      "sector": "Transport",
+      "status": "confirmed",
+      "summary": "Eurail reported access to customer and DiscoverEU participant information, including some identity and reservation data.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-02/"
+        }
+      ]
+    },
+    {
+      "id": "la-poste-and-la-banque-postale-january-recurrence-2026-01-01",
+      "disclosed": "2026-01-01",
+      "organisation": "La Poste and La Banque Postale / January recurrence",
+      "countries": [
+        "FRA"
+      ],
+      "type": "DDoS",
+      "sector": "Transport",
+      "status": "reported",
+      "summary": "Renewed attack traffic disrupted postal and banking web services in January after the separate December interruption.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-02/"
+        }
+      ]
+    },
+    {
+      "id": "romanian-national-water-administration-2025-12-22",
+      "disclosed": "2025-12-22",
+      "organisation": "Romanian national water administration",
+      "countries": [
+        "ROU"
+      ],
+      "type": "Ransomware",
+      "sector": "Energy and utilities",
+      "status": "confirmed",
+      "summary": "Romania's cyber authority disclosed an attack that encrypted IT devices and disrupted internal communications. Operational water infrastructure remained functional.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-01/"
+        }
+      ]
+    },
+    {
+      "id": "la-poste-and-la-banque-postale-2025-12-22",
+      "disclosed": "2025-12-22",
+      "organisation": "La Poste and La Banque Postale",
+      "countries": [
+        "FRA"
+      ],
+      "type": "DDoS",
+      "sector": "Transport",
+      "status": "confirmed",
+      "summary": "A traffic flood interrupted French postal and online banking services. La Poste reported that parcels and letters continued to move.",
+      "sources": [
+        {
+          "label": "La Poste Groupe",
+          "url": "https://www.lapostegroupe.com/en/news/cyberattack-on-22-december"
+        }
+      ]
+    },
+    {
+      "id": "pdvsa-2025-12-15",
+      "disclosed": "2025-12-15",
+      "organisation": "PDVSA",
+      "countries": [
+        "VEN"
+      ],
+      "type": "Service disruption",
+      "sector": "Energy and utilities",
+      "status": "confirmed",
+      "summary": "Venezuela's state oil company reported a cyberattack. The company and Reuters' sources gave different accounts of the operational impact.",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/world/americas/venezuelas-pdvsa-says-operations-unaffected-by-cyber-attack-blames-us-2025-12-15/"
+        }
+      ]
+    },
+    {
+      "id": "french-ministry-of-the-interior-2025-12-12",
+      "disclosed": "2025-12-12",
+      "organisation": "French Ministry of the Interior",
+      "countries": [
+        "FRA"
+      ],
+      "type": "Unauthorised access",
+      "sector": "Government",
+      "status": "investigating",
+      "summary": "The ministry reported that an attacker accessed some files via compromised email servers. Authorities investigated the extent of access.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-01/"
+        }
+      ]
+    },
+    {
+      "id": "barts-health-nhs-trust-2025-12-05",
+      "disclosed": "2025-12-05",
+      "organisation": "Barts Health NHS Trust",
+      "countries": [
+        "GBR"
+      ],
+      "type": "Third-party breach",
+      "sector": "Healthcare",
+      "status": "confirmed",
+      "summary": "The trust reported theft of invoice data after exploitation of an Oracle business software flaw. Clinical systems continued operating.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-01/"
+        }
+      ]
+    },
+    {
+      "id": "coupang-2025-11-29",
+      "disclosed": "2025-11-29",
+      "organisation": "Coupang",
+      "countries": [
+        "KOR"
+      ],
+      "type": "Data breach",
+      "sector": "Retail",
+      "status": "confirmed",
+      "summary": "Coupang disclosed unauthorised access to customer information relating to its South Korean business.",
+      "sources": [
+        {
+          "label": "Coupang",
+          "url": "https://www.aboutcoupang.com/update-on-the-november-29-personal-information-incident/"
+        }
+      ]
+    },
+    {
+      "id": "gainsight-salesforce-integrations-2025-11-21",
+      "disclosed": "2025-11-21",
+      "organisation": "Gainsight / Salesforce integrations",
+      "countries": [],
+      "type": "Third-party breach",
+      "sector": "Technology",
+      "status": "confirmed",
+      "summary": "Salesforce and Gainsight investigated unauthorised access to customer Salesforce instances associated with compromised integration credentials.",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/technology/salesforce-says-customer-data-possibly-exposed-following-incident-2025-11-21/"
+        },
+        {
+          "label": "Gainsight investigation",
+          "url": "https://www.gainsight.com/blog/crowdstrike-investigation-summary/"
+        }
+      ]
+    },
+    {
+      "id": "eurofiber-france-2025-11-16",
+      "disclosed": "2025-11-16",
+      "organisation": "Eurofiber France",
+      "countries": [
+        "FRA"
+      ],
+      "type": "Data breach",
+      "sector": "Telecommunications",
+      "status": "confirmed",
+      "summary": "Eurofiber disclosed an intrusion affecting the ticketing platform used by its French operation.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-12/"
+        }
+      ],
+      "discovered": "2025-11-13"
+    },
+    {
+      "id": "siad-group-2025-11-11",
+      "disclosed": "2025-11-11",
+      "organisation": "SIAD Group",
+      "countries": [
+        "ITA"
+      ],
+      "type": "Unauthorised access",
+      "sector": "Manufacturing",
+      "status": "confirmed",
+      "summary": "The Italian industrial-gas company confirmed an intrusion involving a perimeter system and said its operations continued.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-12/"
+        }
+      ]
+    },
+    {
+      "id": "rtv-noord-2025-11-10",
+      "disclosed": "2025-11-10",
+      "organisation": "RTV Noord",
+      "countries": [
+        "NLD"
+      ],
+      "type": "Service disruption",
+      "sector": "Media",
+      "status": "investigating",
+      "summary": "A suspected ransomware incident disrupted the broadcaster's internal systems and limited newsroom operations.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-12/"
+        }
+      ]
+    },
+    {
+      "id": "f5-2025-10-15",
+      "disclosed": "2025-10-15",
+      "organisation": "F5",
+      "countries": [
+        "USA"
+      ],
+      "type": "Data breach",
+      "sector": "Technology",
+      "status": "confirmed",
+      "summary": "F5 disclosed unauthorised access to its internal systems and the extraction of some BIG-IP source code and vulnerability information.",
+      "sources": [
+        {
+          "label": "SEC filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/1048695/000104869525000149/ffiv-20251015.htm"
+        },
+        {
+          "label": "F5 incident response",
+          "url": "https://www.f5.com/company/blog/lessons-we-are-learning-from-our-security-incident"
+        }
+      ]
+    },
+    {
+      "id": "dutch-national-institute-for-public-health-and-the-environment-2025-10-14",
+      "disclosed": "2025-10-14",
+      "organisation": "Dutch National Institute for Public Health and the Environment",
+      "countries": [
+        "NLD"
+      ],
+      "type": "Unauthorised access",
+      "sector": "Government",
+      "status": "reported",
+      "summary": "RIVM temporarily shut its website after exploitation of a web-form component and restricted access to affected forms.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-11/"
+        }
+      ]
+    },
+    {
+      "id": "latvian-state-websites-2025-10-02",
+      "disclosed": "2025-10-02",
+      "organisation": "Latvian state websites",
+      "countries": [
+        "LVA"
+      ],
+      "type": "Service disruption",
+      "sector": "Government",
+      "status": "confirmed",
+      "summary": "A cyberattack took multiple Latvian public websites and electronic-signature services offline temporarily.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-11/"
+        }
+      ]
+    },
+    {
+      "id": "asahi-group-holdings-2025-09-29",
+      "disclosed": "2025-09-29",
+      "organisation": "Asahi Group Holdings",
+      "countries": [
+        "JPN"
+      ],
+      "type": "Service disruption",
+      "sector": "Manufacturing",
+      "status": "confirmed",
+      "summary": "A cyberattack disrupted Japanese operations, including parts of the company's order processing and shipping systems.",
+      "sources": [
+        {
+          "label": "Asahi Group",
+          "url": "https://www.asahigroup-holdings.com/en/newsroom/detail/20251003-0204.html"
+        }
+      ]
+    },
+    {
+      "id": "jaguar-land-rover-2025-09",
+      "disclosed": "2025-09",
+      "organisation": "Jaguar Land Rover",
+      "countries": [
+        "GBR"
+      ],
+      "type": "Service disruption",
+      "sector": "Manufacturing",
+      "status": "confirmed",
+      "summary": "JLR took systems offline following a cyber incident. Retail and manufacturing activity were disrupted.",
+      "sources": [
+        {
+          "label": "JLR",
+          "url": "https://www.jlr.com/news/2025/09/statement-cyber-incident-0"
+        }
+      ]
+    },
+    {
+      "id": "bouygues-telecom-2025-08-06",
+      "disclosed": "2025-08-06",
+      "organisation": "Bouygues Telecom",
+      "countries": [
+        "FRA"
+      ],
+      "type": "Data breach",
+      "sector": "Telecommunications",
+      "status": "confirmed",
+      "summary": "The operator reported that a cyberattack exposed personal and contract information, including some bank-account identifiers.",
+      "sources": [
+        {
+          "label": "Bouygues Telecom",
+          "url": "https://www.corporate.bouyguestelecom.fr/archives-communique-presse/bouygues-telecom-annonce-avoir-ete-victime-dune-cyberattaque/"
+        }
+      ]
+    },
+    {
+      "id": "colt-technology-services-2025-08",
+      "disclosed": "2025-08",
+      "organisation": "Colt Technology Services",
+      "countries": [
+        "GBR"
+      ],
+      "type": "Service disruption",
+      "sector": "Telecommunications",
+      "status": "confirmed",
+      "summary": "A cyberattack disrupted support and customer-facing platforms. The company reported that its core network was unaffected.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-09/"
+        }
+      ],
+      "occurred": "2025-08-12"
+    },
+    {
+      "id": "air-france-and-klm-2025-08",
+      "disclosed": "2025-08",
+      "organisation": "Air France and KLM",
+      "countries": [
+        "FRA",
+        "NLD"
+      ],
+      "type": "Third-party breach",
+      "sector": "Transport",
+      "status": "confirmed",
+      "summary": "A shared customer-service provider was breached, exposing some customer contact and loyalty programme information. The related airline disclosures are grouped as one supplier incident.",
+      "sources": [
+        {
+          "label": "KLM",
+          "url": "https://nieuws.klm.com/klm-informeert-klanten-over-incident-met-persoonsgegevens/"
+        },
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-09/"
+        }
+      ]
+    },
+    {
+      "id": "orange-france-2025-07-28",
+      "disclosed": "2025-07-28",
+      "organisation": "Orange France",
+      "countries": [
+        "FRA"
+      ],
+      "type": "Service disruption",
+      "sector": "Telecommunications",
+      "status": "confirmed",
+      "summary": "Orange reported a security incident that temporarily disrupted services for some customers, principally in France.",
+      "sources": [
+        {
+          "label": "Orange",
+          "url": "https://newsroom.orange.com/the-orange-group-announces-that-it-filed-a-complaint-on-monday-28-july-concerning-a-security-incident-on-one-of-its-information-systems/?lang=eng"
+        }
+      ],
+      "occurred": "2025-07-25"
+    },
+    {
+      "id": "us-national-nuclear-security-administration-2025-07-23",
+      "disclosed": "2025-07-23",
+      "organisation": "US National Nuclear Security Administration",
+      "countries": [
+        "USA"
+      ],
+      "type": "Unauthorised access",
+      "sector": "Government",
+      "status": "confirmed",
+      "summary": "The agency confirmed a breach linked to exploitation of on-premises SharePoint. Officials reported limited operational disruption.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-08/"
+        }
+      ]
+    },
+    {
+      "id": "post-luxembourg-2025-07-23",
+      "disclosed": "2025-07-23",
+      "organisation": "POST Luxembourg",
+      "countries": [
+        "LUX"
+      ],
+      "type": "Service disruption",
+      "sector": "Telecommunications",
+      "status": "confirmed",
+      "summary": "An attack caused a nationwide interruption to mobile, landline and internet services, including access to emergency numbers.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-08/"
+        }
+      ]
+    },
+    {
+      "id": "ingram-micro-2025-07-05",
+      "disclosed": "2025-07-05",
+      "organisation": "Ingram Micro",
+      "countries": [
+        "USA"
+      ],
+      "type": "Ransomware",
+      "sector": "Technology",
+      "status": "confirmed",
+      "summary": "The technology distributor disclosed ransomware on internal systems and took services offline during containment.",
+      "sources": [
+        {
+          "label": "Ingram Micro",
+          "url": "https://www.ingrammicro.com/en-us/2025cybersecurityincident"
+        }
+      ]
+    },
+    {
+      "id": "qantas-2025-07-02",
+      "disclosed": "2025-07-02",
+      "organisation": "Qantas",
+      "countries": [
+        "AUS"
+      ],
+      "type": "Data breach",
+      "sector": "Transport",
+      "status": "confirmed",
+      "summary": "Qantas disclosed unauthorised access to a third-party customer servicing platform used by one of its contact centres.",
+      "sources": [
+        {
+          "label": "Qantas ASX announcement",
+          "url": "https://investor.qantas.com/DownloadFile.axd?file=%2FReport%2FComNews%2F20250702%2F02963135.pdf"
+        }
+      ],
+      "discovered": "2025-06-30"
+    },
+    {
+      "id": "albanian-organisations-druidfly-2025-06-20",
+      "disclosed": "2025-06-20",
+      "organisation": "Albanian organisations / Druidfly",
+      "countries": [
+        "ALB"
+      ],
+      "type": "Destructive attack",
+      "sector": "Unknown",
+      "status": "reported",
+      "summary": "Researchers identified a data-wiping operation targeting organisations in Albania.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-07/"
+        }
+      ]
+    },
+    {
+      "id": "aflac-us-2025-06-20",
+      "disclosed": "2025-06-20",
+      "organisation": "Aflac US",
+      "countries": [
+        "USA"
+      ],
+      "type": "Unauthorised access",
+      "sector": "Finance",
+      "status": "confirmed",
+      "summary": "Aflac said it interrupted an intrusion into its US network and began reviewing potentially affected files.",
+      "sources": [
+        {
+          "label": "Aflac",
+          "url": "https://newsroom.aflac.com/2025-06-20-Aflac-Incorporated-Discloses-Cybersecurity-Incident"
+        }
+      ],
+      "discovered": "2025-06-12"
+    },
+    {
+      "id": "westjet-2025-06-13",
+      "disclosed": "2025-06-13",
+      "organisation": "WestJet",
+      "countries": [
+        "CAN"
+      ],
+      "type": "Unauthorised access",
+      "sector": "Transport",
+      "status": "confirmed",
+      "summary": "WestJet investigated suspicious activity involving internal systems and later issued updates on the information involved.",
+      "sources": [
+        {
+          "label": "WestJet",
+          "url": "https://www.westjet.com/en-ca/news/2025/westjet-provides-update-on-june-13-2025-cybersecurity-incident"
+        }
+      ]
+    },
+    {
+      "id": "lexisnexis-risk-solutions-2025-05-29",
+      "disclosed": "2025-05-29",
+      "organisation": "LexisNexis Risk Solutions",
+      "countries": [
+        "USA"
+      ],
+      "type": "Data breach",
+      "sector": "Technology",
+      "status": "confirmed",
+      "summary": "A compromised account used for software collaboration enabled access to personal data held by the US data broker.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-06/"
+        }
+      ]
+    },
+    {
+      "id": "kettering-health-2025-05-20",
+      "disclosed": "2025-05-20",
+      "organisation": "Kettering Health",
+      "countries": [
+        "USA"
+      ],
+      "type": "Service disruption",
+      "sector": "Healthcare",
+      "status": "confirmed",
+      "summary": "The Ohio healthcare network reported a cyber incident that disrupted technology systems, affecting some scheduled care and communications.",
+      "sources": [
+        {
+          "label": "Kettering Health",
+          "url": "https://ketteringhealth.org/cybersecurity-incident-faq/"
+        }
+      ]
+    },
+    {
+      "id": "coinbase-2025-05-15",
+      "disclosed": "2025-05-15",
+      "organisation": "Coinbase",
+      "countries": [
+        "USA"
+      ],
+      "type": "Data breach",
+      "sector": "Finance",
+      "status": "confirmed",
+      "summary": "Coinbase reported that criminals recruited some overseas support personnel to obtain customer information and attempted to extort the company.",
+      "sources": [
+        {
+          "label": "SEC filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978825000094/coin-20250514.htm"
+        }
+      ]
+    },
+    {
+      "id": "co-op-group-2025-04-30",
+      "disclosed": "2025-04-30",
+      "organisation": "Co-op Group",
+      "countries": [
+        "GBR"
+      ],
+      "type": "Data breach",
+      "sector": "Retail",
+      "status": "confirmed",
+      "summary": "Co-op restricted access to parts of its IT network after detecting an attack and later reported that customer and member data had been accessed.",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/world/uk/britains-co-op-is-latest-retailer-be-hit-by-cyber-attack-2025-04-30/"
+        },
+        {
+          "label": "Co-op incident update",
+          "url": "https://www.co-operative.coop/media/news-releases/cyber-incident-update"
+        }
+      ]
+    },
+    {
+      "id": "guatemala-ministry-of-foreign-affairs-2025-04-29",
+      "disclosed": "2025-04-29",
+      "organisation": "Guatemala Ministry of Foreign Affairs",
+      "countries": [
+        "GTM"
+      ],
+      "type": "Espionage",
+      "sector": "Government",
+      "status": "confirmed",
+      "summary": "A joint cybersecurity review identified an intrusion into ministry systems. Guatemala's foreign ministry described activity extending into February 2025.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-06/"
+        }
+      ]
+    },
+    {
+      "id": "sk-telecom-2025-04-22",
+      "disclosed": "2025-04-22",
+      "organisation": "SK Telecom",
+      "countries": [
+        "KOR"
+      ],
+      "type": "Data breach",
+      "sector": "Telecommunications",
+      "status": "confirmed",
+      "summary": "SK Telecom disclosed unauthorised access that exposed some subscriber USIM information and began protective measures for customers.",
+      "sources": [
+        {
+          "label": "SK Telecom",
+          "url": "https://news.sktelecom.com/211423"
+        },
+        {
+          "label": "Yonhap",
+          "url": "https://en.yna.co.kr/view/AEN20250422003800320"
+        }
+      ]
+    },
+    {
+      "id": "marks-spencer-2025-04-22",
+      "disclosed": "2025-04-22",
+      "organisation": "Marks & Spencer",
+      "countries": [
+        "GBR"
+      ],
+      "type": "Service disruption",
+      "sector": "Retail",
+      "status": "confirmed",
+      "summary": "M&S reported a cyber incident that affected its retail operations and took action to restore services.",
+      "sources": [
+        {
+          "label": "M&S investor update",
+          "url": "https://corporate.marksandspencer.com/newsroom/press-releases/cyber-incident-further-update"
+        }
+      ]
+    },
+    {
+      "id": "german-association-for-east-european-studies-2025-04-08",
+      "disclosed": "2025-04-08",
+      "organisation": "German Association for East European Studies",
+      "countries": [
+        "DEU"
+      ],
+      "type": "Data breach",
+      "sector": "Research",
+      "status": "investigating",
+      "summary": "German authorities investigated an intrusion affecting the research association's email accounts.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-05/"
+        }
+      ],
+      "occurred": "2025-03"
+    },
+    {
+      "id": "finnish-ministry-for-foreign-affairs-2025-03-27",
+      "disclosed": "2025-03-27",
+      "organisation": "Finnish Ministry for Foreign Affairs",
+      "countries": [
+        "FIN"
+      ],
+      "type": "Unauthorised access",
+      "sector": "Government",
+      "status": "investigating",
+      "summary": "The ministry disabled its remote access service after identifying suspicious activity and referred the matter for investigation.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-04/"
+        }
+      ]
+    },
+    {
+      "id": "malaysia-airports-klia-2025-03-25",
+      "disclosed": "2025-03-25",
+      "organisation": "Malaysia Airports / KLIA",
+      "countries": [
+        "MYS"
+      ],
+      "type": "Ransomware",
+      "sector": "Transport",
+      "status": "confirmed",
+      "summary": "Malaysia Airports and NACSA investigated a cybersecurity incident at KLIA. The initial statement said flight operations continued. NACSA later identified the case as ransomware.",
+      "sources": [
+        {
+          "label": "RTM",
+          "url": "https://berita.rtm.gov.my/niaga/senarai-berita-niaga/senarai-artikel/malaysia-airports-kesan-ancaman-siber-di-klia/"
+        },
+        {
+          "label": "The Star, citing NACSA",
+          "url": "https://www.thestar.com.my/news/nation/2026/11/10/nacsa-records5110-cybersecurity-incidents"
+        }
+      ]
+    },
+    {
+      "id": "ukrzaliznytsia-2025-03-24",
+      "disclosed": "2025-03-24",
+      "organisation": "Ukrzaliznytsia",
+      "countries": [
+        "UKR"
+      ],
+      "type": "Service disruption",
+      "sector": "Transport",
+      "status": "reported",
+      "summary": "Ukraine's rail operator experienced interruptions to online ticketing and its mobile app. Train services continued.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-04/"
+        }
+      ]
+    },
+    {
+      "id": "ascom-2025-03-17",
+      "disclosed": "2025-03-17",
+      "organisation": "Ascom",
+      "countries": [
+        "CHE"
+      ],
+      "type": "Data breach",
+      "sector": "Technology",
+      "status": "confirmed",
+      "summary": "A compromised credential allowed access to Ascom's Jira system. The company reported that business operations were unaffected.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-04/"
+        }
+      ],
+      "occurred": "2025-03-16"
+    },
+    {
+      "id": "digid-government-login-2025-03-03",
+      "disclosed": "2025-03-03",
+      "organisation": "DigiD government login",
+      "countries": [
+        "NLD"
+      ],
+      "type": "DDoS",
+      "sector": "Government",
+      "status": "reported",
+      "summary": "Traffic floods interrupted access to the Dutch authentication service used to reach public services.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-04/"
+        }
+      ]
+    },
+    {
+      "id": "belgian-state-security-service-2025-02-26",
+      "disclosed": "2025-02-26",
+      "organisation": "Belgian State Security Service",
+      "countries": [
+        "BEL"
+      ],
+      "type": "Espionage",
+      "sector": "Government",
+      "status": "reported",
+      "summary": "Reporting cited by CERT-EU described access to intelligence-service email through a vulnerable mail security system during 2021–2023.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-03/"
+        }
+      ]
+    },
+    {
+      "id": "lee-enterprises-2025-02-12",
+      "disclosed": "2025-02-12",
+      "organisation": "Lee Enterprises",
+      "countries": [
+        "USA"
+      ],
+      "type": "Ransomware",
+      "sector": "Media",
+      "status": "confirmed",
+      "summary": "An attacker encrypted parts of the publishing company's network. The company reported disruptions to business operations and took steps to contain the incident.",
+      "sources": [
+        {
+          "label": "SEC filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/58361/000162828025005855/lee-20250212.htm"
+        }
+      ]
+    },
+    {
+      "id": "bybit-2025-02",
+      "disclosed": "2025-02",
+      "organisation": "Bybit",
+      "countries": [],
+      "type": "Digital asset theft",
+      "sector": "Finance",
+      "status": "confirmed",
+      "summary": "The FBI attributed the theft of approximately US$1.5 billion in virtual assets from the exchange to North Korea. The incident record omits an affected-country pin because the cited notice describes the exchange rather than a victim location.",
+      "sources": [
+        {
+          "label": "FBI / IC3",
+          "url": "https://www.ic3.gov/PSA/2025/PSA250226"
+        }
+      ],
+      "occurred": "2025-02-21"
+    },
+    {
+      "id": "eurocert-2025-01-15",
+      "disclosed": "2025-01-15",
+      "organisation": "EuroCert",
+      "countries": [
+        "POL"
+      ],
+      "type": "Ransomware",
+      "sector": "Technology",
+      "status": "confirmed",
+      "summary": "Ransomware compromised personal information relating to clients, contractors and employees of the Polish electronic-signature provider.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-02/"
+        }
+      ],
+      "occurred": "2025-01-12"
+    },
+    {
+      "id": "eindhoven-university-of-technology-2025-01-12",
+      "disclosed": "2025-01-12",
+      "organisation": "Eindhoven University of Technology",
+      "countries": [
+        "NLD"
+      ],
+      "type": "Service disruption",
+      "sector": "Education",
+      "status": "confirmed",
+      "summary": "The university disconnected its network after identifying a cyberattack, interrupting classes, exams and access to digital services.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-02/"
+        }
+      ],
+      "occurred": "2025-01-11"
+    },
+    {
+      "id": "slovak-land-registry-2025-01-09",
+      "disclosed": "2025-01-09",
+      "organisation": "Slovak land registry",
+      "countries": [
+        "SVK"
+      ],
+      "type": "Ransomware",
+      "sector": "Government",
+      "status": "reported",
+      "summary": "The registry took systems offline after an attack that interrupted land and property services.",
+      "sources": [
+        {
+          "label": "CERT-EU",
+          "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-02/"
+        }
+      ]
+    },
+    {
+      "id": "ntt-docomo-2025-01-02",
+      "disclosed": "2025-01-02",
+      "organisation": "NTT Docomo",
+      "countries": [
+        "JPN"
+      ],
+      "type": "DDoS",
+      "sector": "Telecommunications",
+      "status": "confirmed",
+      "summary": "A traffic flood interrupted access to parts of Docomo's web services, including the goo portal.",
+      "sources": [
+        {
+          "label": "NTT Docomo",
+          "url": "https://www.docomo.ne.jp/info/notice/page/250102_03_m.html"
+        }
+      ]
+    },
+    {
+      "id": "powerschool-2025-01",
+      "disclosed": "2025-01",
+      "organisation": "PowerSchool",
+      "countries": [
+        "CAN",
+        "USA"
+      ],
+      "type": "Data breach",
+      "sector": "Education",
+      "status": "confirmed",
+      "summary": "A compromise involving the student information system exposed data held for school districts. The Toronto District School Board issued notices to its community.",
+      "sources": [
+        {
+          "label": "Toronto District School Board",
+          "url": "https://www.tdsb.on.ca/About-Us/PowerSchool-Cyber-Incident"
+        }
+      ]
+    }
+  ]
+}
