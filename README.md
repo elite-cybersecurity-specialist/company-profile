@@ -18,13 +18,13 @@
 
 ## Vision, Mission and About ECS
 
-We envision a Malaysia whose essential services can withstand cyberattacks and recover quickly from disruption.
+We help private-sector organisations withstand cyberattacks and recover quickly from disruption.
 
-We harden systems, use authorised penetration testing to find weaknesses and verify that the fixes work.
+We use authorised RED TEAM operations and penetration testing to evaluate defences, identify weaknesses and verify that fixes work.
 
 **Harden → Test → Validate → Remediate → Retest → Maintain**
 
-Established in Malaysia in 2024, Elite Cybersecurity Specialist (ECS) focuses on reducing exposure and keeping sensitive operations resilient. We work across endpoints, networks, servers, websites, payment integrations and the systems that support them.
+Established in Malaysia in 2024, Elite Cybersecurity Specialist (ECS) serves private-sector organisations, businesses and enterprises. ECS specialises in offensive security, RED TEAM operations, penetration testing and cybersecurity system development. We work with a discreet network of highly skilled cybersecurity specialists and ethical hackers whose identities remain confidential. We work across endpoints, networks, servers, websites, payment integrations and the systems that support them.
 
 <p align="center">
   <img src="company-profile-images/1-cover.png" alt="ECS company profile cover" width="300">
@@ -43,7 +43,7 @@ Established in Malaysia in 2024, Elite Cybersecurity Specialist (ECS) focuses on
 ## Our Seven Services
 
 1. [Defensive System Hardening](#1-defensive-system-hardening)
-2. [Penetration Testing & Security Assessment](#2-penetration-testing--security-assessment)
+2. [RED TEAM Operations & Advanced Penetration Testing](#2-red-team-operations--advanced-penetration-testing)
 3. [Custom Secure Android Phones](#3-custom-secure-android-phones)
 4. [Custom Secure Websites](#4-custom-secure-websites)
 5. [Anonymity & Privacy Architecture](#5-anonymity--privacy-architecture)
@@ -58,11 +58,13 @@ Our core strength is secure configuration for infrastructure, applications and c
 
 We identify critical functions, record the baseline, apply agreed controls, then validate exposure and service operation. Maintenance covers updates, drift, monitoring, backups and recovery. [Explore the ECS Hardening Challenge](https://github.com/elite-cybersecurity-specialist/hardening-challenge).
 
-### 2. Penetration Testing & Security Assessment
+### 2. RED TEAM Operations & Advanced Penetration Testing
 
-![Penetration testing and security assessment](company-profile-images/2026-11/penetration-testing-wide.jpg)
+![RED TEAM Operations & Advanced Penetration Testing](company-profile-images/2026-11/penetration-testing-wide.jpg)
 
-ECS and the system owner agree on scope before testing. Assessments can cover web and mobile applications, APIs, authentication, access control, servers, networks, Wi-Fi, CCTV, IoT, social engineering, phishing simulations and physical access controls.
+**RED TEAM operations** simulate relevant adversaries, map selected techniques to MITRE ATT&CK and assess attack paths, security controls, detection and response.
+
+**Advanced penetration testing** validates exploitable weaknesses, including privilege escalation where authorised. ECS and the system owner agree on scope before testing. Assessments can cover web and mobile applications, APIs, authentication, access control, servers, networks, Wi-Fi, CCTV, IoT, social engineering, phishing simulations and physical access controls.
 
 Black-box, grey-box and white-box methods reflect the access and information available. ECS validates findings, recommends remediation and retests fixes. [Explore ECS penetration testing](https://github.com/elite-cybersecurity-specialist/penetration-testing).
 
@@ -134,7 +136,7 @@ ECS can scope security and service monitoring, integrity reviews, controlled upd
 
 ## Our Prospective Clients
 
-Government and public-sector teams, private banks, family offices, payment environments, gaming and other sensitive online operations, privacy-sensitive professionals, universities and cybersecurity teams.
+Private-sector clients include private banks, family offices, payment providers, gaming businesses, privacy-sensitive professionals and enterprise cybersecurity teams. ECS also offers cybersecurity seminars for universities.
 
 ## What Clients Receive
 
