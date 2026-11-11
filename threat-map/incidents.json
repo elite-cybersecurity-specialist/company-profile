@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 1,
+  "revision": 2,
   "verifiedThrough": "2026-11-12",
   "incidents": [
     {
@@ -441,7 +441,11 @@
       "summary": "Unauthorised access reached files holding a limited subset of consumer information. CTOS reported it contained the environment and began remediation.",
       "sources": [
         {
-          "label": "Bernama, citing Bursa Malaysia filing",
+          "label": "CTOS Bursa Malaysia announcement",
+          "url": "https://www.insage.com.my/ir/cmn/Announcement.aspx?NewsID=202609235000001&Symbol=5301"
+        },
+        {
+          "label": "Bernama",
           "url": "https://bernama.com/en/business/news.php?id=2610767"
         }
       ]
@@ -483,6 +487,28 @@
         {
           "label": "CERT-EU",
           "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-10/"
+        }
+      ]
+    },
+    {
+      "id": "duopharma-biotech-2026-09-11",
+      "disclosed": "2026-09-11",
+      "organisation": "Duopharma Biotech",
+      "countries": [
+        "MYS"
+      ],
+      "type": "Data breach",
+      "sector": "Healthcare",
+      "status": "confirmed",
+      "summary": "Duopharma disclosed a cybersecurity incident and reported preliminary findings of file extraction. Its forensic investigation was assessing the scope of the affected files.",
+      "sources": [
+        {
+          "label": "Bursa Malaysia announcement via KLSE Screener",
+          "url": "https://www.klsescreener.com/v2/announcements/view/11666523"
+        },
+        {
+          "label": "The Star",
+          "url": "https://www.thestar.com.my/business/business-news/2026/09/11/duopharma-says-data-files-extracted-in-cyber-incident"
         }
       ]
     },
@@ -650,6 +676,24 @@
       ]
     },
     {
+      "id": "maxis-2026-07-21",
+      "disclosed": "2026-07-21",
+      "organisation": "Maxis",
+      "countries": [
+        "MYS"
+      ],
+      "type": "Data breach",
+      "sector": "Telecommunications",
+      "status": "confirmed",
+      "summary": "Maxis confirmed unauthorised access after a customer’s account and billing details appeared on social media. Malaysia’s Personal Data Protection Department opened an investigation.",
+      "sources": [
+        {
+          "label": "Bernama, citing Maxis and JPDP",
+          "url": "https://bernama.com/en/general/news.php?id=2584461"
+        }
+      ]
+    },
+    {
       "id": "romanian-land-registry-agency-2026-07-20",
       "disclosed": "2026-07-20",
       "organisation": "Romanian land registry agency",
@@ -765,6 +809,28 @@
         }
       ],
       "discovered": "2026-06-25"
+    },
+    {
+      "id": "malaysia-health-ministry-and-agency-websites-2026-06-26",
+      "disclosed": "2026-06-26",
+      "organisation": "Malaysia Health Ministry and agency websites",
+      "countries": [
+        "MYS"
+      ],
+      "type": "Unauthorised access",
+      "sector": "Government",
+      "status": "confirmed",
+      "summary": "NACSA linked several Malaysian government website compromises to the same Joomla extension vulnerability. The Health Ministry confirmed its public portal had been compromised.",
+      "sources": [
+        {
+          "label": "The Star, citing NACSA’s advisory",
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/06/27/nacsa-issues-advisory-on-critical-vulnerability-related-to-hack-of-health-ministrys-website"
+        },
+        {
+          "label": "Health Ministry confirmation via Malay Mail",
+          "url": "https://www.malaymail.com/news/malaysia/2026/06/27/moh-website-hacked-ministry-warns-malaysians-avoid-site-and-rely-on-verified-platforms/225402"
+        }
+      ]
     },
     {
       "id": "belgian-civilian-intelligence-service-2026-06-19",
@@ -1011,6 +1077,35 @@
       ]
     },
     {
+      "id": "belfor-asia-2026-04-19",
+      "disclosed": "2026-04-19",
+      "organisation": "BELFOR Asia",
+      "countries": [
+        "JPN",
+        "MYS",
+        "SGP"
+      ],
+      "type": "Data breach",
+      "sector": "Business services",
+      "status": "confirmed",
+      "summary": "BELFOR disclosed data theft from its regional network and took systems offline to contain the incident. Its Malaysia, Singapore and Japan notices describe the same regional case.",
+      "sources": [
+        {
+          "label": "BELFOR initial disclosure",
+          "url": "https://www.belfor.com/sg/en/resources/important-information-following-a-cyberattack-at-belfor-asia/"
+        },
+        {
+          "label": "BELFOR Malaysia update",
+          "url": "https://www.belfor.com/my/en/resources/important-information-following-a-cyberattack-at-belfor-asia-update-2/"
+        },
+        {
+          "label": "Recovery Pro Japan report",
+          "url": "https://recoverypro.jp/en/resources/final-report-of-cyber-incident/"
+        }
+      ],
+      "discovered": "2026-04-16"
+    },
+    {
       "id": "microlink-solutions-formis-2026-04-14",
       "disclosed": "2026-04-14",
       "organisation": "Microlink Solutions / Formis",
@@ -1044,6 +1139,24 @@
         {
           "label": "CERT-EU",
           "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-05/"
+        }
+      ]
+    },
+    {
+      "id": "bank-rakyat-it-infrastructure-2026-04-01",
+      "disclosed": "2026-04-01",
+      "organisation": "Bank Rakyat IT infrastructure",
+      "countries": [
+        "MYS"
+      ],
+      "type": "Unauthorised access",
+      "sector": "Finance",
+      "status": "confirmed",
+      "summary": "Bank Negara Malaysia disclosed that an external actor had gained access to the bank’s IT infrastructure. Its enforcement notice reported control gaps and remedial measures taken by the bank.",
+      "sources": [
+        {
+          "label": "Bank Negara Malaysia enforcement notice",
+          "url": "https://alumni.bnm.gov.my/web/guest/-/eapn072026"
         }
       ]
     },
@@ -1225,6 +1338,25 @@
       ]
     },
     {
+      "id": "mfe-formwork-technology-2026-01-23",
+      "disclosed": "2026-01-23",
+      "organisation": "MFE Formwork Technology",
+      "countries": [
+        "MYS"
+      ],
+      "type": "Ransomware",
+      "sector": "Manufacturing",
+      "status": "confirmed",
+      "summary": "MFE disclosed that ransomware had exposed some internal files, including material relating to customers and suppliers. It notified Malaysia’s Personal Data Protection Commissioner.",
+      "sources": [
+        {
+          "label": "MFE customer and vendor notices",
+          "url": "https://mfeformwork.com/cybersecurity-incident-affecting-your-data/"
+        }
+      ],
+      "discovered": "2025-11-12"
+    },
+    {
       "id": "eurail-2026-01-10",
       "disclosed": "2026-01-10",
       "organisation": "Eurail",
@@ -1349,6 +1481,29 @@
           "url": "https://cert.europa.eu/publications/threat-intelligence/cb26-01/"
         }
       ]
+    },
+    {
+      "id": "fcl-components-malaysia-2025-12-03",
+      "disclosed": "2025-12-03",
+      "organisation": "FCL Components Malaysia",
+      "countries": [
+        "MYS"
+      ],
+      "type": "Data breach",
+      "sector": "Manufacturing",
+      "status": "confirmed",
+      "summary": "The parent company disclosed unauthorised access to a server used by its Malaysian subsidiary. Its later investigation confirmed that some information had leaked and some data had been encrypted.",
+      "sources": [
+        {
+          "label": "FCL Components initial disclosure",
+          "url": "https://www.fcl-components.com/en/resources/news/press-releases/2025/20251203.html"
+        },
+        {
+          "label": "FCL Components findings",
+          "url": "https://www.fcl-components.com/en/resources/news/press-releases/2026/20260206.html"
+        }
+      ],
+      "occurred": "2025-12-01"
     },
     {
       "id": "coupang-2025-11-29",
@@ -1480,6 +1635,24 @@
         {
           "label": "CERT-EU",
           "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-11/"
+        }
+      ]
+    },
+    {
+      "id": "football-association-of-malaysia-fam-2025-10-06",
+      "disclosed": "2025-10-06",
+      "organisation": "Football Association of Malaysia (FAM)",
+      "countries": [
+        "MYS"
+      ],
+      "type": "Website defacement",
+      "sector": "Sports",
+      "status": "reported",
+      "summary": "A ransom message appeared on the association’s competition management website, which holds registration and competition records. The report described the message and the site compromise.",
+      "sources": [
+        {
+          "label": "The Star",
+          "url": "https://www.thestar.com.my/sport/football/2025/10/06/hackers-hold-fams-competition-management-system-hostage"
         }
       ]
     },
@@ -1745,6 +1918,25 @@
       ]
     },
     {
+      "id": "farms-best-food-industries-cab-cakaran-2025-06-05",
+      "disclosed": "2025-06-05",
+      "organisation": "Farm’s Best Food Industries / CAB Cakaran",
+      "countries": [
+        "MYS"
+      ],
+      "type": "Data breach",
+      "sector": "Manufacturing",
+      "status": "confirmed",
+      "summary": "CAB Cakaran disclosed a breach of its subsidiary’s accounting system and began recovery and impact assessment.",
+      "sources": [
+        {
+          "label": "The Star, citing Bursa Malaysia filing",
+          "url": "https://www.thestar.com.my/business/business-news/2025/06/05/cab-cakaran-says-subsidiary039s-system-hacked"
+        }
+      ],
+      "occurred": "2025-06-03"
+    },
+    {
       "id": "lexisnexis-risk-solutions-2025-05-29",
       "disclosed": "2025-05-29",
       "organisation": "LexisNexis Risk Solutions",
@@ -1777,6 +1969,24 @@
         {
           "label": "Kettering Health",
           "url": "https://ketteringhealth.org/cybersecurity-incident-faq/"
+        }
+      ]
+    },
+    {
+      "id": "kuala-lumpur-city-hall-dbkl-2025-05-19",
+      "disclosed": "2025-05-19",
+      "organisation": "Kuala Lumpur City Hall (DBKL)",
+      "countries": [
+        "MYS"
+      ],
+      "type": "Service disruption",
+      "sector": "Government",
+      "status": "confirmed",
+      "summary": "NACSA acknowledged a cybersecurity incident after several city services became unavailable. Its initial assessment pointed to malware, and DBKL announced a phased restoration.",
+      "sources": [
+        {
+          "label": "The Star, citing NACSA",
+          "url": "https://www.thestar.com.my/tech/tech-news/2025/05/19/nacsa-aware-of-alleged-dbkl-malware-incident"
         }
       ]
     },
@@ -1952,6 +2162,24 @@
         {
           "label": "CERT-EU",
           "url": "https://cert.europa.eu/publications/threat-intelligence/cb25-04/"
+        }
+      ]
+    },
+    {
+      "id": "democratic-action-party-dap-2025-03-17",
+      "disclosed": "2025-03-17",
+      "organisation": "Democratic Action Party (DAP)",
+      "countries": [
+        "MYS"
+      ],
+      "type": "Unauthorised access",
+      "sector": "Politics",
+      "status": "confirmed",
+      "summary": "The party confirmed that someone had gained access to its official Facebook and Instagram accounts and published unauthorised posts.",
+      "sources": [
+        {
+          "label": "The Star, citing DAP",
+          "url": "https://www.thestar.com.my/news/nation/2025/03/17/dap039s-social-media-accounts-hacked"
         }
       ]
     },
