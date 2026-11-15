@@ -1,13 +1,11 @@
-<p align="center">
-  <img src="company-profile-images/4-main.png" alt="Elite Cybersecurity Specialist company briefing banner" width="100%">
-</p>
+![Elite Cybersecurity Specialist corporate cover](assets/ecs-2026/slides/00-company-introduction/01-corporate-cover.jpg)
 
 <h1 align="center">ELITE CYBERSECURITY SPECIALIST</h1>
 
 <p align="center"><strong>Company Profile | November 2026</strong></p>
 
 <p align="center">
-  <a href="pdf/ECS_Company_Profile_2026-11.pdf"><strong>View the Full Company Presentation</strong></a>
+  <a href="pdf/ECS_Company_Profile_2026-11.pdf"><strong>Download Company Profile (PDF)</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/elite-cybersecurity-specialist">GitHub Projects</a>
   &nbsp;·&nbsp;
@@ -16,139 +14,175 @@
 
 > **HARDEN. TEST. VERIFY. IMPROVE.**
 
-## Vision, Mission and About ECS
+## About ECS
 
-We help private-sector organisations withstand cyberattacks and recover quickly from disruption.
+Established in Malaysia in 2024, Elite Cybersecurity Specialist (ECS) serves private-sector organisations, businesses and enterprises. Our professional services cover defensive security engineering, authorised offensive assessments, secure development, cybersecurity education and applied AI research.
 
-We use authorised RED TEAM operations and penetration testing to evaluate defences, identify weaknesses and verify that fixes work.
+We work with a discreet network of highly skilled cybersecurity specialists and ethical hackers whose identities remain confidential. Our engagements start with the client's systems, critical services and operating constraints, and advance through agreed changes and verification to a documented handover.
 
-**Harden → Test → Validate → Remediate → Retest → Maintain**
+[Professional Services](#professional-services) · [Company Organization](#company-organization) · [How We Deliver](#how-we-deliver) · [Sales & Pricing](#sales--pricing) · [Contact](#connect-with-elite-cybersecurity-specialist)
 
-Established in Malaysia in 2024, Elite Cybersecurity Specialist (ECS) serves private-sector organisations, businesses and enterprises. ECS specialises in offensive security, RED TEAM operations, penetration testing and cybersecurity system development. We work with a discreet network of highly skilled cybersecurity specialists and ethical hackers whose identities remain confidential. We work across endpoints, networks, servers, websites, payment integrations and the systems that support them.
+## Our 10 Departments
 
-<p align="center">
-  <img src="company-profile-images/1-cover.png" alt="ECS company profile cover" width="300">
-  <img src="company-profile-images/2-founder-intro.png" alt="Yuhisern Navaratnam, founder of ECS" width="300">
-</p>
+![Departments 01–05 deliver professional services. Departments 06–10 support company operations.](assets/ecs-2026/source-images/latest-pdf-key-pages/03-ten-departments-overview.png)
 
-## Defensive Priorities
-
-| Priority | ECS control | Example verification |
-| --- | --- | --- |
-| Public websites | Separate public hosting from internal systems. | Check whether the public tier can reach a restricted system. |
-| Third-party access | Limit vendor accounts to approved systems and data. | Revoke a test vendor account and verify that access is blocked. |
-| Sensitive data | Restrict access and alert on attempts to cross security boundaries. | Run an authorised access check and confirm that it triggers an alert. |
-| Service recovery | Maintain protected backups for priority services. | Restore a priority service and record the recovery time. |
-
-## Our Seven Services
-
-1. [Defensive System Hardening](#1-defensive-system-hardening)
-2. [RED TEAM Operations & Advanced Penetration Testing](#2-red-team-operations--advanced-penetration-testing)
-3. [Custom Secure Android Phones](#3-custom-secure-android-phones)
-4. [Custom Secure Websites](#4-custom-secure-websites)
-5. [Anonymity & Privacy Architecture](#5-anonymity--privacy-architecture)
-6. [Cybersecurity System Development](#6-cybersecurity-system-development)
-7. [University Cybersecurity Seminars](#7-university-cybersecurity-seminars)
-
-### 1. Defensive System Hardening
-
-![Defensive system hardening](company-profile-images/5-system-hardening.png)
-
-Our core strength is secure configuration for infrastructure, applications and connected devices. The scope can include servers, operating systems, cloud and virtualisation platforms, websites, applications, databases, APIs, networks, Wi-Fi, CCTV, endpoints, mobile phones and IoT devices.
-
-We identify critical functions, record the baseline, apply agreed controls, then validate exposure and service operation. Maintenance covers updates, drift, monitoring, backups and recovery. [Explore the ECS Hardening Challenge](https://github.com/elite-cybersecurity-specialist/hardening-challenge).
-
-### 2. RED TEAM Operations & Advanced Penetration Testing
-
-![RED TEAM Operations & Advanced Penetration Testing](company-profile-images/2026-11/penetration-testing-wide.jpg)
-
-**RED TEAM operations** simulate relevant adversaries, map selected techniques to MITRE ATT&CK and assess attack paths, security controls, detection and response.
-
-**Advanced penetration testing** validates exploitable weaknesses, including privilege escalation where authorised. ECS and the system owner agree on scope before testing. Assessments can cover web and mobile applications, APIs, authentication, access control, servers, networks, Wi-Fi, CCTV, IoT, social engineering, phishing simulations and physical access controls.
-
-Black-box, grey-box and white-box methods reflect the access and information available. ECS validates findings, recommends remediation and retests fixes. [Explore ECS penetration testing](https://github.com/elite-cybersecurity-specialist/penetration-testing).
-
-### 3. Custom Secure Android Phones
-
-![Custom secure Android phones](company-profile-images/2026-11/secure-android-phones-wide.jpg)
-
-ECS configures GrapheneOS on supported Pixel hardware for sensitive communications and administration. The setup includes relocking the bootloader after supported installation and tailoring credentials, USB behaviour, restart settings, app separation, permissions and backups to the use case. Approved encrypted apps and protected routes, such as an always-on VPN or Tor where appropriate, depend on the agreed workflows and app compatibility.
-
-### 4. Custom Secure Websites
-
-![Custom secure websites](company-profile-images/9-secure-websites.png)
-
-ECS plans application security and deployment together. We define roles, authentication, sessions and data handling, harden the origin, restrict administration and add edge protection where appropriate. Hosted payments can reduce the payment data the application handles. We also scope dependency review, logging, backups, recovery and security testing.
-
-Projects can include public and corporate websites, e-commerce, booking, banking and healthcare portals, memberships, dashboards, media, education, private-access sites and custom web applications. [Explore ECS secure website development](https://github.com/elite-cybersecurity-specialist/custom-secure-websites).
-
-### 5. Anonymity & Privacy Architecture
-
-ECS reduces identity and infrastructure exposure through hardened operator devices, separate identities, approved administrative routes and encrypted communications. The ECS Ghost Connection concept helps scope controlled routing, encrypted DNS and leak checks.
-
-| Deployment | User access | Administrator access |
-| --- | --- | --- |
-| Secure Public Internet | Standard browsers reach a protected edge. The origin stays restricted. | A hardened operator device uses a separate protected route. |
-| Tor Private Internet | Tor Browser reaches an onion service exposing only the agreed functionality. | Approved administrators use a separate Tor route and restricted infrastructure access. |
-
-[Public internet architecture illustration](company-profile-images/7-anonimity.png) · [Tor private internet architecture illustration](company-profile-images/8-tor.png)
-
-### 6. Cybersecurity System Development
-
-![Cybersecurity system development](company-profile-images/11-system-developing.png)
-
-ECS builds security software, integrations and automation. Capabilities include system architecture, software, databases, APIs, integrations, cloud deployment, DevOps, automation, testing and quality assurance. [Explore ECS system development](https://github.com/elite-cybersecurity-specialist/system-development).
-
-| Engineering example | Focus |
+| Professional Services | Company Organization |
 | --- | --- |
-| [Battle-Hardened AI](https://github.com/elite-cybersecurity-specialist/battle-hardened-ai) | Combines security signals, evaluates activity and applies defensive decisions across supported infrastructure. |
-| [Battle Offensive AI](https://github.com/elite-cybersecurity-specialist/battle-offensive-ai) | Research into automated discovery, test selection and evidence validation in authorised environments. |
-| Precision Email System | In-house software for prospect research and drafting tailored emails for human review and manual sending. |
+| [01 · Elite Defence](#01-elite-defence-department) | [06 · Governance Risk and Compliance][grc] |
+| [02 · Elite Offensive](#02-elite-offensive-department) | [07 · Internal IT][internal-it] |
+| [03 · Software & Website Development](#03-software--website-development-department) | [08 · Marketing & Sales (Pre Sales)][pre-sales] |
+| [04 · Education & Training](#04-education--training-department) | [09 · Post Sales][post-sales] |
+| [05 · AI R&D](#05-ai-rd-department) | [10 · HR & Finance][hr-finance] |
 
-#### Independent Research & Development
+### Organisational Hierarchy
 
-ECS independently funds research alongside client engagements. **Perfect Charity System** explores donation traceability through recipient profiles, transaction records and direct payments. **Discover New Species** explores how drone observations can flag unusual findings for expert review. Battle-Hardened AI and Battle Offensive AI are ECS cybersecurity research examples.
+[![ECS 2–6–2 reporting chart. Governance and Administration has two departments, Technical Services has six, and Business Operations has two.][org-chart]][org-chart]
 
-### 7. University Cybersecurity Seminars
+**Reporting chain** · Workers → Team Leaders → Managers → Directors → CEO → Chairman
 
-![University cybersecurity seminar programme](company-profile-images/2026-11/university-seminar-wide.jpg)
-
-The proposed three-day programme covers 25 practical subjects.
-
-| Day | Topic | Practical focus |
+| Reporting branch | Leadership | Departments |
 | --- | --- | --- |
-| 1 | Autonomous defensive AI | Set up and operate the system in a controlled environment. |
-| 2 | Hardening and privacy scope | Identify what to protect, what must stay available and where exposure can be reduced. |
-| 3 | Penetration testing scope | Define authorised boundaries and connect findings to remediation. |
+| Governance & Administration | Director of Governance, HR & Finance → Governance & Administration Manager | 06 and 10 |
+| Technical Services | Chief Technology Officer (CTO) → Technical Services Manager | 01–05 and 07 |
+| Business Operations | Director of Operations → Business Operations Manager | 08 and 09 |
 
-## Security Standards and Frameworks
+## Professional Services
 
-| Area | Guidance |
+### 01. Elite Defence Department
+
+![Elite Defence system hardening across infrastructure, applications, networks and devices](assets/ecs-2026/slides/01-professional-services/01-elite-defence/12-defensive-system-hardening.jpg)
+
+**Defensive System Hardening.** ECS assesses existing configuration, maps applicable controls, applies approved changes and verifies both enforcement and service operation. Scope can include Linux and Windows servers, operating systems, cloud, virtualisation, websites, APIs, databases, endpoints, networks, Wi-Fi, CCTV and IoT. Ongoing work can cover integrity monitoring, controlled updates, encrypted backups and recovery checks.
+
+**Custom Secure Android Phones.** ECS configures GrapheneOS on supported Google Pixel devices for sensitive communications and administration. The agreed setup can cover verified installation, bootloader relocking, app separation, credentials, USB settings, approved encrypted apps and recovery arrangements. [Secure Android illustration][secure-android]
+
+**Anonymity & Privacy Architecture.** ECS designs hardened operator devices, separate administration identities, restricted infrastructure access and protected communication routes. The design can use a protected public edge and separate origin, or a Tor-only service for an agreed private workflow. We validate access boundaries and routing against the threat model. [Public internet and payment architecture][public-architecture] · [Tor-only architecture][tor-architecture]
+
+[Department overview][defence-overview] · [ECS Hardening Challenge](https://github.com/elite-cybersecurity-specialist/hardening-challenge)
+
+### 02. Elite Offensive Department
+
+![RED TEAM operations, penetration testing and security assessments](assets/ecs-2026/slides/01-professional-services/02-elite-offensive/19-red-team-penetration-testing.jpg)
+
+**RED TEAM Operations & Advanced Penetration Testing.** ECS agrees written authorisation, test boundaries and objectives with the asset owner. RED TEAM exercises simulate relevant adversaries and validate attack paths, security controls, detection and response. Penetration testing discovers and validates exploitable weaknesses, records their impact, and gives the client remediation and retest priorities.
+
+| Assessment | Scope and approach |
 | --- | --- |
-| Configuration hardening | CIS Controls and Benchmarks. Selected DISA STIG and SRG guidance. |
-| Governance and access | NIST CSF 2.0, NIST SP 800-53, NIST SP 800-207 and ISO/IEC 27001 and 27002 principles. |
-| Application security | OWASP Top 10, ASVS and API Security. NIST SSDF (SP 800-218) and CISA Secure by Design. |
-| Threat-informed assessment | MITRE ATT&CK for realistic techniques and attack paths. |
+| Black Box | External assessment with little or limited internal information. |
+| Grey Box | Targeted testing with selected access, credentials or system information. |
+| White Box | Deeper assessment with approved access to architecture, source code or privileged context. |
+| RED TEAM | Objective-led adversary simulation using threat-informed techniques, including relevant MITRE ATT&CK techniques. |
+| Purple Team | Offensive and defensive specialists run scoped exercises together to improve detection and response. |
 
-## Monitoring, Backups and Response
+Agreed scopes can include web and mobile applications, APIs, authentication and access controls, networks, wireless, cloud, identity infrastructure, CCTV and IoT. Any social engineering, phishing simulation or physical access testing is scoped with the owner.
 
-ECS can scope security and service monitoring, integrity reviews, controlled updates, encrypted backups, recovery testing and incident response. Recovery tests check whether backups and rebuild procedures can restore the service.
+[Department overview][offensive-overview] · [Testing methods][testing-methods] · [ECS Penetration Testing](https://github.com/elite-cybersecurity-specialist/penetration-testing)
 
-## Our Prospective Clients
+### 03. Software & Website Development Department
+
+![ECS secure software and system development capabilities](assets/ecs-2026/slides/01-professional-services/03-software-website-development/23-system-development-capabilities.jpg)
+
+**Cybersecurity System Development.** ECS designs and develops applications, custom software, APIs, databases, integrations and security automation. Delivery covers requirements and data flows, architecture, secure coding, dependency review, functional and security testing, deployment and handover.
+
+**Custom Secure Websites.** ECS plans user roles, authentication, sessions and data handling together with deployment. Projects can include corporate sites, online stores, portals, dashboards and custom web applications. Scope can include origin hardening, edge protection, hosted payment integrations, logging, backups and recovery.
+
+[Department overview][development-overview] · [Custom secure website types][website-types] · [ECS System Development](https://github.com/elite-cybersecurity-specialist/system-development) · [ECS Custom Secure Websites](https://github.com/elite-cybersecurity-specialist/custom-secure-websites)
+
+### 04. Education & Training Department
+
+![ECS three-day university cybersecurity seminar](assets/ecs-2026/slides/01-professional-services/04-education-training/27-university-cybersecurity-seminar.jpg)
+
+ECS offers university seminars, practical workshops and corporate training. The proposed three-day university programme covers 25 planned subjects, with scope and materials agreed with each institution.
+
+| Day | Focus |
+| --- | --- |
+| 1 | Autonomous Defensive AI, guided operation and safeguards in a controlled environment. |
+| 2 | System hardening and privacy, including asset discovery, threat models and applicable controls. |
+| 3 | Authorised penetration-testing scope, Black/Grey/White Box concepts, reporting and remediation. |
+
+[Department overview][education-overview] · [Three-day seminar outline][seminar-outline]
+
+### 05. AI R&D Department
+
+![ECS AI research and development for defensive AI, offensive research, analytics and prototypes](assets/ecs-2026/slides/01-professional-services/05-ai-research-development/30-ai-research-development-cover.jpg)
+
+ECS researches defensive automation, threat intelligence, security analytics and agent-assisted testing. Research includes developing prototypes, evaluating controls and assessing operational suitability against the requirements of each engagement.
+
+| Research project | Focus |
+| --- | --- |
+| [Battle-Hardened AI](https://github.com/elite-cybersecurity-specialist/battle-hardened-ai) | Autonomous defensive analysis, validation, security decisions and adaptable controls. |
+| [Battle Offensive AI](https://github.com/elite-cybersecurity-specialist/battle-offensive-ai) | Agent-assisted research into authorised assessment workflows, test selection and evidence validation. |
+
+[Department overview][ai-overview] · [AI research portfolio][ai-portfolio]
+
+## Company Organization
+
+| Department | Responsibility |
+| --- | --- |
+| [06 · Governance Risk and Compliance Department][grc] | Owns policy oversight, risk registers, control applicability, third-party risk and audit evidence. |
+| [07 · Internal IT Department][internal-it] | Runs ECS employee systems, access, the corporate network, asset lifecycle, backups and the internal service desk. |
+| [08 · Marketing & Sales Department (Pre Sales)][pre-sales] | Qualifies enquiries, runs discovery and coordinates technical scoping, proposals and handover to delivery. |
+| [09 · Post Sales Department][post-sales] | Coordinates customer support, specialist escalation, agreed maintenance, service follow-up and renewals. |
+| [10 · HR & Finance Department][hr-finance] | Manages staffing, administration, payroll, budgeting, invoicing and procurement. |
+
+### Security Standards and Company Credentials
+
+| Area | Engineering references |
+| --- | --- |
+| Configuration hardening | Applicable CIS Controls and Benchmarks, DISA STIG/SRG guidance and vendor safeguards. |
+| Governance and access | NIST CSF 2.0, NIST SP 800-53, NIST SP 800-207, and ISO/IEC 27001 and 27002 principles. |
+| Application security | OWASP Top 10, ASVS and API Security, NIST SSDF (SP 800-218), and CISA Secure by Design. |
+| Threat-informed assessment | MITRE ATT&CK for relevant techniques and attack paths. |
+
+The corporate roadmap includes the Sdn. Bhd. transition and work toward applicable NACSA licensing, CyberSecurity Malaysia PTSP certification, CREST company accreditation and ISO/IEC 27001 certification. [NACSA licensing](https://www.nacsa.gov.my/application-licensing.php) · [CyberSecurity Malaysia PTSP scheme](https://iscb.cybersecurity.my/index.php/certification/management-system-certification/penetration-test/how-to-apply-2)
+
+## How We Deliver
+
+![ECS service delivery process from discovery, scope and baseline through execution, verification and handover](assets/ecs-2026/slides/03-methodology/51-service-delivery-model.jpg)
+
+**Discover → Scope → Baseline → Execute → Verify → Handover**
+
+The engagement begins with asset ownership, critical services, dependencies and agreed boundaries. ECS then records the baseline, implements or tests within change controls, and verifies the agreed security and service outcomes before handover.
+
+### What Clients Receive
+
+- Agreed scope, asset inventory, baseline and applicable security requirements.
+- Documented changes, verification results, validated findings and practical remediation priorities.
+- Before-and-after evidence, accepted exceptions, retest results and remaining risk where relevant.
+- Operational guidance, ownership and support arrangements for maintenance, monitoring, backups, recovery or incident response as agreed.
 
 Private-sector clients include private banks, family offices, payment providers, gaming businesses, privacy-sensitive professionals and enterprise cybersecurity teams. ECS also offers cybersecurity seminars for universities.
 
-## What Clients Receive
+## Sales & Pricing
 
-Depending on scope, clients receive a configuration baseline and documented changes, validated findings and retest results, architecture and operating guidance, and operational support for monitoring, backups, recovery or incidents. ECS documents remaining risks and shares sensitive implementation details through agreed channels.
+ECS publishes indicative selling ranges in Malaysian Ringgit (RM). Each quotation defines assets, scope, deliverables, exclusions and acceptance criteria. Hardware, third-party services, travel and applicable taxes are excluded unless expressly included.
+
+| Service | Indicative ECS rate |
+| --- | ---: |
+| Linux or Windows Server hardening, standard scope | From RM5,000 per server |
+| Extended production server hardening | RM15,000–40,000+ |
+| Supported Google Pixel / GrapheneOS setup | RM5,000 per device for engineering |
+| Standard website or application hardening | From RM10,000 per site |
+| Black Box web application testing | RM8,000–20,000 |
+| Grey Box web application testing | RM10,000–25,000 |
+| White Box web application testing | RM12,000–30,000 |
+| RED TEAM adversary simulation | RM50,000–150,000+ |
+| Purple Team exercise | RM60,000–150,000+ |
+| Custom secure website development | RM15,000–50,000+ |
+| Software or system development | RM30,000–150,000+ |
+| Cybersecurity seminar or workshop | RM3,000–12,000 |
+
+[Full pricing tables, engineering scope and commercial terms (PDF)](pdf/ECS_Company_Profile_2026-11.pdf)
 
 ## Connect with Elite Cybersecurity Specialist
 
-**Yuhisern Navaratnam** — Cybersecurity Engineer  
-**Elite Cybersecurity Specialist** | Malaysia  
-**SSM:** 202403184091 (MA0319303-P)
+<p align="center">
+  <a href="assets/ecs-2026/source-images/contact/ecs-official-digital-name-card.png"><img src="assets/ecs-2026/source-images/contact/ecs-official-digital-name-card.png" alt="Official ECS digital name card for Yuhisern Navaratnam, Cybersecurity Engineer" width="525"></a>
+</p>
 
-[<img src="company-profile-images/3-name-card.png" alt="Elite Cybersecurity Specialist digital name card" width="525">](company-profile-images/3-name-card.png)
+**Yuhisern Navaratnam** — Cybersecurity Engineer<br>
+**Elite Cybersecurity Specialist** | Malaysia<br>
+**SSM:** 202403184091 (MA0319303-P)
 
 - [Email](mailto:Yuhisern@protonmail.com)
 - [WhatsApp](https://wa.me/60172791717)
@@ -159,3 +193,22 @@ Depending on scope, clients receive a configuration baseline and documented chan
 - [X](https://x.com/yuhisern)
 
 **HARDEN. TEST. VERIFY. IMPROVE.**
+
+[org-chart]: assets/ecs-2026/source-images/latest-pdf-key-pages/04-org-chart-approved-2-6-2.png
+[defence-overview]: assets/ecs-2026/slides/01-professional-services/01-elite-defence/11-elite-defence-department-overview.jpg
+[secure-android]: assets/ecs-2026/slides/01-professional-services/01-elite-defence/14-custom-secure-android-phones.jpg
+[public-architecture]: assets/ecs-2026/slides/01-professional-services/01-elite-defence/16-cloudflare-and-payment-architecture.jpg
+[tor-architecture]: assets/ecs-2026/slides/01-professional-services/01-elite-defence/17-tor-only-private-architecture.jpg
+[offensive-overview]: assets/ecs-2026/slides/01-professional-services/02-elite-offensive/18-elite-offensive-department-overview.jpg
+[testing-methods]: assets/ecs-2026/slides/01-professional-services/02-elite-offensive/20-testing-methods-black-grey-white-purple.jpg
+[development-overview]: assets/ecs-2026/slides/01-professional-services/03-software-website-development/22-software-website-development-overview.jpg
+[website-types]: assets/ecs-2026/slides/01-professional-services/03-software-website-development/24-custom-secure-websites.jpg
+[education-overview]: assets/ecs-2026/slides/01-professional-services/04-education-training/26-education-training-department-overview.jpg
+[seminar-outline]: assets/ecs-2026/slides/01-professional-services/04-education-training/28-three-day-seminar-outline.jpg
+[ai-overview]: assets/ecs-2026/slides/01-professional-services/05-ai-research-development/29-ai-research-development-overview.jpg
+[ai-portfolio]: assets/ecs-2026/slides/01-professional-services/05-ai-research-development/31-ai-research-portfolio.jpg
+[grc]: assets/ecs-2026/slides/02-company-organization/06-governance-risk-compliance/33-governance-risk-compliance-overview.jpg
+[internal-it]: assets/ecs-2026/slides/02-company-organization/07-internal-it/38-internal-it-department-overview.jpg
+[pre-sales]: assets/ecs-2026/slides/02-company-organization/08-marketing-sales-pre-sales/41-marketing-sales-pre-sales-overview.jpg
+[post-sales]: assets/ecs-2026/slides/02-company-organization/09-post-sales/44-post-sales-department-overview.jpg
+[hr-finance]: assets/ecs-2026/slides/02-company-organization/10-hr-finance/47-hr-finance-department-overview.jpg
