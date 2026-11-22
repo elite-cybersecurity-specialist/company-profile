@@ -1,8 +1,99 @@
 {
   "schemaVersion": 1,
-  "revision": 4,
-  "verifiedThrough": "2026-11-11",
+  "revision": 5,
+  "verifiedThrough": "2026-11-22",
   "incidents": [
+    {
+      "id": "ymca-singapore-youth-for-causes-2026-11-21",
+      "disclosed": "2026-11-21",
+      "organisation": "YMCA Singapore / Youth For Causes",
+      "countries": [
+        "SGP"
+      ],
+      "type": "Unauthorised access",
+      "sector": "Non-profit",
+      "status": "confirmed",
+      "summary": "YMCA confirmed unauthorised access to its Youth For Causes portal. The associated database held personal information; the extent of potential data exposure remained uncertain. The portal was shut down and independent forensic investigators were engaged.",
+      "sources": [
+        {
+          "label": "YMCA incident notice",
+          "url": "https://ymca.org.sg/notice-about-cyber-breach-involving-the-youth-for-causes/"
+        }
+      ]
+    },
+    {
+      "id": "joyride-philippines-2026-11-19",
+      "disclosed": "2026-11-19",
+      "organisation": "JoyRide Philippines",
+      "countries": [
+        "PHL"
+      ],
+      "type": "Potential data breach",
+      "sector": "Transport",
+      "status": "investigating",
+      "summary": "JoyRide said a cybersecurity incident may have compromised certain data and that it was investigating the scope with authorities and security specialists. Its transport services remained available. The company described additional controls and advised customers to protect account credentials and one-time passwords.",
+      "sources": [
+        {
+          "label": "JoyRide company statement, republished in full",
+          "url": "https://www.philstar.com/business/biz-memos/2026/11/19/2571215/statement-joyride-reported-cybersecurity-incident/amp/"
+        }
+      ]
+    },
+    {
+      "id": "malaysia-moh-file-sharing-platform-2026-11-14",
+      "disclosed": "2026-11-14",
+      "discovered": "2026-11-12",
+      "organisation": "Malaysia Ministry of Health / support file-sharing platform",
+      "countries": [
+        "MYS"
+      ],
+      "type": "Unauthorised access",
+      "sector": "Healthcare",
+      "status": "confirmed",
+      "summary": "Malaysia’s Health Ministry described unauthorised access to a support file-storage and sharing platform at one facility. It restricted public access and strengthened account controls. The ministry said its principal operational systems and patient-treatment services continued operating normally.",
+      "sources": [
+        {
+          "label": "RTM report of the Health Ministry statement",
+          "url": "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/insiden-siber-kkm-jamin-rawatan-pesakit-tidak-terjejas/"
+        }
+      ]
+    },
+    {
+      "id": "singapore-minmed-system-2026-11-12",
+      "disclosed": "2026-11-12",
+      "organisation": "Minmed Group",
+      "countries": [
+        "SGP"
+      ],
+      "type": "Unauthorised access",
+      "sector": "Healthcare",
+      "status": "confirmed",
+      "summary": "Singapore’s Health Ministry named Minmed among healthcare-related organisations whose systems had experienced unauthorised access. The ministry was following up with affected entities and said patient-care operations had not been disrupted. This record uses the ministry’s 12 November report date.",
+      "sources": [
+        {
+          "label": "Singapore Ministry of Health statement",
+          "url": "https://www.moh.gov.sg/newsroom/statement-on-recent-cybersecurity-incidents-in-healthcare-sector/"
+        }
+      ]
+    },
+    {
+      "id": "singapore-aic-advance-care-planning-2026-11-12",
+      "disclosed": "2026-11-12",
+      "organisation": "Agency for Integrated Care / Advance Care Planning system",
+      "countries": [
+        "SGP"
+      ],
+      "type": "Unauthorised access",
+      "sector": "Healthcare",
+      "status": "confirmed",
+      "summary": "Singapore’s Health Ministry identified the Agency for Integrated Care’s Advance Care Planning IT system among healthcare systems affected by unauthorised access. The ministry said the incidents had not disrupted patient-care operations and that affected entities were working with specialists and the authorities.",
+      "sources": [
+        {
+          "label": "Singapore Ministry of Health statement",
+          "url": "https://www.moh.gov.sg/newsroom/statement-on-recent-cybersecurity-incidents-in-healthcare-sector/"
+        }
+      ]
+    },
     {
       "id": "maersk-legacy-system-2026-11-11",
       "disclosed": "2026-11-11",
@@ -16380,11 +16471,25 @@
       "url": "https://inet.detik.com/law-and-policy/d-8747817/situs-pemerintah-diancam-serangan-hacker-komdigi-minta-siaga"
     },
     "PHL": {
-      "date": "2026-11-11",
-      "kind": "Reporting update",
-      "summary": "The NPC is assessing agency breach notifications from its 10 November release. This coverage follows that release and also reports on the Air Force investigation.",
-      "label": "DZRH follow-up",
-      "url": "https://www.dzrh.com.ph/post/10-govt-agencies-report-personal-data-breaches-to-npc"
+      "date": "2026-11-19",
+      "kind": "Investigation update",
+      "summary": "JoyRide said a cybersecurity incident may have compromised certain data and that it was investigating the scope with authorities and security specialists. Its transport services remained available. The company described additional controls and advised customers to protect account credentials and one-time passwords.",
+      "url": "https://www.philstar.com/business/biz-memos/2026/11/19/2571215/statement-joyride-reported-cybersecurity-incident/amp/",
+      "label": "JoyRide company statement, republished in full"
+    },
+    "MYS": {
+      "date": "2026-11-14",
+      "kind": "Ministry disclosure",
+      "summary": "Malaysia’s Health Ministry described unauthorised access to a support file-storage and sharing platform at one facility. It restricted public access and strengthened account controls. The ministry said its principal operational systems and patient-treatment services continued operating normally.",
+      "url": "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/insiden-siber-kkm-jamin-rawatan-pesakit-tidak-terjejas/",
+      "label": "RTM report of the Health Ministry statement"
+    },
+    "SGP": {
+      "date": "2026-11-21",
+      "kind": "Organisation disclosure",
+      "summary": "YMCA confirmed unauthorised access to its Youth For Causes portal. The associated database held personal information; the extent of potential data exposure remained uncertain. The portal was shut down and independent forensic investigators were engaged.",
+      "url": "https://ymca.org.sg/notice-about-cyber-breach-involving-the-youth-for-causes/",
+      "label": "YMCA incident notice"
     }
   }
 }
