@@ -36,9 +36,9 @@ We work with a discreet network of highly skilled cybersecurity specialists and 
 
 ### Organisational Hierarchy
 
-[![ECS 2–6–2 organisational hierarchy. Administration and Governance has two departments, Technical and Professional Services has six, and Business Operations has two.][org-chart]][org-chart]
+[![ECS 2–6–2 organisational hierarchy: Chairman, CEO, COO, three directors and three managers. Administration and Governance has two departments, Technical and Professional Services has six, and Business Operations has two.][org-chart]][org-chart]
 
-**Reporting chain** · Workers → Team Leaders → Managers → Directors → CEO → Chairman
+**Reporting chain** · Workers → Team Leaders → Managers → Directors → COO → CEO → Chairman
 
 | Reporting branch | Leadership | Departments |
 | --- | --- | --- |
