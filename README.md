@@ -28,37 +28,38 @@ We work with a discreet network of highly skilled cybersecurity specialists and 
 
 | Professional Services | Company Organization |
 | --- | --- |
-| [01 · Elite Defence](#01-elite-defence-department) | [06 · Governance Risk and Compliance][grc] |
+| [01 · AI R&D](#01-ai-rd-department) | [06 · Governance Risk and Compliance][grc] |
 | [02 · Elite Offensive](#02-elite-offensive-department) | [07 · Internal IT][internal-it] |
-| [03 · Software & Website Development](#03-software--website-development-department) | [08 · Marketing & Sales (Pre Sales)][pre-sales] |
-| [04 · Education & Training](#04-education--training-department) | [09 · Post Sales][post-sales] |
-| [05 · AI R&D](#05-ai-rd-department) | [10 · HR & Finance][hr-finance] |
+| [03 · Elite Defence](#03-elite-defence-department) | [08 · Marketing & Sales (Pre Sales)][pre-sales] |
+| [04 · Software & Website Development](#04-software--website-development-department) | [09 · Post Sales][post-sales] |
+| [05 · Education & Training](#05-education--training-department) | [10 · HR & Finance][hr-finance] |
 
 ### Organisational Hierarchy
 
-[![ECS 2–6–2 reporting chart. Governance and Administration has two departments, Technical Services has six, and Business Operations has two.][org-chart]][org-chart]
+[![ECS 2–6–2 organisational hierarchy. Administration and Governance has two departments, Technical and Professional Services has six, and Business Operations has two.][org-chart]][org-chart]
 
 **Reporting chain** · Workers → Team Leaders → Managers → Directors → CEO → Chairman
 
 | Reporting branch | Leadership | Departments |
 | --- | --- | --- |
-| Governance & Administration | Director of Governance, HR & Finance → Governance & Administration Manager | 06 and 10 |
-| Technical Services | Chief Technology Officer (CTO) → Technical Services Manager | 01–05 and 07 |
-| Business Operations | Director of Operations → Business Operations Manager | 08 and 09 |
+| Governance & Administration | Director of Governance, HR & Finance → Manager — Governance & Administration | 06 and 10 |
+| Technical & Professional Services | Chief Technology Officer (CTO) → Manager — Internal IT & Technical Services | 01–05 and 07 |
+| Business Operations | Director of Operations → Manager — Business Operations | 08 and 09 |
 
 ## Professional Services
 
-### 01. Elite Defence Department
+### 01. AI R&D Department
 
-![Elite Defence system hardening across infrastructure, applications, networks and devices](assets/ecs-2026/slides/01-professional-services/01-elite-defence/12-defensive-system-hardening.jpg)
+![ECS AI research and development for defensive AI, offensive research, analytics and prototypes](assets/ecs-2026/slides/01-professional-services/05-ai-research-development/30-ai-research-development-cover.jpg)
 
-**Defensive System Hardening.** ECS assesses existing configuration, maps applicable controls, applies approved changes and verifies both enforcement and service operation. Scope can include Linux and Windows servers, operating systems, cloud, virtualisation, websites, APIs, databases, endpoints, networks, Wi-Fi, CCTV and IoT. Ongoing work can cover integrity monitoring, controlled updates, encrypted backups and recovery checks.
+ECS researches defensive automation, threat intelligence, security analytics and agent-assisted testing. Research includes developing prototypes, evaluating controls and assessing operational suitability against the requirements of each engagement.
 
-**Custom Secure Android Phones.** ECS configures GrapheneOS on supported Google Pixel devices for sensitive communications and administration. The agreed setup can cover verified installation, bootloader relocking, app separation, credentials, USB settings, approved encrypted apps and recovery arrangements. [Secure Android illustration][secure-android]
+| Research project | Focus |
+| --- | --- |
+| [Battle-Hardened AI](https://github.com/elite-cybersecurity-specialist/battle-hardened-ai) | Autonomous defensive analysis, validation, security decisions and adaptable controls. |
+| [Battle Offensive AI](https://github.com/elite-cybersecurity-specialist/battle-offensive-ai) | Agent-assisted research into authorised assessment workflows, test selection and evidence validation. |
 
-**Anonymity & Privacy Architecture.** ECS designs hardened operator devices, separate administration identities, restricted infrastructure access and protected communication routes. The design can use a protected public edge and separate origin, or a Tor-only service for an agreed private workflow. We validate access boundaries and routing against the threat model. [Public internet and payment architecture][public-architecture] · [Tor-only architecture][tor-architecture]
-
-[Department overview][defence-overview] · [ECS Hardening Challenge](https://github.com/elite-cybersecurity-specialist/hardening-challenge)
+[Department overview][ai-overview] · [AI research portfolio][ai-portfolio]
 
 ### 02. Elite Offensive Department
 
@@ -78,7 +79,19 @@ Agreed scopes can include web and mobile applications, APIs, authentication and 
 
 [Department overview][offensive-overview] · [Testing methods][testing-methods] · [ECS Penetration Testing](https://github.com/elite-cybersecurity-specialist/penetration-testing)
 
-### 03. Software & Website Development Department
+### 03. Elite Defence Department
+
+![Elite Defence system hardening across infrastructure, applications, networks and devices](assets/ecs-2026/slides/01-professional-services/01-elite-defence/12-defensive-system-hardening.jpg)
+
+**Defensive System Hardening.** ECS assesses existing configuration, maps applicable controls, applies approved changes and verifies both enforcement and service operation. Scope can include Linux and Windows servers, operating systems, cloud, virtualisation, websites, APIs, databases, endpoints, networks, Wi-Fi, CCTV and IoT. Ongoing work can cover integrity monitoring, controlled updates, encrypted backups and recovery checks.
+
+**Custom Secure Android Phones.** ECS configures GrapheneOS on supported Google Pixel devices for sensitive communications and administration. The agreed setup can cover verified installation, bootloader relocking, app separation, credentials, USB settings, approved encrypted apps and recovery arrangements. [Secure Android illustration][secure-android]
+
+**Anonymity & Privacy Architecture.** ECS designs hardened operator devices, separate administration identities, restricted infrastructure access and protected communication routes. The design can use a protected public edge and separate origin, or a Tor-only service for an agreed private workflow. We validate access boundaries and routing against the threat model. [Public internet and payment architecture][public-architecture] · [Tor-only architecture][tor-architecture]
+
+[Department overview][defence-overview] · [ECS Hardening Challenge](https://github.com/elite-cybersecurity-specialist/hardening-challenge)
+
+### 04. Software & Website Development Department
 
 ![ECS secure software and system development capabilities](assets/ecs-2026/slides/01-professional-services/03-software-website-development/23-system-development-capabilities.jpg)
 
@@ -88,7 +101,7 @@ Agreed scopes can include web and mobile applications, APIs, authentication and 
 
 [Department overview][development-overview] · [Custom secure website types][website-types] · [ECS System Development](https://github.com/elite-cybersecurity-specialist/system-development) · [ECS Custom Secure Websites](https://github.com/elite-cybersecurity-specialist/custom-secure-websites)
 
-### 04. Education & Training Department
+### 05. Education & Training Department
 
 ![ECS three-day university cybersecurity seminar](assets/ecs-2026/slides/01-professional-services/04-education-training/27-university-cybersecurity-seminar.jpg)
 
@@ -101,19 +114,6 @@ ECS offers university seminars, practical workshops and corporate training. The 
 | 3 | Authorised penetration-testing scope, Black/Grey/White Box concepts, reporting and remediation. |
 
 [Department overview][education-overview] · [Three-day seminar outline][seminar-outline]
-
-### 05. AI R&D Department
-
-![ECS AI research and development for defensive AI, offensive research, analytics and prototypes](assets/ecs-2026/slides/01-professional-services/05-ai-research-development/30-ai-research-development-cover.jpg)
-
-ECS researches defensive automation, threat intelligence, security analytics and agent-assisted testing. Research includes developing prototypes, evaluating controls and assessing operational suitability against the requirements of each engagement.
-
-| Research project | Focus |
-| --- | --- |
-| [Battle-Hardened AI](https://github.com/elite-cybersecurity-specialist/battle-hardened-ai) | Autonomous defensive analysis, validation, security decisions and adaptable controls. |
-| [Battle Offensive AI](https://github.com/elite-cybersecurity-specialist/battle-offensive-ai) | Agent-assisted research into authorised assessment workflows, test selection and evidence validation. |
-
-[Department overview][ai-overview] · [AI research portfolio][ai-portfolio]
 
 ## Company Organization
 
