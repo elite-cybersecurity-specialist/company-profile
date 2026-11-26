@@ -20,46 +20,70 @@ Established in Malaysia in 2024, Elite Cybersecurity Specialist (ECS) serves pri
 
 We work with a discreet network of highly skilled cybersecurity specialists and ethical hackers whose identities remain confidential. Our engagements start with the client's systems, critical services and operating constraints, and advance through agreed changes and verification to a documented handover.
 
-[Professional Services](#professional-services) · [Company Organization](#company-organization) · [How We Deliver](#how-we-deliver) · [Sales & Pricing](#sales--pricing) · [Contact](#connect-with-elite-cybersecurity-specialist)
+[Organisation & Leadership](#organisational-hierarchy) · [Professional Services](#professional-services) · [Company Organization](#company-organization) · [Field Operations](#field-operations) · [How We Deliver](#how-we-deliver) · [Sales & Pricing](#sales--pricing) · [Contact](#connect-with-elite-cybersecurity-specialist)
 
-## Our 10 Departments
+<a id="our-10-departments"></a>
 
-![Departments 01–05 deliver professional services. Departments 06–10 support company operations.](assets/ecs-2026/source-images/latest-pdf-key-pages/03-ten-departments-overview.png)
+## Our 10 Departments + Field Operations
+
+![ECS has ten departments: five professional-service departments, five company departments and a separate Field Operations function reporting directly to the CEO.](assets/ecs-2026/source-images/latest-pdf-key-pages/03-ten-departments-overview.png)
+
+Five departments deliver professional services and five support company operations. **Field Operations is a separate support function led by the Field Manager, reporting directly to the CEO.**
 
 | Professional Services | Company Organization |
 | --- | --- |
-| [01 · AI R&D](#01-ai-rd-department) | [06 · Governance Risk and Compliance][grc] |
+| [01 · Elite Defence](#01-elite-defence-department) | [06 · Governance Risk and Compliance — under HR][grc] |
 | [02 · Elite Offensive](#02-elite-offensive-department) | [07 · Internal IT][internal-it] |
-| [03 · Elite Defence](#03-elite-defence-department) | [08 · Marketing & Sales (Pre Sales)][pre-sales] |
-| [04 · Software & Website Development](#04-software--website-development-department) | [09 · Post Sales][post-sales] |
-| [05 · Education & Training](#05-education--training-department) | [10 · HR & Finance][hr-finance] |
+| [03 · Software & Website Development](#03-software--website-development-department) | [08 · Marketing & Sales (Pre Sales)][pre-sales] |
+| [04 · Education & Training](#04-education--training-department) | [09 · Post Sales][post-sales] |
+| [05 · AI R&D](#05-ai-rd-department) | [10 · HR & Finance][hr-finance] |
 
 ### Organisational Hierarchy
 
-[![ECS 2–6–2 organisational hierarchy: Chairman, CEO, COO, three directors and three managers. Administration and Governance has two departments, Technical and Professional Services has six, and Business Operations has two.][org-chart]][org-chart]
+[![ECS organisational hierarchy: Chairman, CEO and four directly reporting functions — HR & Finance Manager, CTO, BDM and Field Manager. Ten departments are supported by independent Field Operations. Solid lines show reporting; dotted lines show coordination and material sharing.][org-chart]][org-chart]
 
-**Reporting chain** · Workers → Team Leaders → Managers → Directors → COO → CEO → Chairman
+**Chairman → CEO → HR & Finance Manager, CTO, Business Development Manager (BDM) and Field Manager.**
 
-| Reporting branch | Leadership | Departments |
+| Reporting function | Leadership and departments | Responsibility |
 | --- | --- | --- |
-| Governance & Administration | Director of Governance, HR & Finance → Manager — Governance & Administration | 06 and 10 |
-| Technical & Professional Services | Chief Technology Officer (CTO) → Manager — Internal IT & Technical Services | 01–05 and 07 |
-| Business Operations | Director of Operations → Manager — Business Operations | 08 and 09 |
+| HR, Finance & Governance | HR & Finance Manager → Department 10. GRC (06) reports through HR. | People, administration, financial control, company records and GRC coordination. |
+| Technical & Professional Services | CTO → Internal IT & Technical Services Manager → Departments 01, 02, 03, 04, 05 and 07 → Team Leaders → Staff. | Defensive engineering, offensive assessments, secure development, education, AI research and ECS internal technology. |
+| Business Development | BDM → Marketing & Sales / Pre Sales (08) and Post Sales (09) → Team Leaders → Staff. | Growth, client relationships, commercial coordination, support communication and renewals. |
+| Field Operations | Field Manager → sourcing, logistics, equipment, physical-security and clearance/access-support personnel. | Independent deployment support, working closely with RED TEAM, BLUE TEAM and AI R&D. |
+
+**Solid chart lines show reporting. Dotted lines show coordination and material sharing; they do not create extra management authority.**
+
+#### Leadership and Accountability
+
+| Position | Reports to | Main responsibilities |
+| --- | --- | --- |
+| Chairman | Strategic oversight | Set long-term direction; review performance, major investments and leadership accountability; support strategic relationships. |
+| Chief Executive Officer (CEO) | Chairman | Lead company strategy, budgets, performance and customer commitments; assess technical capability, engineering quality and delivery risk; coordinate the four functional heads. |
+| HR & Finance Manager | CEO | Oversee staffing, payroll, budgets, billing and administration; supervise GRC through HR; coordinate financial approvals and supplier payments with Field Operations. |
+| Chief Technology Officer (CTO) | CEO | Lead technical strategy, research priorities and engineering standards; review complex architecture, testing and evidence; coordinate technical resources and specialist technology requirements. |
+| Internal IT & Technical Services Manager | CTO | Allocate specialists; manage workloads, schedules and dependencies; coordinate delivery, verification, reporting and technical escalations; give Field Operations the crew, location and equipment requirements. |
+| Business Development Manager (BDM) | CEO | Lead opportunities, partnerships, customer relationships and renewals; oversee Pre Sales and Post Sales; coordinate approved scope, quotations and commercial follow-up. |
+| Field Manager | CEO | Lead sourcing and field support; prepare equipment, travel, accommodation, food, physical security and access arrangements; coordinate RED TEAM, BLUE TEAM, AI R&D and Finance requirements. |
+
+**ECS leadership requirement: a CEO without technical cybersecurity skills cannot sustain the company. Strong technical competence is essential.**
+
+Team Leaders assign daily work, guide staff, check quality, monitor progress and escalate issues to the responsible manager. Staff and specialists complete assigned work, follow agreed procedures, document results and report technical or operational issues promptly.
 
 ## Professional Services
 
-### 01. AI R&D Department
+<a id="03-elite-defence-department"></a>
 
-![ECS AI research and development for defensive AI, offensive research, analytics and prototypes](assets/ecs-2026/slides/01-professional-services/05-ai-research-development/30-ai-research-development-cover.jpg)
+### 01. Elite Defence Department
 
-ECS researches defensive automation, threat intelligence, security analytics and agent-assisted testing. Research includes developing prototypes, evaluating controls and assessing operational suitability against the requirements of each engagement.
+![Elite Defence system hardening across infrastructure, applications, networks and devices](assets/ecs-2026/slides/01-professional-services/01-elite-defence/12-defensive-system-hardening.jpg)
 
-| Research project | Focus |
-| --- | --- |
-| [Battle-Hardened AI](https://github.com/elite-cybersecurity-specialist/battle-hardened-ai) | Autonomous defensive analysis, validation, security decisions and adaptable controls. |
-| [Battle Offensive AI](https://github.com/elite-cybersecurity-specialist/battle-offensive-ai) | Agent-assisted research into authorised assessment workflows, test selection and evidence validation. |
+**Defensive System Hardening.** ECS assesses existing configuration, maps applicable controls, applies approved changes and verifies both enforcement and service operation. Scope can include Linux and Windows servers, operating systems, cloud, virtualisation, websites, APIs, databases, endpoints, networks, Wi-Fi, CCTV and IoT. Ongoing work can cover integrity monitoring, controlled updates, encrypted backups and recovery checks.
 
-[Department overview][ai-overview] · [AI research portfolio][ai-portfolio]
+**Custom Secure Android Phones.** ECS configures GrapheneOS on supported Google Pixel devices for sensitive communications and administration. The agreed setup can cover verified installation, bootloader relocking, app separation, credentials, USB settings, approved encrypted apps and recovery arrangements. [Secure Android illustration][secure-android]
+
+**Anonymity & Privacy Architecture.** ECS designs hardened operator devices, separate administration identities, restricted infrastructure access and protected communication routes. The design can use a protected public edge and separate origin, or a Tor-only service for an agreed private workflow. We validate access boundaries and routing against the threat model. [Public internet and payment architecture][public-architecture] · [Tor-only architecture][tor-architecture]
+
+[Department overview][defence-overview] · [ECS Hardening Challenge](https://github.com/elite-cybersecurity-specialist/hardening-challenge)
 
 ### 02. Elite Offensive Department
 
@@ -79,19 +103,9 @@ Agreed scopes can include web and mobile applications, APIs, authentication and 
 
 [Department overview][offensive-overview] · [Testing methods][testing-methods] · [ECS Penetration Testing](https://github.com/elite-cybersecurity-specialist/penetration-testing)
 
-### 03. Elite Defence Department
+<a id="04-software--website-development-department"></a>
 
-![Elite Defence system hardening across infrastructure, applications, networks and devices](assets/ecs-2026/slides/01-professional-services/01-elite-defence/12-defensive-system-hardening.jpg)
-
-**Defensive System Hardening.** ECS assesses existing configuration, maps applicable controls, applies approved changes and verifies both enforcement and service operation. Scope can include Linux and Windows servers, operating systems, cloud, virtualisation, websites, APIs, databases, endpoints, networks, Wi-Fi, CCTV and IoT. Ongoing work can cover integrity monitoring, controlled updates, encrypted backups and recovery checks.
-
-**Custom Secure Android Phones.** ECS configures GrapheneOS on supported Google Pixel devices for sensitive communications and administration. The agreed setup can cover verified installation, bootloader relocking, app separation, credentials, USB settings, approved encrypted apps and recovery arrangements. [Secure Android illustration][secure-android]
-
-**Anonymity & Privacy Architecture.** ECS designs hardened operator devices, separate administration identities, restricted infrastructure access and protected communication routes. The design can use a protected public edge and separate origin, or a Tor-only service for an agreed private workflow. We validate access boundaries and routing against the threat model. [Public internet and payment architecture][public-architecture] · [Tor-only architecture][tor-architecture]
-
-[Department overview][defence-overview] · [ECS Hardening Challenge](https://github.com/elite-cybersecurity-specialist/hardening-challenge)
-
-### 04. Software & Website Development Department
+### 03. Software & Website Development Department
 
 ![ECS secure software and system development capabilities](assets/ecs-2026/slides/01-professional-services/03-software-website-development/23-system-development-capabilities.jpg)
 
@@ -101,7 +115,9 @@ Agreed scopes can include web and mobile applications, APIs, authentication and 
 
 [Department overview][development-overview] · [Custom secure website types][website-types] · [ECS System Development](https://github.com/elite-cybersecurity-specialist/system-development) · [ECS Custom Secure Websites](https://github.com/elite-cybersecurity-specialist/custom-secure-websites)
 
-### 05. Education & Training Department
+<a id="05-education--training-department"></a>
+
+### 04. Education & Training Department
 
 ![ECS three-day university cybersecurity seminar](assets/ecs-2026/slides/01-professional-services/04-education-training/27-university-cybersecurity-seminar.jpg)
 
@@ -115,15 +131,72 @@ ECS offers university seminars, practical workshops and corporate training. The 
 
 [Department overview][education-overview] · [Three-day seminar outline][seminar-outline]
 
+<a id="01-ai-rd-department"></a>
+
+### 05. AI R&D Department
+
+![ECS AI research and development for defensive AI, offensive research, analytics and prototypes](assets/ecs-2026/slides/01-professional-services/05-ai-research-development/30-ai-research-development-cover.jpg)
+
+ECS researches defensive automation, threat intelligence, security analytics and agent-assisted testing. Research includes developing prototypes, evaluating controls and assessing operational suitability against the requirements of each engagement.
+
+| Research project | Focus |
+| --- | --- |
+| [Battle-Hardened AI](https://github.com/elite-cybersecurity-specialist/battle-hardened-ai) | Autonomous defensive analysis, validation, security decisions and adaptable controls. |
+| [Battle Offensive AI](https://github.com/elite-cybersecurity-specialist/battle-offensive-ai) | Agent-assisted research into authorised assessment workflows, test selection and evidence validation. |
+
+[Department overview][ai-overview] · [AI research portfolio][ai-portfolio]
+
+#### Exploit Development & Security Research
+
+![Exploit Development and Security Research within the ECS AI R&D Department: vulnerability research, reverse engineering, root-cause analysis, proof-of-concept development, controlled lab validation and defensive improvement.](assets/ecs-2026/slides/01-professional-services/05-ai-research-development/32-exploit-development-security-research.jpg)
+
+Exploit Development & Security Research is a research function **within the AI R&D Department**. It supports understanding, validation and defensive improvement.
+
+| Research capability | Purpose |
+| --- | --- |
+| Vulnerability research | Study weaknesses and affected components in scoped research environments. |
+| Reverse engineering | Analyse software behaviour, interfaces and implementation details. |
+| Root-cause analysis | Explain why a weakness exists and which trust boundary or control failed. |
+| Proof-of-concept development | Develop controlled demonstrations to validate research hypotheses. |
+| Controlled lab validation | Record conditions, observations, repeatability and research limitations. |
+| Defensive improvement | Translate findings into mitigations, detection opportunities and retest guidance. |
+
+Outputs include documented findings, controlled research demonstrations, technical analysis and practical defensive recommendations. This function remains part of AI R&D.
+
+
 ## Company Organization
 
 | Department | Responsibility |
 | --- | --- |
-| [06 · Governance Risk and Compliance Department][grc] | Owns policy oversight, risk registers, control applicability, third-party risk and audit evidence. |
+| [06 · Governance Risk and Compliance Department][grc] | Reports under HR within HR & Finance. Coordinates policies, risk registers, compliance tracking, third-party risk, audit evidence, exceptions and approvals, with engineering evidence from technical departments. |
 | [07 · Internal IT Department][internal-it] | Runs ECS employee systems, access, the corporate network, asset lifecycle, backups and the internal service desk. |
-| [08 · Marketing & Sales Department (Pre Sales)][pre-sales] | Qualifies enquiries, runs discovery and coordinates technical scoping, proposals and handover to delivery. |
-| [09 · Post Sales Department][post-sales] | Coordinates customer support, specialist escalation, agreed maintenance, service follow-up and renewals. |
-| [10 · HR & Finance Department][hr-finance] | Manages staffing, administration, payroll, budgeting, invoicing and procurement. |
+| [08 · Marketing & Sales Department (Pre Sales)][pre-sales] | Reports through the BDM. Qualifies enquiries, runs discovery and coordinates technical review, proposals, approved presentations and handover to delivery. |
+| [09 · Post Sales Department][post-sales] | Reports through the BDM. Owns customer communication and coordinates support, technical escalation, field visits, agreed maintenance, service follow-up and renewals. |
+| [10 · HR & Finance Department][hr-finance] | Manages staffing, administration, payroll, budgets, billing, financial approvals and supplier-payment records. GRC reports through HR; Field Operations leads specialist sourcing and deployment logistics. |
+
+### Field Operations
+
+**Field Operations is a separate support function led by the Field Manager, who reports directly to the CEO.** It supports RED TEAM and BLUE TEAM deployments and collaborates closely with AI R&D.
+
+The Field Manager coordinates specialist tools, hardware, software, licences, supplier evaluations and rentals; crew transport, drivers, hotels, food and water; equipment storage and protection; physical-security personnel; site passes, equipment-entry approvals and required clearances.
+
+| Supporting position | Responsibility |
+| --- | --- |
+| Sourcing Officers | Identify suitable suppliers, compare products and obtain purchase or rental quotations. |
+| Logistics Coordinators | Arrange crew transport, accommodation, food, deliveries and deployment schedules. |
+| Equipment Custodians | Store, inspect, issue, track, maintain and recover equipment. |
+| Physical Security Personnel | Protect assigned personnel, premises and equipment within agreed arrangements. |
+| Clearance / Access Coordinator | Prepare and track clearances, site permissions, passes and equipment approvals. |
+
+**Field support flow:** Requirements → Sourcing & Costs → Access Arrangements → Readiness Check → Field Support → Return & Records.
+
+Technical teams define the crew, location, timing and equipment requirements. Field Operations compares resources and coordinates arrangements; Finance handles the required financial approvals and supplier payments. The readiness check covers equipment, licences, travel, accommodation, security contacts and approval status. After deployment, equipment is recovered, condition is checked, costs are reconciled and issue/return records are retained.
+
+The client, site owner or relevant approving party grants access. The Field Manager coordinates and tracks permissions, including any client-approved alternative access explicitly included in an exercise scope.
+
+### Materials and Cross-Team Coordination
+
+Pre Sales and Post Sales coordinate the distribution of approved company, service, customer and training materials to relevant teams, including Education & Training. Technical specialists provide subject expertise and instruction. Material sharing and operational collaboration follow the dotted chart lines; formal reporting remains as shown by the solid lines.
 
 ### Security Standards and Company Credentials
 
