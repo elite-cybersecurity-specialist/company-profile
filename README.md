@@ -16,11 +16,24 @@
 
 ## About ECS
 
-Established in Malaysia in 2024, Elite Cybersecurity Specialist (ECS) serves private-sector organisations, businesses and enterprises. Our professional services cover defensive security engineering, authorised offensive assessments, secure development, cybersecurity education and applied AI research.
+**Elite Cybersecurity Specialist (ECS)** is a Malaysia-based cybersecurity company established in 2024, serving private-sector organisations, businesses and enterprises. We bring together defensive security engineering, RED TEAM operations, advanced penetration testing, secure development, education and applied research.
 
-We work with a discreet network of highly skilled cybersecurity specialists and ethical hackers whose identities remain confidential. Our engagements start with the client's systems, critical services and operating constraints, and advance through agreed changes and verification to a documented handover.
+**PRIVATE SECTOR | RED TEAM | PENETRATION TESTING | DEFENSIVE ENGINEERING**
 
-[Organisation & Leadership](#organisational-hierarchy) · [Professional Services](#professional-services) · [Company Organization](#company-organization) · [Field Operations](#field-operations) · [How We Deliver](#how-we-deliver) · [Sales & Pricing](#sales--pricing) · [Contact](#connect-with-elite-cybersecurity-specialist)
+Our work connects the systems a business relies on: its servers, applications, networks, cloud infrastructure, devices and administration workflows. We help clients understand where exposure exists, test what can be exploited, apply appropriate protection and verify the result.
+
+Behind these engagements is a discreet network of highly skilled cybersecurity specialists and ethical hackers whose identities remain confidential. We combine specialist knowledge with practical engineering, clear scope and documented handover so clients can understand the work and maintain the improvements.
+
+| What you need | How ECS helps |
+| --- | --- |
+| Strengthen critical systems | [Advanced system hardening](#01-elite-defence-department), secure configurations and verification across agreed infrastructure. |
+| Test defensive readiness | [RED TEAM operations and penetration testing](#02-elite-offensive-department) that examine attack paths, exploitable weaknesses and detection effectiveness. |
+| Protect sensitive work | [Secure Android engineering and privacy architecture](#01-elite-defence-department), with [counter-surveillance assessment](#spyware-detection-counter-surveillance) where required. |
+| Build secure platforms | [Software, websites and application development](#03-software--website-development-department) designed around users, data and operational requirements. |
+| Develop practical skills | [Cybersecurity education and training](#04-education--training-department) for institutions, professionals and teams. |
+| Investigate emerging challenges | [AI R&D and security research](#05-ai-rd-department), including controlled exploit-development research and defensive improvement. |
+
+[Organisation & Leadership](#organisational-hierarchy) · [Professional Services](#professional-services) · [Spyware Detection](#spyware-detection-counter-surveillance) · [Company Organization](#company-organization) · [Field Operations](#field-operations) · [Red Team Field Manager](#red-team-field-manager) · [How We Deliver](#how-we-deliver) · [Sales & Pricing](#sales--pricing) · [Contact](#connect-with-elite-cybersecurity-specialist)
 
 <a id="our-10-departments"></a>
 
@@ -49,7 +62,7 @@ Five departments deliver professional services and five support company operatio
 | HR, Finance & Governance | HR & Finance Manager → Department 10. GRC (06) reports through HR. | People, administration, financial control, company records and GRC coordination. |
 | Technical & Professional Services | CTO → Internal IT & Technical Services Manager → Departments 01, 02, 03, 04, 05 and 07 → Team Leaders → Staff. | Defensive engineering, offensive assessments, secure development, education, AI research and ECS internal technology. |
 | Business Development | BDM → Marketing & Sales / Pre Sales (08) and Post Sales (09) → Team Leaders → Staff. | Growth, client relationships, commercial coordination, support communication and renewals. |
-| Field Operations | Field Manager → sourcing, logistics, equipment, physical-security and clearance/access-support personnel. | Independent deployment support, working closely with RED TEAM, BLUE TEAM and AI R&D. |
+| Field Operations | Field Manager → sourcing, logistics, equipment, physical-security and clearance/access-support personnel. | Independent deployment support for law-enforcement or government-approved assignments, working closely with RED TEAM, BLUE TEAM and AI R&D. |
 
 **Solid chart lines show reporting. Dotted lines show coordination and material sharing; they do not create extra management authority.**
 
@@ -77,11 +90,48 @@ Team Leaders assign daily work, guide staff, check quality, monitor progress and
 
 ![Elite Defence system hardening across infrastructure, applications, networks and devices](assets/ecs-2026/slides/01-professional-services/01-elite-defence/12-defensive-system-hardening.jpg)
 
-**Defensive System Hardening.** ECS assesses existing configuration, maps applicable controls, applies approved changes and verifies both enforcement and service operation. Scope can include Linux and Windows servers, operating systems, cloud, virtualisation, websites, APIs, databases, endpoints, networks, Wi-Fi, CCTV and IoT. Ongoing work can cover integrity monitoring, controlled updates, encrypted backups and recovery checks.
+**Defensive System Hardening.** A secure configuration has to work with the services people depend on. ECS studies the existing environment, maps applicable controls, applies approved changes and verifies security enforcement alongside service operation. Scope can include Linux and Windows servers, operating systems, cloud, virtualisation, websites, APIs, databases, endpoints, networks, Wi-Fi, CCTV and IoT. Ongoing work can cover integrity monitoring, controlled updates, encrypted backups and recovery checks.
 
-**Custom Secure Android Phones.** ECS configures GrapheneOS on supported Google Pixel devices for sensitive communications and administration. The agreed setup can cover verified installation, bootloader relocking, app separation, credentials, USB settings, approved encrypted apps and recovery arrangements. [Secure Android illustration][secure-android]
+**Custom Secure Android Phones.** Sensitive communications and administration need a carefully prepared device and a workable operating routine. ECS configures GrapheneOS on supported Google Pixel devices, with an agreed setup that can cover verified installation, bootloader relocking, app separation, credentials, USB settings, approved encrypted apps and recovery arrangements. [Secure Android illustration][secure-android]
 
-**Anonymity & Privacy Architecture.** ECS designs hardened operator devices, separate administration identities, restricted infrastructure access and protected communication routes. The design can use a protected public edge and separate origin, or a Tor-only service for an agreed private workflow. We validate access boundaries and routing against the threat model. [Public internet and payment architecture][public-architecture] · [Tor-only architecture][tor-architecture]
+**Enhanced Anonymity & Privacy Architecture.** Privacy-sensitive work requires attention to devices, identities, infrastructure and communication routes together. ECS designs hardened operator devices, separate administration identities, restricted infrastructure access and protected communications. Depending on the agreed workflow, the design can use a protected public edge with a separate origin, or a Tor-only private service. Access boundaries and routing are validated against the threat model, with operating guidance for the people using the environment. [Public internet and payment architecture][public-architecture] · [Tor-only architecture][tor-architecture]
+
+<a id="spyware-detection-counter-surveillance"></a>
+
+#### Spyware Detection & Counter-Surveillance
+
+Privacy concerns deserve a careful assessment and a clear explanation of the findings. ECS helps clients investigate hidden surveillance and protect their privacy, including people who may not realise they are being monitored. Elite Defence leads the technical assessment within agreed locations, assets, permissions and confidentiality requirements.
+
+The inspection scope can include rooms, offices, vehicles, hidden cameras, microphones, recording equipment, tracking devices, suspicious enclosures and accessible wiring. Authorised reviews can also cover phones, computers, routers and Wi-Fi for signs of compromise or unauthorised monitoring.
+
+**Concealed surveillance and observation examples**
+
+![Illustrated concealment examples for privacy inspections: keyboard and mouse enclosures, recording glasses, button and bag cameras, light-bulb and smoke-alarm devices, USB charger cameras, wired cameras and microphones, audio recorders, vehicle trackers, two-way observation glass and console-style enclosures.](assets/ecs-2026/slides/01-professional-services/01-elite-defence/concealed-surveillance-examples.png)
+
+These illustrations explain what may require inspection. Findings are established through physical inspection and appropriate technical assessment.
+
+**Inspection and detection equipment**
+
+![ECS spyware detection and counter-surveillance toolkit: non-linear junction detection, RF analysis, optical camera lens finding, video borescope inspection, mirror and glass checks, cable and line inspection, physical and vehicle inspection, and digital forensic review.](assets/ecs-2026/slides/01-professional-services/01-elite-defence/spyware-detection-counter-surveillance.png)
+
+| Inspection method | Purpose |
+| --- | --- |
+| Non-linear junction detection | Search for concealed electronic components, including some inactive or non-transmitting devices. |
+| RF analysis and near-field detection | Investigate active radio transmissions within the equipment's coverage. |
+| Optical camera lens finding | Look for exposed camera-lens reflections with a suitable viewing angle and line of sight. |
+| Video borescope inspection | Examine accessible cavities, enclosures and difficult-to-view spaces. |
+| Mirror and glass inspection | Check lighting, light transmission, backing and installation, including accessible space behind observation glass. |
+| Cable and line inspection | Examine accessible wiring, connections and connected devices. |
+| Physical and vehicle inspection | Inspect accessible compartments, mounting points and suspicious objects. |
+| Digital forensic review | Review authorised devices and relevant network findings; document observations and preserve evidence records. |
+
+The useful question is what the inspection can establish about a particular device, signal or location. Specialists combine methods suited to the equipment and available access, review suspected findings, explain their significance and recommend appropriate protective action.
+
+**Assessment flow:** Consultation & Scope → Physical Inspection → Technical Assessment → Document Findings → Protective Action → Follow-Up & Verify.
+
+Elite Defence owns the technical assessment. AI R&D supports technical analysis and detection research; Post Sales coordinates customer follow-up. For law-enforcement or government-approved field assignments, the [Red Team Field Manager](#red-team-field-manager) coordinates the required equipment, specialists, transport, physical security and approved site access.
+
+**Surveillance equipment installation or deployment is offered only to government and law-enforcement agencies, with lawful authority and written authorisation.** Detection and privacy-protection assessments support private-sector clients and people seeking help.
 
 [Department overview][defence-overview] · [ECS Hardening Challenge](https://github.com/elite-cybersecurity-specialist/hardening-challenge)
 
@@ -89,7 +139,7 @@ Team Leaders assign daily work, guide staff, check quality, monitor progress and
 
 ![RED TEAM operations, penetration testing and security assessments](assets/ecs-2026/slides/01-professional-services/02-elite-offensive/19-red-team-penetration-testing.jpg)
 
-**RED TEAM Operations & Advanced Penetration Testing.** ECS agrees written authorisation, test boundaries and objectives with the asset owner. RED TEAM exercises simulate relevant adversaries and validate attack paths, security controls, detection and response. Penetration testing discovers and validates exploitable weaknesses, records their impact, and gives the client remediation and retest priorities.
+**RED TEAM Operations & Advanced Penetration Testing.** Understanding a weakness becomes more useful when its impact and the defensive response are tested. ECS agrees written authorisation, test boundaries and objectives with the asset owner. RED TEAM exercises simulate relevant adversaries and validate attack paths, security controls, detection and response. Penetration testing discovers and validates exploitable weaknesses, records their impact and gives the client clear remediation and retest priorities.
 
 | Assessment | Scope and approach |
 | --- | --- |
@@ -109,9 +159,9 @@ Agreed scopes can include web and mobile applications, APIs, authentication and 
 
 ![ECS secure software and system development capabilities](assets/ecs-2026/slides/01-professional-services/03-software-website-development/23-system-development-capabilities.jpg)
 
-**Cybersecurity System Development.** ECS designs and develops applications, custom software, APIs, databases, integrations and security automation. Delivery covers requirements and data flows, architecture, secure coding, dependency review, functional and security testing, deployment and handover.
+**Cybersecurity System Development.** Good software needs to support the way an organisation works while protecting its users and data. ECS designs and develops applications, custom software, APIs, databases, integrations and security automation. Delivery covers requirements and data flows, architecture, secure coding, dependency review, functional and security testing, deployment and handover.
 
-**Custom Secure Websites.** ECS plans user roles, authentication, sessions and data handling together with deployment. Projects can include corporate sites, online stores, portals, dashboards and custom web applications. Scope can include origin hardening, edge protection, hosted payment integrations, logging, backups and recovery.
+**Custom Secure Websites.** Security is considered from the first design decisions: who can sign in, what each role can do, how sessions behave, where data goes and how the site is deployed. Projects can include corporate sites, online stores, portals, dashboards and custom web applications. Scope can include origin hardening, edge protection, hosted payment integrations, logging, backups and recovery.
 
 [Department overview][development-overview] · [Custom secure website types][website-types] · [ECS System Development](https://github.com/elite-cybersecurity-specialist/system-development) · [ECS Custom Secure Websites](https://github.com/elite-cybersecurity-specialist/custom-secure-websites)
 
@@ -121,7 +171,7 @@ Agreed scopes can include web and mobile applications, APIs, authentication and 
 
 ![ECS three-day university cybersecurity seminar](assets/ecs-2026/slides/01-professional-services/04-education-training/27-university-cybersecurity-seminar.jpg)
 
-ECS offers university seminars, practical workshops and corporate training. The proposed three-day university programme covers 25 planned subjects, with scope and materials agreed with each institution.
+ECS turns practical cybersecurity work into structured learning through university seminars, hands-on workshops and corporate training. Sessions connect technical concepts with demonstrations, guided exercises, reporting and the responsibilities of authorised work. The proposed three-day university programme covers 25 planned subjects, with scope and materials agreed with each institution.
 
 | Day | Focus |
 | --- | --- |
@@ -137,7 +187,7 @@ ECS offers university seminars, practical workshops and corporate training. The 
 
 ![ECS AI research and development for defensive AI, offensive research, analytics and prototypes](assets/ecs-2026/slides/01-professional-services/05-ai-research-development/30-ai-research-development-cover.jpg)
 
-ECS researches defensive automation, threat intelligence, security analytics and agent-assisted testing. Research includes developing prototypes, evaluating controls and assessing operational suitability against the requirements of each engagement.
+AI R&D explores how specialist software and automation can support cybersecurity decisions, investigation and engineering. ECS researches defensive automation, threat intelligence, security analytics and agent-assisted testing. Work includes developing prototypes, evaluating controls and assessing operational suitability against the requirements of each engagement.
 
 | Research project | Focus |
 | --- | --- |
@@ -150,7 +200,7 @@ ECS researches defensive automation, threat intelligence, security analytics and
 
 ![Exploit Development and Security Research within the ECS AI R&D Department: vulnerability research, reverse engineering, root-cause analysis, proof-of-concept development, controlled lab validation and defensive improvement.](assets/ecs-2026/slides/01-professional-services/05-ai-research-development/32-exploit-development-security-research.jpg)
 
-Exploit Development & Security Research is a research function **within the AI R&D Department**. It supports understanding, validation and defensive improvement.
+Exploit Development & Security Research is a research function **within the AI R&D Department**. Researchers examine how a weakness arises, whether it can be reproduced under controlled conditions and which changes can reduce the risk. The work connects vulnerability understanding with validation and practical defensive improvement.
 
 | Research capability | Purpose |
 | --- | --- |
@@ -176,9 +226,44 @@ Outputs include documented findings, controlled research demonstrations, technic
 
 ### Field Operations
 
-**Field Operations is a separate support function led by the Field Manager, who reports directly to the CEO.** It supports RED TEAM and BLUE TEAM deployments and collaborates closely with AI R&D.
+**Field Operations is a separate support function led by the Field Manager, reporting directly to the CEO.** It coordinates sourcing, logistics, equipment readiness, physical security and approved access, working with RED TEAM, BLUE TEAM, AI R&D and Finance.
 
-The Field Manager coordinates specialist tools, hardware, software, licences, supplier evaluations and rentals; crew transport, drivers, hotels, food and water; equipment storage and protection; physical-security personnel; site passes, equipment-entry approvals and required clearances.
+<a id="red-team-field-manager"></a>
+
+#### Red Team Field Manager (RTFM)
+
+![ECS Red Team Field Manager: reports directly to the CEO and coordinates specialist sourcing, approved access, deployment logistics, team security and equipment readiness. Law enforcement or government-approved assignments only. No private engagements.](assets/ecs-2026/slides/02-company-organization/field-operations/red-team-field-manager.png)
+
+> **RTFM assignments: law enforcement or government-approved jobs only. No private engagements.**
+
+A team can have exceptional operators and still be unable to deploy. Equipment has to arrive, access has to be approved, specialists have to be ready, and the crew needs transport, accommodation, food and security. The **Red Team Field Manager** makes those moving parts work together.
+
+The role combines equipment knowledge, practical judgement and coordination. The RTFM understands what an assignment requires, which specialists must prepare and operate the tools, and what support those people need throughout the deployment. Engineers and technicians carry out programming, installation, configuration and technical operation; the Field Manager coordinates their readiness and support.
+
+**The red team cannot function without him.** The team depends on someone taking responsibility for the permissions, resources and practical arrangements that allow the work to proceed.
+
+##### Authority, Access and Accountability
+
+The Field Manager reports directly to the CEO and leads the field-support personnel. Authority comes from ECS management and the written approval for the assignment. Access, clearances, site passes and any special permissions are granted by the relevant approving party and tracked against the agreed scope.
+
+| Responsibility | What the RTFM coordinates |
+| --- | --- |
+| Specialist sourcing | Suitable tools, hardware, software, licences, evaluation units, suppliers and qualified specialists. |
+| Equipment readiness | Compatibility, accessories, configuration responsibilities, storage, issue records and recovery. |
+| Deployment logistics | Crew transport, drivers, travel, hotels, meals, water, deliveries and schedules. |
+| Team and equipment security | Assigned security personnel, protection arrangements, secure storage and practical support. |
+| Approved access | Written permissions, clearances, site passes, equipment entry and approved access arrangements. |
+| Technical coordination | Requirements from RED TEAM, BLUE TEAM and AI R&D, with Finance handling the required financial approvals and supplier payments. |
+
+##### Equipment Knowledge That Supports the Team
+
+![Illustrative ECS field-equipment selection: Flipper Zero, Hak5 WiFi Pineapple, Google Pixel 10, Lenovo ThinkPad X1 Carbon, AGM NVG-40, DJI Mavic 3 Enterprise, Axon Body 4, Motorola MOTOTRBO R7, EcoFlow RIVER 2 and Pelican 1535 Air.](assets/ecs-2026/slides/02-company-organization/field-operations/red-team-field-equipment.png)
+
+Knowing the equipment means understanding its purpose, compatibility, accessories, specialist requirements, availability and support needs. The RTFM can source through local and overseas suppliers, compare purchases with rentals and coordinate delivery, preparation and maintenance.
+
+The branded products shown are equipment examples for sourcing and planning. The approved assignment determines the actual selection. When appointed to a government-approved or law-enforcement counter-surveillance assignment, the RTFM arranges the field resources while Elite Defence leads the technical inspection.
+
+##### The People Behind Deployment Readiness
 
 | Supporting position | Responsibility |
 | --- | --- |
@@ -190,9 +275,13 @@ The Field Manager coordinates specialist tools, hardware, software, licences, su
 
 **Field support flow:** Requirements → Sourcing & Costs → Access Arrangements → Readiness Check → Field Support → Return & Records.
 
-Technical teams define the crew, location, timing and equipment requirements. Field Operations compares resources and coordinates arrangements; Finance handles the required financial approvals and supplier payments. The readiness check covers equipment, licences, travel, accommodation, security contacts and approval status. After deployment, equipment is recovered, condition is checked, costs are reconciled and issue/return records are retained.
+Before deployment, technical teams define the crew, location, timing and equipment requirements. Field Operations coordinates resources, suppliers, approved access and practical arrangements; Finance handles the required financial approvals and supplier payments. The readiness check covers equipment, licences, travel, accommodation, security contacts and approval status.
 
-The client, site owner or relevant approving party grants access. The Field Manager coordinates and tracks permissions, including any client-approved alternative access explicitly included in an exercise scope.
+During the assignment, the Field Manager coordinates deliveries, movements, replacements and practical support. After deployment, equipment is recovered, its condition is checked, costs are reconciled and issue/return records are retained.
+
+The client, site owner or relevant approving party grants access. The Field Manager coordinates and tracks permissions, including any approved alternative access explicitly included in the exercise scope.
+
+**Operational principle:** the right people, the right equipment, the required permissions and practical support, ready when the assignment begins.
 
 ### Materials and Cross-Team Coordination
 
@@ -215,7 +304,7 @@ The corporate roadmap includes the Sdn. Bhd. transition and work toward applicab
 
 **Discover → Scope → Baseline → Execute → Verify → Handover**
 
-The engagement begins with asset ownership, critical services, dependencies and agreed boundaries. ECS then records the baseline, implements or tests within change controls, and verifies the agreed security and service outcomes before handover.
+Every engagement starts with a shared understanding of the environment: who owns the assets, which services matter, where the dependencies lie and what work is authorised. ECS records the baseline, implements or tests within the agreed change controls and verifies the security and service outcomes. Handover gives the client the findings, evidence and guidance needed for the next stage.
 
 ### What Clients Receive
 
